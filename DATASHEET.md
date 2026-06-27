@@ -35,10 +35,11 @@ Following *Datasheets for Datasets* (Gebru et al., 2021).
 - **License: CC BY-NC 4.0** for all original material (alignment + linkage
   annotations, toolkit, baselines, docs). See `LICENSE`.
 - **Initial release = annotations + documentation.** This release ships the
-  scene→shot alignment labels, subtitle→shot linkage metadata, and docs. The
-  evaluation toolkit, baselines, and data-preparation pipeline (parser +
-  shot-subtitle mapping) are **forthcoming** — see the repo Roadmap.
-- **Hybrid release (copyright).** Verbatim screenplay text, subtitle text,
+  parsed screenplays, scene→shot alignment labels, subtitle→shot linkage
+  metadata, and docs. The evaluation toolkit, baselines, and data-preparation
+  pipeline (parser + shot-subtitle mapping) are **forthcoming** — see the repo
+  Roadmap.
+- **Hybrid release (copyright).** Subtitle text (stripped from linkages),
   posters, and movie frames are **not** redistributed. They are obtained from
   MovieNet under MovieNet's terms; see `data/README.md`.
 - **Hosting.** GitHub.

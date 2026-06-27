@@ -34,22 +34,27 @@ IMPORTANT — Third-party material and scope of this license
 This benchmark is derived from MovieNet (Huang et al., ECCV 2020). The
 CC BY-NC 4.0 license above covers ONLY the original material created by the
 authors of this work, namely:
+  * the PARSED SCREENPLAY structure (data/screenplays/),
   * the screenplay-to-shot ALIGNMENT annotations (data/alignments/),
   * the subtitle-to-shot LINKAGE timing/metadata (data/linkages/), and
-  * the toolkit, baselines, and documentation (src/, docs/).
+  * the documentation (docs/).
 
-It does NOT grant any rights to underlying copyrighted material that this
-repository does not redistribute, including but not limited to:
-  * verbatim screenplay text,
-  * movie subtitles,
+The textual content within data/screenplays/ originates from screenplays
+distributed by MovieNet and remains subject to the rights of the original
+rights holders; the authors' license covers their parsing and structuring of
+that material, not the underlying copyright. It is provided for non-commercial
+research use only.
+
+This license does NOT grant any rights to underlying copyrighted material that
+this repository does not redistribute, including but not limited to:
+  * movie subtitle text (stripped from data/linkages/),
   * movie poster images, and
   * movie frames / keyframes.
 
 Those assets remain the property of their respective rights holders. They are
 NOT included in this repository and must be obtained by the user from
 MovieNet (and other original sources) under those sources' own licenses and
-terms of use. See data/README.md for instructions on regenerating them
-locally. By using this benchmark you agree to comply with the terms of
-MovieNet and of the original rights holders.
+terms of use. See data/README.md for details. By using this benchmark you agree
+to comply with the terms of MovieNet and of the original rights holders.
 
 When citing this benchmark, please also cite MovieNet (see CITATION.cff).

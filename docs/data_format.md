@@ -1,18 +1,17 @@
 # Data Format
 
 The benchmark covers **50 feature films** identified by their IMDb ID
-(`ttXXXXXXX`). Each film has four per-movie assets. Two of them — **alignment**
-and **linkage** — are the authors' original annotations and ship in this
-repository. The other two — **screenplay** and **posters/keyframes** — contain
-copyrighted material and are *not* redistributed; they are obtained from
-MovieNet (see [`../data/README.md`](../data/README.md)).
+(`ttXXXXXXX`). The authors' original annotations — **screenplay** (parsed),
+**alignment**, and **linkage** — ship in this repository. **Posters and
+keyframes** contain copyrighted media and are *not* redistributed; they are
+obtained from MovieNet (see [`../data/README.md`](../data/README.md)).
 
 ```
 data/
 ├── movie_ids.txt            # 50 IMDb IDs, one per line
+├── screenplays/{imdb}.json  # parsed screenplay, scene-level (shipped)
 ├── alignments/{imdb}.json   # scene → shot alignment (shipped)
 ├── linkages/{imdb}.json     # subtitle → shot timing/metadata (shipped, text stripped)
-├── screenplays/{imdb}.json  # parsed screenplay (from MovieNet — parser coming soon)
 └── posters/{imdb}.jpg        # movie poster (from MovieNet)
 ```
 
@@ -97,12 +96,11 @@ Each `mappings` entry:
 > the `text` field from MovieNet enables them. Vision-only and alignment metrics
 > work from `shots`/timings alone.
 
-## 3. `screenplays/{imdb}.json` — parsed screenplay *(regenerate locally)*
+## 3. `screenplays/{imdb}.json` — parsed screenplay *(shipped)*
 
 A list of **scene** objects, in screenplay order. Index *i* in this list is
-scene ID *i* used by the alignment. **Not redistributed** (verbatim screenplay
-text is copyrighted); produced from MovieNet scripts by the screenplay parser
-(*parser coming soon* — see the repo Roadmap).
+scene ID *i* used by the alignment. Produced from MovieNet scripts by the
+screenplay parser (parser code coming soon — see the repo Roadmap).
 
 ```json
 [

@@ -21,8 +21,8 @@ decades**, with **53K+ human-verified shot-level scene alignments**.
 ## Highlights
 
 - **Benchmark:** 50 films · 7,248 scenes · 53,448 scene→shot pairs · 9 decades.
-- **Annotations shipped here:** scene→shot **alignment** labels + subtitle→shot
-  **linkage** timing/metadata.
+- **Annotations shipped here:** parsed **screenplays** (scene-level) + scene→shot
+  **alignment** labels + subtitle→shot **linkage** timing/metadata.
 - **Metrics:** `mSIoU` (primary), `BndF1`, dialogue/non-dialogue
   `IoU_d`/`IoU_nd`, retrieval `R@k` — see [`docs/pipeline.md`](./docs/pipeline.md).
 - **Baselines (in the paper; code coming soon):** BM25/TF-IDF ·
@@ -45,7 +45,7 @@ Full tables, FG-CLIP 2, and the 5-fold movie-level CV for α:
 
 ```
 .
-├── data/            # alignment + linkage annotations (shipped) + data guide
+├── data/            # screenplay + alignment + linkage annotations (shipped) + data guide
 │   └── README.md    # MovieNet source, what ships vs. what to obtain
 ├── docs/            # data_format (schema) · pipeline/metrics · leaderboard · results/
 ├── DATASHEET.md     # datasheet for datasets
@@ -57,11 +57,12 @@ Full tables, FG-CLIP 2, and the 5-fold movie-level CV for α:
 This benchmark is derived from **[MovieNet](https://movienet.github.io/)**. To
 respect copyright, it follows a **hybrid release**:
 
-- **Shipped here (CC BY-NC 4.0):** the scene→shot **alignment** labels and
-  subtitle→shot **linkage** timing/metadata — the actual annotation
-  contribution (`data/alignments/`, `data/linkages/`).
-- **Obtain from MovieNet:** verbatim screenplay text, subtitle text, posters,
-  and movie frames are **not** redistributed. Get MovieNet under its own terms.
+- **Shipped here (CC BY-NC 4.0):** parsed **screenplays**, scene→shot
+  **alignment** labels, and subtitle→shot **linkage** timing/metadata — the
+  annotation contribution (`data/screenplays/`, `data/alignments/`,
+  `data/linkages/`).
+- **Obtain from MovieNet:** subtitle text (stripped from linkages), posters, and
+  movie frames are **not** redistributed. Get MovieNet under its own terms.
 
 How the annotations relate to MovieNet, the source components, and the data
 schema: [`data/README.md`](./data/README.md) and
@@ -75,8 +76,8 @@ Planned for upcoming releases:
       and the main/rebuttal baselines (text, contrastive, FG-CLIP 2, Qwen3-VL,
       fusion).
 - [ ] **Data-preparation pipeline** — (1) screenplay parser → scene JSON,
-      (2) shot-subtitle mapping → linkage JSON, plus helpers to regenerate
-      screenplays/keyframes/posters from MovieNet.
+      (2) shot-subtitle mapping → linkage JSON, plus helpers to fetch
+      keyframes/posters from MovieNet.
 - [ ] Parser source + clarification of how per-scene element count `L_j` is
       determined (reviewer request).
 

@@ -36,6 +36,7 @@ From the source above we produced, for each of the 50 films, two artifacts that
 |---|---|---|
 | `alignments/{imdb}.json` | ✅ shipped | scene→shot **alignment** labels (human-verified) |
 | `linkages/{imdb}.json` | ✅ shipped | subtitle→shot **linkage** timing/metadata |
+| `screenplays/{imdb}.json` | ✅ shipped | **parsed screenplay**, scene-level tagged elements |
 
 These are the benchmark's contribution. The subtitle **`text`** field inside
 `linkages/` is removed (it is MovieNet/source-copyrighted); all timing, shot
@@ -46,7 +47,6 @@ indices, and calibration metadata remain. See
 
 | Asset | In this repo? | How to get it |
 |---|---|---|
-| screenplay text (parsed) | ❌ not shipped | from MovieNet `script/` (parser coming soon) |
 | subtitle `text` in linkages | ❌ stripped | from MovieNet `subtitle/` (`.srt`) |
 | posters | ❌ not shipped | from MovieNet `meta/` poster URLs |
 | keyframes (shot frames) | ❌ not shipped | from MovieNet `240P_frames/` |
@@ -57,29 +57,29 @@ Two preprocessing steps turn MovieNet raw material into the units used here:
 
 1. **Screenplay parsing** — the raw screenplay text is parsed into **scene
    units**, each scene a list of tagged elements (heading / action / character /
-   dialogue / …). Output: the scene-level `screenplays/{imdb}.json` schema that
-   `alignments/` indexes into.
+   dialogue / …). Output: the scene-level `screenplays/{imdb}.json` that
+   `alignments/` indexes into (**shipped here**).
 2. **Shot-subtitle mapping** — `.srt` subtitle cues are aligned to shots using
    an estimated frame rate and offset, producing the shot-level
    `linkages/{imdb}.json` (which shot each cue falls in, with timing and
    calibration metadata).
 
-> **Coming soon.** The preprocessing/regeneration **scripts** (screenplay
-> parser, shot-subtitle mapping, and helpers to rebuild
-> screenplays/keyframes/posters from MovieNet) are not part of this initial
-> data release. They will be published in an upcoming release together with the
-> evaluation toolkit — see the repo [Roadmap](../README.md#roadmap). The shipped
-> `alignments/` and `linkages/` are the benchmark contribution and do not depend
-> on those scripts.
+> **Coming soon.** The preprocessing **scripts** (screenplay parser,
+> shot-subtitle mapping, and helpers to rebuild keyframes/posters from MovieNet)
+> are not part of this initial data release. They will be published in an
+> upcoming release together with the evaluation toolkit — see the repo
+> [Roadmap](../README.md#roadmap). The shipped `screenplays/`, `alignments/`,
+> and `linkages/` are the benchmark contribution and do not depend on those
+> scripts.
 
 ## Target layout (once you add MovieNet-derived assets)
 
 ```
 data/
 ├── movie_ids.txt
+├── screenplays/{imdb}.json    (shipped)
 ├── alignments/{imdb}.json     (shipped)
 ├── linkages/{imdb}.json       (shipped; subtitle text removed)
-├── screenplays/{imdb}.json    (from MovieNet — parser coming soon)
 ├── keyframes/{imdb}/*.jpg      (from MovieNet 240P_frames)
 └── posters/{imdb}.jpg          (from MovieNet meta)
 ```
