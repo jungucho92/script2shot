@@ -1,0 +1,4 @@
+method,full_sweep_alpha,full_sweep_mSIoU,cv_alphas,cv_test_mSIoU_mean,cv_test_mSIoU_std,fixed_alpha,fixed_mSIoU_mean,alpha_range_min,alpha_range_max
+clip+bm25,0.5,0.5311,0.5×5,0.5311,0.0712,0.5,0.5311,0.5049,0.5311
+fgclip2_short+bm25,0.5,0.5269,0.5×5,0.5269,0.0668,0.5,0.5269,0.5099,0.5269
+qwen3vl_E3+bm25,0.7,0.5992,0.7×5,0.5992,0.0402,0.5,0.5915,0.5672,0.5992

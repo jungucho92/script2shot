@@ -1,0 +1,72 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite the paper below (and MovieNet)."
+title: "From Script to Shot: A Benchmark for Grounding Screenplays in Movies"
+type: dataset
+license: CC-BY-NC-4.0
+authors:
+  - family-names: Cho
+    given-names: Jungu
+  - family-names: Park
+    given-names: Young-Jae
+  - family-names: Ha
+    given-names: Seong Jong
+  - family-names: Kim
+    given-names: Siyeol
+  - family-names: Park
+    given-names: Seungho
+  - family-names: Shin
+    given-names: Jisu
+  - family-names: Lee
+    given-names: Junmyeong
+  - family-names: Hwang
+    given-names: Chaemin
+  - family-names: Jung
+    given-names: Hyunjun
+  - family-names: Lee
+    given-names: Sangeyl
+  - family-names: Jeon
+    given-names: Hae-Gon
+preferred-citation:
+  type: conference-paper
+  title: "From Script to Shot: A Benchmark for Grounding Screenplays in Movies"
+  year: 2026
+  collection-title: "Proceedings of the European Conference on Computer Vision (ECCV)"
+  authors:
+    - family-names: Cho
+      given-names: Jungu
+    - family-names: Park
+      given-names: Young-Jae
+    - family-names: Ha
+      given-names: Seong Jong
+    - family-names: Kim
+      given-names: Siyeol
+    - family-names: Park
+      given-names: Seungho
+    - family-names: Shin
+      given-names: Jisu
+    - family-names: Lee
+      given-names: Junmyeong
+    - family-names: Hwang
+      given-names: Chaemin
+    - family-names: Jung
+      given-names: Hyunjun
+    - family-names: Lee
+      given-names: Sangeyl
+    - family-names: Jeon
+      given-names: Hae-Gon
+references:
+  - type: conference-paper
+    title: "MovieNet: A Holistic Dataset for Movie Understanding"
+    year: 2020
+    collection-title: "European Conference on Computer Vision (ECCV)"
+    authors:
+      - family-names: Huang
+        given-names: Qingqiu
+      - family-names: Xiong
+        given-names: Yu
+      - family-names: Rao
+        given-names: Anyi
+      - family-names: Wang
+        given-names: Jiaze
+      - family-names: Lin
+        given-names: Dahua

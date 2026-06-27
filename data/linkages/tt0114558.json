@@ -1,0 +1,12203 @@
+{
+  "imdb_id": "tt0114558",
+  "fps": 23.976053,
+  "fps_method": "story_anchors",
+  "fps_anchors": 32,
+  "srt_offset": -0.1975,
+  "total_shots": 2806,
+  "total_subtitles": 1544,
+  "shots_with_subtitle": 1718,
+  "subtitle_coverage": 0.6123,
+  "ann_covered_shots": 1717,
+  "validation_accuracy": 0.9804,
+  "validation_total": 4480,
+  "mappings": [
+    {
+      "shots": [
+        5
+      ],
+      "start_time": 56.914,
+      "end_time": 59.917
+    },
+    {
+      "shots": [
+        8,
+        9
+      ],
+      "start_time": 62.336,
+      "end_time": 63.796
+    },
+    {
+      "shots": [
+        9
+      ],
+      "start_time": 63.837,
+      "end_time": 67.132
+    },
+    {
+      "shots": [
+        9
+      ],
+      "start_time": 67.174,
+      "end_time": 70.47
+    },
+    {
+      "shots": [
+        9,
+        10
+      ],
+      "start_time": 70.512,
+      "end_time": 74.516
+    },
+    {
+      "shots": [
+        10,
+        11
+      ],
+      "start_time": 74.557,
+      "end_time": 77.519
+    },
+    {
+      "shots": [
+        11
+      ],
+      "start_time": 77.56,
+      "end_time": 80.313
+    },
+    {
+      "shots": [
+        11,
+        12
+      ],
+      "start_time": 80.355,
+      "end_time": 85.569
+    },
+    {
+      "shots": [
+        12
+      ],
+      "start_time": 85.61,
+      "end_time": 87.696
+    },
+    {
+      "shots": [
+        12
+      ],
+      "start_time": 87.737,
+      "end_time": 91.325
+    },
+    {
+      "shots": [
+        12
+      ],
+      "start_time": 91.367,
+      "end_time": 94.328
+    },
+    {
+      "shots": [
+        12
+      ],
+      "start_time": 96.289,
+      "end_time": 100.209
+    },
+    {
+      "shots": [
+        12
+      ],
+      "start_time": 100.251,
+      "end_time": 102.336
+    },
+    {
+      "shots": [
+        12
+      ],
+      "start_time": 102.378,
+      "end_time": 104.839
+    },
+    {
+      "shots": [
+        12
+      ],
+      "start_time": 104.88,
+      "end_time": 106.007
+    },
+    {
+      "shots": [
+        12
+      ],
+      "start_time": 106.048,
+      "end_time": 109.553
+    },
+    {
+      "shots": [
+        12
+      ],
+      "start_time": 109.595,
+      "end_time": 110.721
+    },
+    {
+      "shots": [
+        15
+      ],
+      "start_time": 118.478,
+      "end_time": 122.441
+    },
+    {
+      "shots": [
+        15,
+        16,
+        17
+      ],
+      "start_time": 122.524,
+      "end_time": 124.61
+    },
+    {
+      "shots": [
+        17,
+        18
+      ],
+      "start_time": 127.029,
+      "end_time": 130.158
+    },
+    {
+      "shots": [
+        18
+      ],
+      "start_time": 130.199,
+      "end_time": 132.702
+    },
+    {
+      "shots": [
+        19,
+        20,
+        21
+      ],
+      "start_time": 132.744,
+      "end_time": 137.081
+    },
+    {
+      "shots": [
+        21,
+        22,
+        23
+      ],
+      "start_time": 137.123,
+      "end_time": 141.169
+    },
+    {
+      "shots": [
+        23,
+        24,
+        25
+      ],
+      "start_time": 141.21,
+      "end_time": 143.838
+    },
+    {
+      "shots": [
+        25,
+        26
+      ],
+      "start_time": 143.88,
+      "end_time": 145.673
+    },
+    {
+      "shots": [
+        28,
+        29
+      ],
+      "start_time": 148.551,
+      "end_time": 150.638
+    },
+    {
+      "shots": [
+        29,
+        30
+      ],
+      "start_time": 150.679,
+      "end_time": 153.849
+    },
+    {
+      "shots": [
+        30,
+        31
+      ],
+      "start_time": 153.891,
+      "end_time": 157.186
+    },
+    {
+      "shots": [
+        31,
+        32
+      ],
+      "start_time": 157.227,
+      "end_time": 159.855
+    },
+    {
+      "shots": [
+        32,
+        33,
+        34
+      ],
+      "start_time": 159.897,
+      "end_time": 164.36
+    },
+    {
+      "shots": [
+        34
+      ],
+      "start_time": 164.401,
+      "end_time": 168.072
+    },
+    {
+      "shots": [
+        34,
+        35,
+        36
+      ],
+      "start_time": 170.741,
+      "end_time": 173.411
+    },
+    {
+      "shots": [
+        36,
+        37
+      ],
+      "start_time": 173.453,
+      "end_time": 177.165
+    },
+    {
+      "shots": [
+        37,
+        38
+      ],
+      "start_time": 177.207,
+      "end_time": 179.834
+    },
+    {
+      "shots": [
+        38,
+        39
+      ],
+      "start_time": 179.876,
+      "end_time": 183.004
+    },
+    {
+      "shots": [
+        40
+      ],
+      "start_time": 183.046,
+      "end_time": 186.508
+    },
+    {
+      "shots": [
+        40,
+        41,
+        42
+      ],
+      "start_time": 186.549,
+      "end_time": 190.512
+    },
+    {
+      "shots": [
+        42,
+        43
+      ],
+      "start_time": 190.553,
+      "end_time": 192.39
+    },
+    {
+      "shots": [
+        44,
+        45,
+        46
+      ],
+      "start_time": 193.891,
+      "end_time": 196.185
+    },
+    {
+      "shots": [
+        46,
+        47
+      ],
+      "start_time": 196.227,
+      "end_time": 198.604
+    },
+    {
+      "shots": [
+        48,
+        49
+      ],
+      "start_time": 198.646,
+      "end_time": 201.565
+    },
+    {
+      "shots": [
+        49,
+        50
+      ],
+      "start_time": 201.607,
+      "end_time": 203.818
+    },
+    {
+      "shots": [
+        50
+      ],
+      "start_time": 203.859,
+      "end_time": 205.903
+    },
+    {
+      "shots": [
+        50
+      ],
+      "start_time": 205.945,
+      "end_time": 209.031
+    },
+    {
+      "shots": [
+        50,
+        51
+      ],
+      "start_time": 209.073,
+      "end_time": 211.576
+    },
+    {
+      "shots": [
+        51,
+        52
+      ],
+      "start_time": 211.617,
+      "end_time": 213.078
+    },
+    {
+      "shots": [
+        52
+      ],
+      "start_time": 216.081,
+      "end_time": 221.336
+    },
+    {
+      "shots": [
+        52,
+        53
+      ],
+      "start_time": 223.672,
+      "end_time": 226.049
+    },
+    {
+      "shots": [
+        53
+      ],
+      "start_time": 226.091,
+      "end_time": 228.844
+    },
+    {
+      "shots": [
+        55,
+        56
+      ],
+      "start_time": 235.351,
+      "end_time": 238.479
+    },
+    {
+      "shots": [
+        56,
+        57,
+        58
+      ],
+      "start_time": 238.521,
+      "end_time": 242.692
+    },
+    {
+      "shots": [
+        61,
+        62
+      ],
+      "start_time": 246.362,
+      "end_time": 248.656
+    },
+    {
+      "shots": [
+        62
+      ],
+      "start_time": 248.698,
+      "end_time": 251.159
+    },
+    {
+      "shots": [
+        62,
+        63
+      ],
+      "start_time": 251.2,
+      "end_time": 253.369
+    },
+    {
+      "shots": [
+        65,
+        66
+      ],
+      "start_time": 255.08,
+      "end_time": 256.665
+    },
+    {
+      "shots": [
+        66,
+        67,
+        68
+      ],
+      "start_time": 256.707,
+      "end_time": 259.209
+    },
+    {
+      "shots": [
+        68,
+        69
+      ],
+      "start_time": 259.251,
+      "end_time": 261.67
+    },
+    {
+      "shots": [
+        69,
+        70,
+        71
+      ],
+      "start_time": 261.712,
+      "end_time": 265.883
+    },
+    {
+      "shots": [
+        71,
+        72
+      ],
+      "start_time": 265.925,
+      "end_time": 268.135
+    },
+    {
+      "shots": [
+        72,
+        73
+      ],
+      "start_time": 268.177,
+      "end_time": 271.055
+    },
+    {
+      "shots": [
+        73,
+        74
+      ],
+      "start_time": 271.096,
+      "end_time": 274.266
+    },
+    {
+      "shots": [
+        74,
+        75
+      ],
+      "start_time": 274.308,
+      "end_time": 278.104
+    },
+    {
+      "shots": [
+        75,
+        76
+      ],
+      "start_time": 278.146,
+      "end_time": 282.4
+    },
+    {
+      "shots": [
+        76,
+        77
+      ],
+      "start_time": 282.442,
+      "end_time": 286.196
+    },
+    {
+      "shots": [
+        77,
+        78
+      ],
+      "start_time": 286.237,
+      "end_time": 291.034
+    },
+    {
+      "shots": [
+        78,
+        79
+      ],
+      "start_time": 291.076,
+      "end_time": 295.121
+    },
+    {
+      "shots": [
+        79,
+        80
+      ],
+      "start_time": 295.163,
+      "end_time": 297.5
+    },
+    {
+      "shots": [
+        80
+      ],
+      "start_time": 297.541,
+      "end_time": 300.836
+    },
+    {
+      "shots": [
+        80,
+        81
+      ],
+      "start_time": 300.878,
+      "end_time": 303.256
+    },
+    {
+      "shots": [
+        81
+      ],
+      "start_time": 303.297,
+      "end_time": 305.758
+    },
+    {
+      "shots": [
+        81,
+        82
+      ],
+      "start_time": 305.8,
+      "end_time": 310.054
+    },
+    {
+      "shots": [
+        82,
+        83,
+        84
+      ],
+      "start_time": 310.096,
+      "end_time": 312.89
+    },
+    {
+      "shots": [
+        84,
+        85,
+        86
+      ],
+      "start_time": 312.932,
+      "end_time": 316.311
+    },
+    {
+      "shots": [
+        86,
+        87,
+        88
+      ],
+      "start_time": 316.353,
+      "end_time": 319.564
+    },
+    {
+      "shots": [
+        88
+      ],
+      "start_time": 319.606,
+      "end_time": 321.692
+    },
+    {
+      "shots": [
+        88,
+        89
+      ],
+      "start_time": 321.733,
+      "end_time": 323.819
+    },
+    {
+      "shots": [
+        89,
+        90
+      ],
+      "start_time": 323.86,
+      "end_time": 326.196
+    },
+    {
+      "shots": [
+        90
+      ],
+      "start_time": 326.238,
+      "end_time": 329.157
+    },
+    {
+      "shots": [
+        90,
+        91
+      ],
+      "start_time": 329.199,
+      "end_time": 333.579
+    },
+    {
+      "shots": [
+        91
+      ],
+      "start_time": 333.62,
+      "end_time": 335.706
+    },
+    {
+      "shots": [
+        91
+      ],
+      "start_time": 335.747,
+      "end_time": 337.959
+    },
+    {
+      "shots": [
+        91,
+        92
+      ],
+      "start_time": 338.001,
+      "end_time": 340.169
+    },
+    {
+      "shots": [
+        92,
+        93,
+        94
+      ],
+      "start_time": 340.211,
+      "end_time": 344.591
+    },
+    {
+      "shots": [
+        94,
+        95,
+        96
+      ],
+      "start_time": 344.632,
+      "end_time": 347.719
+    },
+    {
+      "shots": [
+        96,
+        97,
+        98
+      ],
+      "start_time": 347.76,
+      "end_time": 350.513
+    },
+    {
+      "shots": [
+        98,
+        99
+      ],
+      "start_time": 350.555,
+      "end_time": 353.558
+    },
+    {
+      "shots": [
+        99,
+        100,
+        101
+      ],
+      "start_time": 353.6,
+      "end_time": 357.646
+    },
+    {
+      "shots": [
+        102
+      ],
+      "start_time": 366.322,
+      "end_time": 369.575
+    },
+    {
+      "shots": [
+        102,
+        103
+      ],
+      "start_time": 369.617,
+      "end_time": 372.62
+    },
+    {
+      "shots": [
+        103,
+        104,
+        105
+      ],
+      "start_time": 372.661,
+      "end_time": 374.747
+    },
+    {
+      "shots": [
+        105,
+        106,
+        107,
+        108
+      ],
+      "start_time": 374.788,
+      "end_time": 377.791
+    },
+    {
+      "shots": [
+        108,
+        109,
+        110
+      ],
+      "start_time": 377.833,
+      "end_time": 379.961
+    },
+    {
+      "shots": [
+        110,
+        111,
+        112,
+        113
+      ],
+      "start_time": 380.003,
+      "end_time": 384.049
+    },
+    {
+      "shots": [
+        113,
+        114,
+        115
+      ],
+      "start_time": 384.09,
+      "end_time": 388.011
+    },
+    {
+      "shots": [
+        115
+      ],
+      "start_time": 388.053,
+      "end_time": 390.639
+    },
+    {
+      "shots": [
+        115,
+        116
+      ],
+      "start_time": 390.68,
+      "end_time": 392.223
+    },
+    {
+      "shots": [
+        122,
+        123,
+        124,
+        125,
+        126,
+        127
+      ],
+      "start_time": 401.233,
+      "end_time": 405.696
+    },
+    {
+      "shots": [
+        127
+      ],
+      "start_time": 405.738,
+      "end_time": 407.823
+    },
+    {
+      "shots": [
+        127
+      ],
+      "start_time": 407.865,
+      "end_time": 412.036
+    },
+    {
+      "shots": [
+        127
+      ],
+      "start_time": 412.078,
+      "end_time": 415.039
+    },
+    {
+      "shots": [
+        127
+      ],
+      "start_time": 415.081,
+      "end_time": 418.709
+    },
+    {
+      "shots": [
+        130
+      ],
+      "start_time": 422.589,
+      "end_time": 425.509
+    },
+    {
+      "shots": [
+        130,
+        131
+      ],
+      "start_time": 425.968,
+      "end_time": 427.552
+    },
+    {
+      "shots": [
+        131,
+        132
+      ],
+      "start_time": 428.22,
+      "end_time": 431.306
+    },
+    {
+      "shots": [
+        132
+      ],
+      "start_time": 431.348,
+      "end_time": 433.934
+    },
+    {
+      "shots": [
+        133,
+        134,
+        135
+      ],
+      "start_time": 434.81,
+      "end_time": 438.397
+    },
+    {
+      "shots": [
+        135,
+        136
+      ],
+      "start_time": 438.438,
+      "end_time": 442.068
+    },
+    {
+      "shots": [
+        136,
+        137
+      ],
+      "start_time": 442.11,
+      "end_time": 444.32
+    },
+    {
+      "shots": [
+        137,
+        138
+      ],
+      "start_time": 444.362,
+      "end_time": 448.032
+    },
+    {
+      "shots": [
+        138,
+        139
+      ],
+      "start_time": 448.074,
+      "end_time": 450.201
+    },
+    {
+      "shots": [
+        139,
+        140
+      ],
+      "start_time": 450.243,
+      "end_time": 453.997
+    },
+    {
+      "shots": [
+        140
+      ],
+      "start_time": 454.038,
+      "end_time": 456.541
+    },
+    {
+      "shots": [
+        140,
+        141
+      ],
+      "start_time": 456.583,
+      "end_time": 460.253
+    },
+    {
+      "shots": [
+        141,
+        142
+      ],
+      "start_time": 460.295,
+      "end_time": 463.007
+    },
+    {
+      "shots": [
+        142,
+        143
+      ],
+      "start_time": 463.048,
+      "end_time": 465.634
+    },
+    {
+      "shots": [
+        143,
+        144,
+        145
+      ],
+      "start_time": 465.676,
+      "end_time": 469.638
+    },
+    {
+      "shots": [
+        145,
+        146,
+        147
+      ],
+      "start_time": 469.68,
+      "end_time": 472.808
+    },
+    {
+      "shots": [
+        147,
+        148,
+        149
+      ],
+      "start_time": 472.85,
+      "end_time": 475.06
+    },
+    {
+      "shots": [
+        149,
+        150,
+        151
+      ],
+      "start_time": 475.102,
+      "end_time": 478.314
+    },
+    {
+      "shots": [
+        151,
+        152,
+        153
+      ],
+      "start_time": 478.355,
+      "end_time": 481.233
+    },
+    {
+      "shots": [
+        154,
+        155
+      ],
+      "start_time": 481.275,
+      "end_time": 483.987
+    },
+    {
+      "shots": [
+        155,
+        156,
+        157
+      ],
+      "start_time": 484.029,
+      "end_time": 486.906
+    },
+    {
+      "shots": [
+        157,
+        158,
+        159
+      ],
+      "start_time": 486.948,
+      "end_time": 490.327
+    },
+    {
+      "shots": [
+        159
+      ],
+      "start_time": 490.368,
+      "end_time": 493.163
+    },
+    {
+      "shots": [
+        159,
+        160
+      ],
+      "start_time": 493.204,
+      "end_time": 495.999
+    },
+    {
+      "shots": [
+        160
+      ],
+      "start_time": 496.041,
+      "end_time": 499.169
+    },
+    {
+      "shots": [
+        160,
+        161
+      ],
+      "start_time": 499.21,
+      "end_time": 503.549
+    },
+    {
+      "shots": [
+        161,
+        162
+      ],
+      "start_time": 503.591,
+      "end_time": 506.26
+    },
+    {
+      "shots": [
+        168
+      ],
+      "start_time": 521.651,
+      "end_time": 523.195
+    },
+    {
+      "shots": [
+        168,
+        169
+      ],
+      "start_time": 523.236,
+      "end_time": 525.322
+    },
+    {
+      "shots": [
+        169,
+        170,
+        171
+      ],
+      "start_time": 525.364,
+      "end_time": 529.868
+    },
+    {
+      "shots": [
+        171,
+        172
+      ],
+      "start_time": 529.91,
+      "end_time": 533.372
+    },
+    {
+      "shots": [
+        178
+      ],
+      "start_time": 543.006,
+      "end_time": 545.385
+    },
+    {
+      "shots": [
+        178,
+        179,
+        180
+      ],
+      "start_time": 545.426,
+      "end_time": 548.888
+    },
+    {
+      "shots": [
+        180,
+        181
+      ],
+      "start_time": 548.93,
+      "end_time": 551.015
+    },
+    {
+      "shots": [
+        181,
+        182
+      ],
+      "start_time": 551.057,
+      "end_time": 552.934
+    },
+    {
+      "shots": [
+        182,
+        183,
+        184
+      ],
+      "start_time": 552.976,
+      "end_time": 556.896
+    },
+    {
+      "shots": [
+        184,
+        185,
+        186
+      ],
+      "start_time": 556.938,
+      "end_time": 560.149
+    },
+    {
+      "shots": [
+        186
+      ],
+      "start_time": 560.191,
+      "end_time": 564.195
+    },
+    {
+      "shots": [
+        186,
+        187,
+        188
+      ],
+      "start_time": 564.237,
+      "end_time": 568.158
+    },
+    {
+      "shots": [
+        188
+      ],
+      "start_time": 568.2,
+      "end_time": 571.161
+    },
+    {
+      "shots": [
+        188,
+        189,
+        190
+      ],
+      "start_time": 571.203,
+      "end_time": 574.623
+    },
+    {
+      "shots": [
+        190,
+        191,
+        192
+      ],
+      "start_time": 574.665,
+      "end_time": 578.335
+    },
+    {
+      "shots": [
+        192,
+        193
+      ],
+      "start_time": 578.377,
+      "end_time": 580.462
+    },
+    {
+      "shots": [
+        193
+      ],
+      "start_time": 580.504,
+      "end_time": 584.592
+    },
+    {
+      "shots": [
+        193,
+        194,
+        195
+      ],
+      "start_time": 584.633,
+      "end_time": 587.178
+    },
+    {
+      "shots": [
+        195,
+        196
+      ],
+      "start_time": 587.22,
+      "end_time": 588.805
+    },
+    {
+      "shots": [
+        196,
+        197
+      ],
+      "start_time": 588.847,
+      "end_time": 592.1
+    },
+    {
+      "shots": [
+        198,
+        199
+      ],
+      "start_time": 597.022,
+      "end_time": 599.524
+    },
+    {
+      "shots": [
+        211,
+        212
+      ],
+      "start_time": 647.324,
+      "end_time": 650.578
+    },
+    {
+      "shots": [
+        212
+      ],
+      "start_time": 650.62,
+      "end_time": 653.414
+    },
+    {
+      "shots": [
+        212
+      ],
+      "start_time": 653.456,
+      "end_time": 657.46
+    },
+    {
+      "shots": [
+        212
+      ],
+      "start_time": 658.544,
+      "end_time": 660.922
+    },
+    {
+      "shots": [
+        222,
+        223,
+        224
+      ],
+      "start_time": 691.079,
+      "end_time": 693.081
+    },
+    {
+      "shots": [
+        229,
+        230
+      ],
+      "start_time": 699.212,
+      "end_time": 701.298
+    },
+    {
+      "shots": [
+        245
+      ],
+      "start_time": 721.027,
+      "end_time": 723.154
+    },
+    {
+      "shots": [
+        252
+      ],
+      "start_time": 736.543,
+      "end_time": 738.42
+    },
+    {
+      "shots": [
+        253,
+        254
+      ],
+      "start_time": 740.464,
+      "end_time": 741.506
+    },
+    {
+      "shots": [
+        256
+      ],
+      "start_time": 759.776,
+      "end_time": 763.071
+    },
+    {
+      "shots": [
+        257
+      ],
+      "start_time": 765.156,
+      "end_time": 767.075
+    },
+    {
+      "shots": [
+        257
+      ],
+      "start_time": 767.116,
+      "end_time": 770.036
+    },
+    {
+      "shots": [
+        257,
+        258,
+        259
+      ],
+      "start_time": 770.078,
+      "end_time": 773.624
+    },
+    {
+      "shots": [
+        260,
+        261
+      ],
+      "start_time": 775.25,
+      "end_time": 777.336
+    },
+    {
+      "shots": [
+        261,
+        262
+      ],
+      "start_time": 777.378,
+      "end_time": 781.423
+    },
+    {
+      "shots": [
+        262,
+        263
+      ],
+      "start_time": 781.465,
+      "end_time": 784.802
+    },
+    {
+      "shots": [
+        279,
+        280,
+        281
+      ],
+      "start_time": 862.925,
+      "end_time": 865.803
+    },
+    {
+      "shots": [
+        283
+      ],
+      "start_time": 867.138,
+      "end_time": 869.766
+    },
+    {
+      "shots": [
+        284
+      ],
+      "start_time": 877.399,
+      "end_time": 880.152
+    },
+    {
+      "shots": [
+        286
+      ],
+      "start_time": 888.285,
+      "end_time": 890.829
+    },
+    {
+      "shots": [
+        286
+      ],
+      "start_time": 890.871,
+      "end_time": 893.082
+    },
+    {
+      "shots": [
+        286
+      ],
+      "start_time": 893.123,
+      "end_time": 895.584
+    },
+    {
+      "shots": [
+        287
+      ],
+      "start_time": 900.757,
+      "end_time": 902.217
+    },
+    {
+      "shots": [
+        288,
+        289
+      ],
+      "start_time": 904.97,
+      "end_time": 906.638
+    },
+    {
+      "shots": [
+        289
+      ],
+      "start_time": 908.598,
+      "end_time": 911.142
+    },
+    {
+      "shots": [
+        289
+      ],
+      "start_time": 911.184,
+      "end_time": 912.269
+    },
+    {
+      "shots": [
+        294
+      ],
+      "start_time": 946.596,
+      "end_time": 948.724
+    },
+    {
+      "shots": [
+        294
+      ],
+      "start_time": 949.599,
+      "end_time": 951.476
+    },
+    {
+      "shots": [
+        294
+      ],
+      "start_time": 953.395,
+      "end_time": 955.606
+    },
+    {
+      "shots": [
+        294
+      ],
+      "start_time": 955.647,
+      "end_time": 957.733
+    },
+    {
+      "shots": [
+        294
+      ],
+      "start_time": 957.774,
+      "end_time": 960.737
+    },
+    {
+      "shots": [
+        296
+      ],
+      "start_time": 962.947,
+      "end_time": 965.033
+    },
+    {
+      "shots": [
+        297,
+        298
+      ],
+      "start_time": 966.743,
+      "end_time": 968.828
+    },
+    {
+      "shots": [
+        298
+      ],
+      "start_time": 968.87,
+      "end_time": 970.955
+    },
+    {
+      "shots": [
+        298
+      ],
+      "start_time": 972.457,
+      "end_time": 974.417
+    },
+    {
+      "shots": [
+        298
+      ],
+      "start_time": 974.459,
+      "end_time": 976.961
+    },
+    {
+      "shots": [
+        298
+      ],
+      "start_time": 977.003,
+      "end_time": 978.88
+    },
+    {
+      "shots": [
+        298
+      ],
+      "start_time": 978.921,
+      "end_time": 981.008
+    },
+    {
+      "shots": [
+        298
+      ],
+      "start_time": 982.176,
+      "end_time": 984.345
+    },
+    {
+      "shots": [
+        298
+      ],
+      "start_time": 985.262,
+      "end_time": 987.64
+    },
+    {
+      "shots": [
+        298,
+        299
+      ],
+      "start_time": 988.724,
+      "end_time": 991.06
+    },
+    {
+      "shots": [
+        299
+      ],
+      "start_time": 991.31,
+      "end_time": 993.187
+    },
+    {
+      "shots": [
+        299
+      ],
+      "start_time": 993.228,
+      "end_time": 996.023
+    },
+    {
+      "shots": [
+        300
+      ],
+      "start_time": 998.525,
+      "end_time": 1000.403
+    },
+    {
+      "shots": [
+        300,
+        301
+      ],
+      "start_time": 1001.988,
+      "end_time": 1003.865
+    },
+    {
+      "shots": [
+        302,
+        303
+      ],
+      "start_time": 1004.616,
+      "end_time": 1006.576
+    },
+    {
+      "shots": [
+        303,
+        304
+      ],
+      "start_time": 1006.618,
+      "end_time": 1009.537
+    },
+    {
+      "shots": [
+        304
+      ],
+      "start_time": 1011.206,
+      "end_time": 1013.083
+    },
+    {
+      "shots": [
+        304,
+        305
+      ],
+      "start_time": 1013.124,
+      "end_time": 1014.584
+    },
+    {
+      "shots": [
+        305
+      ],
+      "start_time": 1014.626,
+      "end_time": 1016.711
+    },
+    {
+      "shots": [
+        306
+      ],
+      "start_time": 1018.38,
+      "end_time": 1020.465
+    },
+    {
+      "shots": [
+        306
+      ],
+      "start_time": 1020.508,
+      "end_time": 1022.593
+    },
+    {
+      "shots": [
+        306,
+        307
+      ],
+      "start_time": 1025.763,
+      "end_time": 1029.35
+    },
+    {
+      "shots": [
+        308
+      ],
+      "start_time": 1031.102,
+      "end_time": 1033.521
+    },
+    {
+      "shots": [
+        308
+      ],
+      "start_time": 1033.562,
+      "end_time": 1036.065
+    },
+    {
+      "shots": [
+        308
+      ],
+      "start_time": 1037.566,
+      "end_time": 1039.652
+    },
+    {
+      "shots": [
+        309,
+        310
+      ],
+      "start_time": 1043.699,
+      "end_time": 1049.246
+    },
+    {
+      "shots": [
+        310,
+        311
+      ],
+      "start_time": 1050.664,
+      "end_time": 1052.541
+    },
+    {
+      "shots": [
+        311
+      ],
+      "start_time": 1053.25,
+      "end_time": 1055.168
+    },
+    {
+      "shots": [
+        311
+      ],
+      "start_time": 1056.044,
+      "end_time": 1059.047
+    },
+    {
+      "shots": [
+        311
+      ],
+      "start_time": 1059.089,
+      "end_time": 1061.341
+    },
+    {
+      "shots": [
+        311
+      ],
+      "start_time": 1063.094,
+      "end_time": 1065.179
+    },
+    {
+      "shots": [
+        311
+      ],
+      "start_time": 1066.264,
+      "end_time": 1068.349
+    },
+    {
+      "shots": [
+        311,
+        312,
+        313
+      ],
+      "start_time": 1069.309,
+      "end_time": 1071.394
+    },
+    {
+      "shots": [
+        316
+      ],
+      "start_time": 1098.756,
+      "end_time": 1100.841
+    },
+    {
+      "shots": [
+        316,
+        317
+      ],
+      "start_time": 1100.883,
+      "end_time": 1103.344
+    },
+    {
+      "shots": [
+        317,
+        318
+      ],
+      "start_time": 1103.385,
+      "end_time": 1105.68
+    },
+    {
+      "shots": [
+        318,
+        319,
+        320
+      ],
+      "start_time": 1105.722,
+      "end_time": 1110.685
+    },
+    {
+      "shots": [
+        320
+      ],
+      "start_time": 1110.727,
+      "end_time": 1115.19
+    },
+    {
+      "shots": [
+        321,
+        322,
+        323
+      ],
+      "start_time": 1117.692,
+      "end_time": 1120.028
+    },
+    {
+      "shots": [
+        323,
+        324
+      ],
+      "start_time": 1120.07,
+      "end_time": 1122.489
+    },
+    {
+      "shots": [
+        324,
+        325,
+        326
+      ],
+      "start_time": 1122.53,
+      "end_time": 1126.035
+    },
+    {
+      "shots": [
+        326
+      ],
+      "start_time": 1126.077,
+      "end_time": 1128.537
+    },
+    {
+      "shots": [
+        326,
+        327
+      ],
+      "start_time": 1128.579,
+      "end_time": 1132.375
+    },
+    {
+      "shots": [
+        327
+      ],
+      "start_time": 1132.416,
+      "end_time": 1137.338
+    },
+    {
+      "shots": [
+        327
+      ],
+      "start_time": 1137.38,
+      "end_time": 1139.465
+    },
+    {
+      "shots": [
+        327
+      ],
+      "start_time": 1139.507,
+      "end_time": 1142.218
+    },
+    {
+      "shots": [
+        327
+      ],
+      "start_time": 1142.259,
+      "end_time": 1145.18
+    },
+    {
+      "shots": [
+        327
+      ],
+      "start_time": 1145.222,
+      "end_time": 1147.724
+    },
+    {
+      "shots": [
+        327
+      ],
+      "start_time": 1147.766,
+      "end_time": 1152.938
+    },
+    {
+      "shots": [
+        327,
+        328
+      ],
+      "start_time": 1152.98,
+      "end_time": 1155.399
+    },
+    {
+      "shots": [
+        328
+      ],
+      "start_time": 1155.44,
+      "end_time": 1158.151
+    },
+    {
+      "shots": [
+        328
+      ],
+      "start_time": 1158.193,
+      "end_time": 1161.113
+    },
+    {
+      "shots": [
+        328,
+        329
+      ],
+      "start_time": 1161.154,
+      "end_time": 1164.574
+    },
+    {
+      "shots": [
+        329,
+        330
+      ],
+      "start_time": 1164.616,
+      "end_time": 1167.036
+    },
+    {
+      "shots": [
+        330
+      ],
+      "start_time": 1167.078,
+      "end_time": 1170.123
+    },
+    {
+      "shots": [
+        331,
+        332
+      ],
+      "start_time": 1179.882,
+      "end_time": 1184.095
+    },
+    {
+      "shots": [
+        333,
+        334
+      ],
+      "start_time": 1186.849,
+      "end_time": 1188.225
+    },
+    {
+      "shots": [
+        335,
+        336,
+        337
+      ],
+      "start_time": 1189.81,
+      "end_time": 1191.812
+    },
+    {
+      "shots": [
+        337,
+        338,
+        339
+      ],
+      "start_time": 1191.854,
+      "end_time": 1195.316
+    },
+    {
+      "shots": [
+        339,
+        340
+      ],
+      "start_time": 1195.357,
+      "end_time": 1197.443
+    },
+    {
+      "shots": [
+        340
+      ],
+      "start_time": 1201.572,
+      "end_time": 1205.326
+    },
+    {
+      "shots": [
+        340,
+        341
+      ],
+      "start_time": 1205.367,
+      "end_time": 1207.621
+    },
+    {
+      "shots": [
+        341,
+        342
+      ],
+      "start_time": 1207.662,
+      "end_time": 1210.79
+    },
+    {
+      "shots": [
+        342,
+        343
+      ],
+      "start_time": 1210.832,
+      "end_time": 1213.251
+    },
+    {
+      "shots": [
+        343,
+        344
+      ],
+      "start_time": 1213.293,
+      "end_time": 1216.963
+    },
+    {
+      "shots": [
+        344,
+        345,
+        346
+      ],
+      "start_time": 1217.005,
+      "end_time": 1221.968
+    },
+    {
+      "shots": [
+        346
+      ],
+      "start_time": 1222.01,
+      "end_time": 1225.764
+    },
+    {
+      "shots": [
+        346
+      ],
+      "start_time": 1225.805,
+      "end_time": 1228.017
+    },
+    {
+      "shots": [
+        346,
+        347
+      ],
+      "start_time": 1228.059,
+      "end_time": 1230.811
+    },
+    {
+      "shots": [
+        347,
+        348
+      ],
+      "start_time": 1230.853,
+      "end_time": 1234.273
+    },
+    {
+      "shots": [
+        348
+      ],
+      "start_time": 1234.315,
+      "end_time": 1237.276
+    },
+    {
+      "shots": [
+        348,
+        349
+      ],
+      "start_time": 1237.318,
+      "end_time": 1241.572
+    },
+    {
+      "shots": [
+        349
+      ],
+      "start_time": 1241.614,
+      "end_time": 1243.699
+    },
+    {
+      "shots": [
+        349,
+        350
+      ],
+      "start_time": 1243.741,
+      "end_time": 1246.577
+    },
+    {
+      "shots": [
+        350
+      ],
+      "start_time": 1246.619,
+      "end_time": 1248.705
+    },
+    {
+      "shots": [
+        350
+      ],
+      "start_time": 1248.747,
+      "end_time": 1251.208
+    },
+    {
+      "shots": [
+        350,
+        351,
+        352
+      ],
+      "start_time": 1251.249,
+      "end_time": 1253.794
+    },
+    {
+      "shots": [
+        352,
+        353
+      ],
+      "start_time": 1253.835,
+      "end_time": 1256.838
+    },
+    {
+      "shots": [
+        353,
+        354
+      ],
+      "start_time": 1256.88,
+      "end_time": 1259.633
+    },
+    {
+      "shots": [
+        354,
+        355,
+        356
+      ],
+      "start_time": 1259.675,
+      "end_time": 1263.512
+    },
+    {
+      "shots": [
+        356
+      ],
+      "start_time": 1263.553,
+      "end_time": 1268.225
+    },
+    {
+      "shots": [
+        356
+      ],
+      "start_time": 1268.266,
+      "end_time": 1271.437
+    },
+    {
+      "shots": [
+        356
+      ],
+      "start_time": 1271.479,
+      "end_time": 1273.982
+    },
+    {
+      "shots": [
+        356
+      ],
+      "start_time": 1274.023,
+      "end_time": 1276.693
+    },
+    {
+      "shots": [
+        356,
+        357
+      ],
+      "start_time": 1276.734,
+      "end_time": 1278.778
+    },
+    {
+      "shots": [
+        357,
+        358
+      ],
+      "start_time": 1278.82,
+      "end_time": 1280.905
+    },
+    {
+      "shots": [
+        358
+      ],
+      "start_time": 1280.947,
+      "end_time": 1285.118
+    },
+    {
+      "shots": [
+        358,
+        359
+      ],
+      "start_time": 1285.159,
+      "end_time": 1287.245
+    },
+    {
+      "shots": [
+        359
+      ],
+      "start_time": 1287.287,
+      "end_time": 1290.791
+    },
+    {
+      "shots": [
+        359,
+        360
+      ],
+      "start_time": 1290.833,
+      "end_time": 1293.294
+    },
+    {
+      "shots": [
+        360,
+        361,
+        362
+      ],
+      "start_time": 1293.335,
+      "end_time": 1296.63
+    },
+    {
+      "shots": [
+        362
+      ],
+      "start_time": 1296.672,
+      "end_time": 1301.26
+    },
+    {
+      "shots": [
+        362
+      ],
+      "start_time": 1301.302,
+      "end_time": 1304.763
+    },
+    {
+      "shots": [
+        362
+      ],
+      "start_time": 1306.265,
+      "end_time": 1310.436
+    },
+    {
+      "shots": [
+        363,
+        364
+      ],
+      "start_time": 1311.98,
+      "end_time": 1314.899
+    },
+    {
+      "shots": [
+        364,
+        365
+      ],
+      "start_time": 1314.941,
+      "end_time": 1319.029
+    },
+    {
+      "shots": [
+        365,
+        366,
+        367
+      ],
+      "start_time": 1319.07,
+      "end_time": 1322.574
+    },
+    {
+      "shots": [
+        367,
+        368,
+        369
+      ],
+      "start_time": 1322.615,
+      "end_time": 1327.954
+    },
+    {
+      "shots": [
+        369,
+        370
+      ],
+      "start_time": 1327.996,
+      "end_time": 1329.414
+    },
+    {
+      "shots": [
+        370,
+        371,
+        372
+      ],
+      "start_time": 1329.456,
+      "end_time": 1333.002
+    },
+    {
+      "shots": [
+        374,
+        375
+      ],
+      "start_time": 1335.755,
+      "end_time": 1339.925
+    },
+    {
+      "shots": [
+        375
+      ],
+      "start_time": 1339.967,
+      "end_time": 1342.553
+    },
+    {
+      "shots": [
+        375
+      ],
+      "start_time": 1342.595,
+      "end_time": 1345.64
+    },
+    {
+      "shots": [
+        375
+      ],
+      "start_time": 1345.681,
+      "end_time": 1347.767
+    },
+    {
+      "shots": [
+        375
+      ],
+      "start_time": 1347.808,
+      "end_time": 1351.979
+    },
+    {
+      "shots": [
+        376,
+        377
+      ],
+      "start_time": 1354.191,
+      "end_time": 1358.445
+    },
+    {
+      "shots": [
+        377
+      ],
+      "start_time": 1358.487,
+      "end_time": 1361.823
+    },
+    {
+      "shots": [
+        378,
+        379
+      ],
+      "start_time": 1364.201,
+      "end_time": 1367.329
+    },
+    {
+      "shots": [
+        380,
+        381
+      ],
+      "start_time": 1368.413,
+      "end_time": 1372.125
+    },
+    {
+      "shots": [
+        381,
+        382
+      ],
+      "start_time": 1372.167,
+      "end_time": 1374.462
+    },
+    {
+      "shots": [
+        382,
+        383
+      ],
+      "start_time": 1375.088,
+      "end_time": 1377.924
+    },
+    {
+      "shots": [
+        383,
+        384
+      ],
+      "start_time": 1377.966,
+      "end_time": 1380.093
+    },
+    {
+      "shots": [
+        384,
+        385
+      ],
+      "start_time": 1380.134,
+      "end_time": 1384.138
+    },
+    {
+      "shots": [
+        385
+      ],
+      "start_time": 1384.18,
+      "end_time": 1386.265
+    },
+    {
+      "shots": [
+        385,
+        386
+      ],
+      "start_time": 1386.808,
+      "end_time": 1388.893
+    },
+    {
+      "shots": [
+        386,
+        387
+      ],
+      "start_time": 1388.935,
+      "end_time": 1393.607
+    },
+    {
+      "shots": [
+        387,
+        388,
+        389
+      ],
+      "start_time": 1393.649,
+      "end_time": 1396.735
+    },
+    {
+      "shots": [
+        390
+      ],
+      "start_time": 1399.53,
+      "end_time": 1400.906
+    },
+    {
+      "shots": [
+        391
+      ],
+      "start_time": 1414.587,
+      "end_time": 1416.673
+    },
+    {
+      "shots": [
+        391
+      ],
+      "start_time": 1424.723,
+      "end_time": 1426.182
+    },
+    {
+      "shots": [
+        391
+      ],
+      "start_time": 1433.064,
+      "end_time": 1436.944
+    },
+    {
+      "shots": [
+        391
+      ],
+      "start_time": 1436.986,
+      "end_time": 1440.239
+    },
+    {
+      "shots": [
+        399
+      ],
+      "start_time": 1480.99,
+      "end_time": 1483.951
+    },
+    {
+      "shots": [
+        399
+      ],
+      "start_time": 1483.993,
+      "end_time": 1486.913
+    },
+    {
+      "shots": [
+        399,
+        400
+      ],
+      "start_time": 1487.246,
+      "end_time": 1489.54
+    },
+    {
+      "shots": [
+        400,
+        401
+      ],
+      "start_time": 1489.582,
+      "end_time": 1492.293
+    },
+    {
+      "shots": [
+        401,
+        402,
+        403
+      ],
+      "start_time": 1492.335,
+      "end_time": 1496.881
+    },
+    {
+      "shots": [
+        403,
+        404,
+        405
+      ],
+      "start_time": 1496.923,
+      "end_time": 1499.218
+    },
+    {
+      "shots": [
+        405
+      ],
+      "start_time": 1499.259,
+      "end_time": 1502.513
+    },
+    {
+      "shots": [
+        405,
+        406
+      ],
+      "start_time": 1502.554,
+      "end_time": 1504.431
+    },
+    {
+      "shots": [
+        406
+      ],
+      "start_time": 1504.473,
+      "end_time": 1508.519
+    },
+    {
+      "shots": [
+        406,
+        407
+      ],
+      "start_time": 1508.56,
+      "end_time": 1511.355
+    },
+    {
+      "shots": [
+        407
+      ],
+      "start_time": 1511.397,
+      "end_time": 1515.693
+    },
+    {
+      "shots": [
+        407,
+        408
+      ],
+      "start_time": 1515.734,
+      "end_time": 1519.406
+    },
+    {
+      "shots": [
+        408
+      ],
+      "start_time": 1519.447,
+      "end_time": 1520.949
+    },
+    {
+      "shots": [
+        408,
+        409,
+        410
+      ],
+      "start_time": 1520.991,
+      "end_time": 1524.995
+    },
+    {
+      "shots": [
+        410
+      ],
+      "start_time": 1525.036,
+      "end_time": 1526.705
+    },
+    {
+      "shots": [
+        410
+      ],
+      "start_time": 1526.746,
+      "end_time": 1530.917
+    },
+    {
+      "shots": [
+        410,
+        411,
+        412
+      ],
+      "start_time": 1530.959,
+      "end_time": 1533.044
+    },
+    {
+      "shots": [
+        412
+      ],
+      "start_time": 1533.086,
+      "end_time": 1536.089
+    },
+    {
+      "shots": [
+        412
+      ],
+      "start_time": 1536.131,
+      "end_time": 1538.55
+    },
+    {
+      "shots": [
+        412,
+        413
+      ],
+      "start_time": 1539.593,
+      "end_time": 1542.555
+    },
+    {
+      "shots": [
+        413
+      ],
+      "start_time": 1542.596,
+      "end_time": 1546.142
+    },
+    {
+      "shots": [
+        413,
+        414
+      ],
+      "start_time": 1546.183,
+      "end_time": 1549.52
+    },
+    {
+      "shots": [
+        414
+      ],
+      "start_time": 1549.562,
+      "end_time": 1552.69
+    },
+    {
+      "shots": [
+        414
+      ],
+      "start_time": 1552.732,
+      "end_time": 1558.154
+    },
+    {
+      "shots": [
+        414,
+        415
+      ],
+      "start_time": 1558.195,
+      "end_time": 1561.45
+    },
+    {
+      "shots": [
+        415,
+        416
+      ],
+      "start_time": 1561.491,
+      "end_time": 1567.581
+    },
+    {
+      "shots": [
+        416
+      ],
+      "start_time": 1567.622,
+      "end_time": 1570.751
+    },
+    {
+      "shots": [
+        416,
+        417
+      ],
+      "start_time": 1571.918,
+      "end_time": 1573.879
+    },
+    {
+      "shots": [
+        417,
+        418,
+        419
+      ],
+      "start_time": 1573.92,
+      "end_time": 1576.673
+    },
+    {
+      "shots": [
+        419,
+        420
+      ],
+      "start_time": 1576.715,
+      "end_time": 1578.592
+    },
+    {
+      "shots": [
+        420,
+        421
+      ],
+      "start_time": 1578.634,
+      "end_time": 1583.765
+    },
+    {
+      "shots": [
+        421,
+        422
+      ],
+      "start_time": 1583.806,
+      "end_time": 1587.852
+    },
+    {
+      "shots": [
+        422,
+        423
+      ],
+      "start_time": 1587.894,
+      "end_time": 1591.439
+    },
+    {
+      "shots": [
+        423,
+        424
+      ],
+      "start_time": 1591.481,
+      "end_time": 1594.15
+    },
+    {
+      "shots": [
+        424
+      ],
+      "start_time": 1594.192,
+      "end_time": 1597.195
+    },
+    {
+      "shots": [
+        426,
+        427,
+        428
+      ],
+      "start_time": 1599.822,
+      "end_time": 1603.452
+    },
+    {
+      "shots": [
+        428,
+        429
+      ],
+      "start_time": 1603.494,
+      "end_time": 1606.33
+    },
+    {
+      "shots": [
+        429,
+        430,
+        431
+      ],
+      "start_time": 1606.372,
+      "end_time": 1608.916
+    },
+    {
+      "shots": [
+        431,
+        432
+      ],
+      "start_time": 1608.957,
+      "end_time": 1612.044
+    },
+    {
+      "shots": [
+        432,
+        433,
+        434
+      ],
+      "start_time": 1612.086,
+      "end_time": 1615.756
+    },
+    {
+      "shots": [
+        434
+      ],
+      "start_time": 1615.798,
+      "end_time": 1618.801
+    },
+    {
+      "shots": [
+        434,
+        435
+      ],
+      "start_time": 1618.842,
+      "end_time": 1621.638
+    },
+    {
+      "shots": [
+        435,
+        436
+      ],
+      "start_time": 1621.68,
+      "end_time": 1625.433
+    },
+    {
+      "shots": [
+        436
+      ],
+      "start_time": 1625.475,
+      "end_time": 1627.102
+    },
+    {
+      "shots": [
+        436
+      ],
+      "start_time": 1627.143,
+      "end_time": 1629.646
+    },
+    {
+      "shots": [
+        438
+      ],
+      "start_time": 1634.484,
+      "end_time": 1636.569
+    },
+    {
+      "shots": [
+        438,
+        439,
+        440
+      ],
+      "start_time": 1636.611,
+      "end_time": 1639.447
+    },
+    {
+      "shots": [
+        440
+      ],
+      "start_time": 1639.489,
+      "end_time": 1641.574
+    },
+    {
+      "shots": [
+        440
+      ],
+      "start_time": 1641.616,
+      "end_time": 1643.703
+    },
+    {
+      "shots": [
+        440
+      ],
+      "start_time": 1643.744,
+      "end_time": 1648.749
+    },
+    {
+      "shots": [
+        440
+      ],
+      "start_time": 1648.791,
+      "end_time": 1651.752
+    },
+    {
+      "shots": [
+        440
+      ],
+      "start_time": 1651.794,
+      "end_time": 1654.296
+    },
+    {
+      "shots": [
+        440
+      ],
+      "start_time": 1654.338,
+      "end_time": 1657.466
+    },
+    {
+      "shots": [
+        440
+      ],
+      "start_time": 1657.508,
+      "end_time": 1661.679
+    },
+    {
+      "shots": [
+        440,
+        441
+      ],
+      "start_time": 1661.721,
+      "end_time": 1666.059
+    },
+    {
+      "shots": [
+        441,
+        442
+      ],
+      "start_time": 1666.101,
+      "end_time": 1669.062
+    },
+    {
+      "shots": [
+        442
+      ],
+      "start_time": 1669.104,
+      "end_time": 1672.232
+    },
+    {
+      "shots": [
+        442
+      ],
+      "start_time": 1672.274,
+      "end_time": 1675.944
+    },
+    {
+      "shots": [
+        443,
+        444
+      ],
+      "start_time": 1679.323,
+      "end_time": 1681.45
+    },
+    {
+      "shots": [
+        447,
+        448
+      ],
+      "start_time": 1693.796,
+      "end_time": 1696.591
+    },
+    {
+      "shots": [
+        448,
+        449,
+        450
+      ],
+      "start_time": 1696.632,
+      "end_time": 1701.596
+    },
+    {
+      "shots": [
+        450,
+        451,
+        452
+      ],
+      "start_time": 1702.263,
+      "end_time": 1704.391
+    },
+    {
+      "shots": [
+        452,
+        453,
+        454
+      ],
+      "start_time": 1704.433,
+      "end_time": 1709.146
+    },
+    {
+      "shots": [
+        454,
+        455,
+        456
+      ],
+      "start_time": 1709.188,
+      "end_time": 1713.192
+    },
+    {
+      "shots": [
+        456,
+        457
+      ],
+      "start_time": 1713.233,
+      "end_time": 1715.194
+    },
+    {
+      "shots": [
+        457,
+        458,
+        459,
+        460
+      ],
+      "start_time": 1715.235,
+      "end_time": 1718.155
+    },
+    {
+      "shots": [
+        461,
+        462,
+        463
+      ],
+      "start_time": 1719.782,
+      "end_time": 1722.826
+    },
+    {
+      "shots": [
+        463,
+        464,
+        465
+      ],
+      "start_time": 1722.868,
+      "end_time": 1727.54
+    },
+    {
+      "shots": [
+        466,
+        467,
+        468
+      ],
+      "start_time": 1733.046,
+      "end_time": 1735.715
+    },
+    {
+      "shots": [
+        468
+      ],
+      "start_time": 1737.592,
+      "end_time": 1739.886
+    },
+    {
+      "shots": [
+        469,
+        470
+      ],
+      "start_time": 1740.887,
+      "end_time": 1744.516
+    },
+    {
+      "shots": [
+        472,
+        473
+      ],
+      "start_time": 1748.229,
+      "end_time": 1750.523
+    },
+    {
+      "shots": [
+        473,
+        474,
+        475
+      ],
+      "start_time": 1750.564,
+      "end_time": 1753.651
+    },
+    {
+      "shots": [
+        475,
+        476,
+        477
+      ],
+      "start_time": 1753.693,
+      "end_time": 1757.905
+    },
+    {
+      "shots": [
+        477
+      ],
+      "start_time": 1757.947,
+      "end_time": 1761.325
+    },
+    {
+      "shots": [
+        477
+      ],
+      "start_time": 1761.367,
+      "end_time": 1763.828
+    },
+    {
+      "shots": [
+        477,
+        478
+      ],
+      "start_time": 1763.869,
+      "end_time": 1765.913
+    },
+    {
+      "shots": [
+        478,
+        479
+      ],
+      "start_time": 1765.955,
+      "end_time": 1767.29
+    },
+    {
+      "shots": [
+        479,
+        480
+      ],
+      "start_time": 1767.332,
+      "end_time": 1771.044
+    },
+    {
+      "shots": [
+        480
+      ],
+      "start_time": 1772.754,
+      "end_time": 1777.009
+    },
+    {
+      "shots": [
+        480
+      ],
+      "start_time": 1777.05,
+      "end_time": 1779.803
+    },
+    {
+      "shots": [
+        480,
+        481
+      ],
+      "start_time": 1781.263,
+      "end_time": 1784.141
+    },
+    {
+      "shots": [
+        481,
+        482,
+        483
+      ],
+      "start_time": 1784.182,
+      "end_time": 1787.645
+    },
+    {
+      "shots": [
+        483,
+        484,
+        485,
+        486
+      ],
+      "start_time": 1787.687,
+      "end_time": 1792.734
+    },
+    {
+      "shots": [
+        486,
+        487
+      ],
+      "start_time": 1792.775,
+      "end_time": 1795.82
+    },
+    {
+      "shots": [
+        487
+      ],
+      "start_time": 1795.862,
+      "end_time": 1799.365
+    },
+    {
+      "shots": [
+        487,
+        488
+      ],
+      "start_time": 1799.407,
+      "end_time": 1802.118
+    },
+    {
+      "shots": [
+        488,
+        489
+      ],
+      "start_time": 1802.16,
+      "end_time": 1805.705
+    },
+    {
+      "shots": [
+        489,
+        490,
+        491,
+        492
+      ],
+      "start_time": 1805.747,
+      "end_time": 1810.544
+    },
+    {
+      "shots": [
+        492,
+        493,
+        494,
+        495
+      ],
+      "start_time": 1810.586,
+      "end_time": 1813.797
+    },
+    {
+      "shots": [
+        495,
+        496
+      ],
+      "start_time": 1813.839,
+      "end_time": 1816.258
+    },
+    {
+      "shots": [
+        496,
+        497,
+        498
+      ],
+      "start_time": 1816.3,
+      "end_time": 1821.221
+    },
+    {
+      "shots": [
+        498,
+        499
+      ],
+      "start_time": 1821.263,
+      "end_time": 1825.059
+    },
+    {
+      "shots": [
+        499,
+        500
+      ],
+      "start_time": 1825.1,
+      "end_time": 1828.437
+    },
+    {
+      "shots": [
+        500
+      ],
+      "start_time": 1828.479,
+      "end_time": 1832.359
+    },
+    {
+      "shots": [
+        500,
+        501
+      ],
+      "start_time": 1832.4,
+      "end_time": 1835.487
+    },
+    {
+      "shots": [
+        501,
+        502,
+        503
+      ],
+      "start_time": 1835.528,
+      "end_time": 1838.281
+    },
+    {
+      "shots": [
+        503,
+        504
+      ],
+      "start_time": 1838.323,
+      "end_time": 1840.867
+    },
+    {
+      "shots": [
+        504,
+        505
+      ],
+      "start_time": 1840.909,
+      "end_time": 1843.119
+    },
+    {
+      "shots": [
+        505,
+        506,
+        507
+      ],
+      "start_time": 1843.161,
+      "end_time": 1846.414
+    },
+    {
+      "shots": [
+        507,
+        508,
+        509
+      ],
+      "start_time": 1846.456,
+      "end_time": 1851.837
+    },
+    {
+      "shots": [
+        509,
+        510,
+        511
+      ],
+      "start_time": 1851.879,
+      "end_time": 1855.091
+    },
+    {
+      "shots": [
+        511,
+        512,
+        513
+      ],
+      "start_time": 1855.132,
+      "end_time": 1857.968
+    },
+    {
+      "shots": [
+        513,
+        514
+      ],
+      "start_time": 1858.01,
+      "end_time": 1862.598
+    },
+    {
+      "shots": [
+        514,
+        515
+      ],
+      "start_time": 1862.64,
+      "end_time": 1864.141
+    },
+    {
+      "shots": [
+        515,
+        516
+      ],
+      "start_time": 1864.183,
+      "end_time": 1866.227
+    },
+    {
+      "shots": [
+        516,
+        517,
+        518
+      ],
+      "start_time": 1866.268,
+      "end_time": 1871.4
+    },
+    {
+      "shots": [
+        518,
+        519,
+        520
+      ],
+      "start_time": 1871.441,
+      "end_time": 1873.86
+    },
+    {
+      "shots": [
+        521
+      ],
+      "start_time": 1877.447,
+      "end_time": 1879.533
+    },
+    {
+      "shots": [
+        522,
+        523
+      ],
+      "start_time": 1882.703,
+      "end_time": 1884.788
+    },
+    {
+      "shots": [
+        523
+      ],
+      "start_time": 1884.83,
+      "end_time": 1888.834
+    },
+    {
+      "shots": [
+        523
+      ],
+      "start_time": 1888.875,
+      "end_time": 1891.337
+    },
+    {
+      "shots": [
+        523,
+        524
+      ],
+      "start_time": 1891.379,
+      "end_time": 1894.132
+    },
+    {
+      "shots": [
+        524
+      ],
+      "start_time": 1894.173,
+      "end_time": 1896.259
+    },
+    {
+      "shots": [
+        524
+      ],
+      "start_time": 1896.3,
+      "end_time": 1899.637
+    },
+    {
+      "shots": [
+        524,
+        525
+      ],
+      "start_time": 1899.679,
+      "end_time": 1903.141
+    },
+    {
+      "shots": [
+        525,
+        526,
+        527
+      ],
+      "start_time": 1903.182,
+      "end_time": 1907.895
+    },
+    {
+      "shots": [
+        527,
+        528,
+        529,
+        530
+      ],
+      "start_time": 1907.937,
+      "end_time": 1911.692
+    },
+    {
+      "shots": [
+        530,
+        531
+      ],
+      "start_time": 1911.734,
+      "end_time": 1913.61
+    },
+    {
+      "shots": [
+        531,
+        532
+      ],
+      "start_time": 1913.652,
+      "end_time": 1918.073
+    },
+    {
+      "shots": [
+        532
+      ],
+      "start_time": 1918.115,
+      "end_time": 1921.869
+    },
+    {
+      "shots": [
+        532,
+        533
+      ],
+      "start_time": 1921.91,
+      "end_time": 1923.662
+    },
+    {
+      "shots": [
+        533
+      ],
+      "start_time": 1923.704,
+      "end_time": 1926.915
+    },
+    {
+      "shots": [
+        533,
+        534,
+        535
+      ],
+      "start_time": 1926.957,
+      "end_time": 1930.085
+    },
+    {
+      "shots": [
+        535,
+        536
+      ],
+      "start_time": 1930.127,
+      "end_time": 1933.048
+    },
+    {
+      "shots": [
+        536,
+        537
+      ],
+      "start_time": 1933.089,
+      "end_time": 1936.343
+    },
+    {
+      "shots": [
+        537,
+        538
+      ],
+      "start_time": 1936.384,
+      "end_time": 1938.887
+    },
+    {
+      "shots": [
+        538,
+        539
+      ],
+      "start_time": 1938.928,
+      "end_time": 1941.556
+    },
+    {
+      "shots": [
+        539,
+        540
+      ],
+      "start_time": 1941.598,
+      "end_time": 1943.016
+    },
+    {
+      "shots": [
+        540,
+        541
+      ],
+      "start_time": 1943.058,
+      "end_time": 1946.102
+    },
+    {
+      "shots": [
+        541,
+        542
+      ],
+      "start_time": 1946.144,
+      "end_time": 1950.649
+    },
+    {
+      "shots": [
+        542,
+        543,
+        544
+      ],
+      "start_time": 1950.69,
+      "end_time": 1954.028
+    },
+    {
+      "shots": [
+        544,
+        545
+      ],
+      "start_time": 1955.112,
+      "end_time": 1959.492
+    },
+    {
+      "shots": [
+        545
+      ],
+      "start_time": 1959.533,
+      "end_time": 1962.453
+    },
+    {
+      "shots": [
+        545,
+        546
+      ],
+      "start_time": 1962.495,
+      "end_time": 1965.831
+    },
+    {
+      "shots": [
+        546,
+        547
+      ],
+      "start_time": 1965.873,
+      "end_time": 1969.418
+    },
+    {
+      "shots": [
+        547,
+        548
+      ],
+      "start_time": 1969.46,
+      "end_time": 1974.675
+    },
+    {
+      "shots": [
+        548,
+        549,
+        550
+      ],
+      "start_time": 1974.716,
+      "end_time": 1978.22
+    },
+    {
+      "shots": [
+        550
+      ],
+      "start_time": 1978.261,
+      "end_time": 1980.639
+    },
+    {
+      "shots": [
+        550,
+        551
+      ],
+      "start_time": 1980.681,
+      "end_time": 1982.766
+    },
+    {
+      "shots": [
+        551
+      ],
+      "start_time": 1982.808,
+      "end_time": 1985.185
+    },
+    {
+      "shots": [
+        551,
+        552
+      ],
+      "start_time": 1985.227,
+      "end_time": 1989.231
+    },
+    {
+      "shots": [
+        553,
+        554
+      ],
+      "start_time": 1991.233,
+      "end_time": 1993.36
+    },
+    {
+      "shots": [
+        554,
+        555
+      ],
+      "start_time": 1993.402,
+      "end_time": 1994.862
+    },
+    {
+      "shots": [
+        555,
+        556
+      ],
+      "start_time": 1994.904,
+      "end_time": 1999.575
+    },
+    {
+      "shots": [
+        556,
+        557
+      ],
+      "start_time": 1999.617,
+      "end_time": 2002.203
+    },
+    {
+      "shots": [
+        557,
+        558
+      ],
+      "start_time": 2002.245,
+      "end_time": 2005.915
+    },
+    {
+      "shots": [
+        559,
+        560,
+        561
+      ],
+      "start_time": 2007.834,
+      "end_time": 2012.213
+    },
+    {
+      "shots": [
+        561,
+        562,
+        563
+      ],
+      "start_time": 2012.255,
+      "end_time": 2014.716
+    },
+    {
+      "shots": [
+        563,
+        564
+      ],
+      "start_time": 2014.757,
+      "end_time": 2016.385
+    },
+    {
+      "shots": [
+        566
+      ],
+      "start_time": 2018.012,
+      "end_time": 2020.305
+    },
+    {
+      "shots": [
+        566
+      ],
+      "start_time": 2020.347,
+      "end_time": 2023.35
+    },
+    {
+      "shots": [
+        566
+      ],
+      "start_time": 2023.392,
+      "end_time": 2027.563
+    },
+    {
+      "shots": [
+        566
+      ],
+      "start_time": 2027.604,
+      "end_time": 2030.941
+    },
+    {
+      "shots": [
+        566,
+        567
+      ],
+      "start_time": 2030.983,
+      "end_time": 2033.944
+    },
+    {
+      "shots": [
+        567,
+        568
+      ],
+      "start_time": 2033.986,
+      "end_time": 2038.616
+    },
+    {
+      "shots": [
+        568,
+        569
+      ],
+      "start_time": 2038.658,
+      "end_time": 2042.162
+    },
+    {
+      "shots": [
+        569
+      ],
+      "start_time": 2042.203,
+      "end_time": 2044.748
+    },
+    {
+      "shots": [
+        569
+      ],
+      "start_time": 2044.789,
+      "end_time": 2048.501
+    },
+    {
+      "shots": [
+        569,
+        570
+      ],
+      "start_time": 2052.13,
+      "end_time": 2054.007
+    },
+    {
+      "shots": [
+        570
+      ],
+      "start_time": 2054.049,
+      "end_time": 2055.967
+    },
+    {
+      "shots": [
+        570
+      ],
+      "start_time": 2056.009,
+      "end_time": 2059.764
+    },
+    {
+      "shots": [
+        570
+      ],
+      "start_time": 2065.102,
+      "end_time": 2068.356
+    },
+    {
+      "shots": [
+        570,
+        571
+      ],
+      "start_time": 2070.566,
+      "end_time": 2072.652
+    },
+    {
+      "shots": [
+        574,
+        575,
+        576,
+        577
+      ],
+      "start_time": 2079.743,
+      "end_time": 2082.996
+    },
+    {
+      "shots": [
+        577,
+        578,
+        579,
+        580
+      ],
+      "start_time": 2083.038,
+      "end_time": 2086.5
+    },
+    {
+      "shots": [
+        580,
+        581,
+        582
+      ],
+      "start_time": 2086.541,
+      "end_time": 2089.461
+    },
+    {
+      "shots": [
+        582,
+        583
+      ],
+      "start_time": 2089.795,
+      "end_time": 2092.589
+    },
+    {
+      "shots": [
+        583,
+        584
+      ],
+      "start_time": 2092.631,
+      "end_time": 2094.383
+    },
+    {
+      "shots": [
+        584,
+        585
+      ],
+      "start_time": 2094.424,
+      "end_time": 2096.927
+    },
+    {
+      "shots": [
+        585
+      ],
+      "start_time": 2096.968,
+      "end_time": 2098.513
+    },
+    {
+      "shots": [
+        585
+      ],
+      "start_time": 2098.554,
+      "end_time": 2101.724
+    },
+    {
+      "shots": [
+        585,
+        586,
+        587
+      ],
+      "start_time": 2101.766,
+      "end_time": 2103.935
+    },
+    {
+      "shots": [
+        594,
+        595,
+        596
+      ],
+      "start_time": 2116.864,
+      "end_time": 2120.327
+    },
+    {
+      "shots": [
+        596,
+        597
+      ],
+      "start_time": 2120.369,
+      "end_time": 2123.58
+    },
+    {
+      "shots": [
+        597,
+        598
+      ],
+      "start_time": 2123.622,
+      "end_time": 2126.25
+    },
+    {
+      "shots": [
+        602,
+        603
+      ],
+      "start_time": 2132.631,
+      "end_time": 2136.343
+    },
+    {
+      "shots": [
+        604
+      ],
+      "start_time": 2138.178,
+      "end_time": 2140.89
+    },
+    {
+      "shots": [
+        608,
+        609
+      ],
+      "start_time": 2147.939,
+      "end_time": 2151.359
+    },
+    {
+      "shots": [
+        609
+      ],
+      "start_time": 2152.736,
+      "end_time": 2154.154
+    },
+    {
+      "shots": [
+        609
+      ],
+      "start_time": 2155.03,
+      "end_time": 2157.449
+    },
+    {
+      "shots": [
+        609
+      ],
+      "start_time": 2158.658,
+      "end_time": 2160.536
+    },
+    {
+      "shots": [
+        609
+      ],
+      "start_time": 2160.578,
+      "end_time": 2164.29
+    },
+    {
+      "shots": [
+        609
+      ],
+      "start_time": 2164.332,
+      "end_time": 2165.791
+    },
+    {
+      "shots": [
+        610,
+        611,
+        612
+      ],
+      "start_time": 2175.259,
+      "end_time": 2177.553
+    },
+    {
+      "shots": [
+        612,
+        613
+      ],
+      "start_time": 2177.595,
+      "end_time": 2181.475
+    },
+    {
+      "shots": [
+        613,
+        614
+      ],
+      "start_time": 2181.516,
+      "end_time": 2185.562
+    },
+    {
+      "shots": [
+        614,
+        615,
+        616,
+        617
+      ],
+      "start_time": 2185.604,
+      "end_time": 2188.44
+    },
+    {
+      "shots": [
+        617,
+        618
+      ],
+      "start_time": 2188.482,
+      "end_time": 2192.277
+    },
+    {
+      "shots": [
+        619,
+        620,
+        621
+      ],
+      "start_time": 2192.319,
+      "end_time": 2194.988
+    },
+    {
+      "shots": [
+        621,
+        622,
+        623
+      ],
+      "start_time": 2195.03,
+      "end_time": 2199.034
+    },
+    {
+      "shots": [
+        623,
+        624
+      ],
+      "start_time": 2199.076,
+      "end_time": 2202.08
+    },
+    {
+      "shots": [
+        624,
+        625
+      ],
+      "start_time": 2202.121,
+      "end_time": 2204.415
+    },
+    {
+      "shots": [
+        625
+      ],
+      "start_time": 2204.457,
+      "end_time": 2206.334
+    },
+    {
+      "shots": [
+        625,
+        626
+      ],
+      "start_time": 2206.376,
+      "end_time": 2209.462
+    },
+    {
+      "shots": [
+        626,
+        627
+      ],
+      "start_time": 2209.504,
+      "end_time": 2212.799
+    },
+    {
+      "shots": [
+        627,
+        628
+      ],
+      "start_time": 2212.84,
+      "end_time": 2216.26
+    },
+    {
+      "shots": [
+        628,
+        629
+      ],
+      "start_time": 2216.302,
+      "end_time": 2218.554
+    },
+    {
+      "shots": [
+        629,
+        630
+      ],
+      "start_time": 2218.596,
+      "end_time": 2221.057
+    },
+    {
+      "shots": [
+        631,
+        632
+      ],
+      "start_time": 2221.099,
+      "end_time": 2225.27
+    },
+    {
+      "shots": [
+        632,
+        633
+      ],
+      "start_time": 2225.312,
+      "end_time": 2227.815
+    },
+    {
+      "shots": [
+        634,
+        635
+      ],
+      "start_time": 2228.857,
+      "end_time": 2232.903
+    },
+    {
+      "shots": [
+        635
+      ],
+      "start_time": 2232.945,
+      "end_time": 2236.907
+    },
+    {
+      "shots": [
+        635,
+        636
+      ],
+      "start_time": 2239.66,
+      "end_time": 2242.204
+    },
+    {
+      "shots": [
+        636
+      ],
+      "start_time": 2242.246,
+      "end_time": 2245.542
+    },
+    {
+      "shots": [
+        636,
+        637,
+        638,
+        639
+      ],
+      "start_time": 2245.583,
+      "end_time": 2250.714
+    },
+    {
+      "shots": [
+        639,
+        640,
+        641
+      ],
+      "start_time": 2250.755,
+      "end_time": 2253.341
+    },
+    {
+      "shots": [
+        643
+      ],
+      "start_time": 2262.1,
+      "end_time": 2266.856
+    },
+    {
+      "shots": [
+        643
+      ],
+      "start_time": 2267.523,
+      "end_time": 2269.692
+    },
+    {
+      "shots": [
+        643
+      ],
+      "start_time": 2269.734,
+      "end_time": 2271.61
+    },
+    {
+      "shots": [
+        643
+      ],
+      "start_time": 2272.445,
+      "end_time": 2274.321
+    },
+    {
+      "shots": [
+        643
+      ],
+      "start_time": 2275.656,
+      "end_time": 2277.241
+    },
+    {
+      "shots": [
+        643
+      ],
+      "start_time": 2277.283,
+      "end_time": 2282.038
+    },
+    {
+      "shots": [
+        643
+      ],
+      "start_time": 2282.079,
+      "end_time": 2286.043
+    },
+    {
+      "shots": [
+        643
+      ],
+      "start_time": 2287.21,
+      "end_time": 2289.296
+    },
+    {
+      "shots": [
+        671
+      ],
+      "start_time": 2351.027,
+      "end_time": 2354.781
+    },
+    {
+      "shots": [
+        671,
+        672,
+        673,
+        674
+      ],
+      "start_time": 2354.823,
+      "end_time": 2358.993
+    },
+    {
+      "shots": [
+        674
+      ],
+      "start_time": 2359.035,
+      "end_time": 2361.204
+    },
+    {
+      "shots": [
+        676,
+        677
+      ],
+      "start_time": 2365.291,
+      "end_time": 2368.17
+    },
+    {
+      "shots": [
+        677
+      ],
+      "start_time": 2368.212,
+      "end_time": 2370.339
+    },
+    {
+      "shots": [
+        683,
+        684,
+        685
+      ],
+      "start_time": 2377.221,
+      "end_time": 2378.889
+    },
+    {
+      "shots": [
+        685,
+        686,
+        687
+      ],
+      "start_time": 2378.931,
+      "end_time": 2382.935
+    },
+    {
+      "shots": [
+        688,
+        689,
+        690,
+        691
+      ],
+      "start_time": 2383.978,
+      "end_time": 2387.148
+    },
+    {
+      "shots": [
+        691,
+        692,
+        693
+      ],
+      "start_time": 2387.189,
+      "end_time": 2389.609
+    },
+    {
+      "shots": [
+        693
+      ],
+      "start_time": 2389.651,
+      "end_time": 2393.405
+    },
+    {
+      "shots": [
+        693,
+        694,
+        695
+      ],
+      "start_time": 2393.447,
+      "end_time": 2396.7
+    },
+    {
+      "shots": [
+        696,
+        697
+      ],
+      "start_time": 2397.576,
+      "end_time": 2399.661
+    },
+    {
+      "shots": [
+        697,
+        698
+      ],
+      "start_time": 2399.703,
+      "end_time": 2402.039
+    },
+    {
+      "shots": [
+        698,
+        699
+      ],
+      "start_time": 2402.08,
+      "end_time": 2404.207
+    },
+    {
+      "shots": [
+        699,
+        700
+      ],
+      "start_time": 2404.249,
+      "end_time": 2407.544
+    },
+    {
+      "shots": [
+        700,
+        701
+      ],
+      "start_time": 2407.586,
+      "end_time": 2411.007
+    },
+    {
+      "shots": [
+        701,
+        702,
+        703,
+        704
+      ],
+      "start_time": 2411.049,
+      "end_time": 2414.802
+    },
+    {
+      "shots": [
+        704,
+        705
+      ],
+      "start_time": 2414.844,
+      "end_time": 2416.512
+    },
+    {
+      "shots": [
+        705,
+        706,
+        707
+      ],
+      "start_time": 2416.554,
+      "end_time": 2419.724
+    },
+    {
+      "shots": [
+        707
+      ],
+      "start_time": 2419.766,
+      "end_time": 2422.56
+    },
+    {
+      "shots": [
+        707,
+        708
+      ],
+      "start_time": 2422.602,
+      "end_time": 2424.729
+    },
+    {
+      "shots": [
+        708,
+        709,
+        710,
+        711
+      ],
+      "start_time": 2424.771,
+      "end_time": 2428.566
+    },
+    {
+      "shots": [
+        712
+      ],
+      "start_time": 2430.986,
+      "end_time": 2434.114
+    },
+    {
+      "shots": [
+        712,
+        713
+      ],
+      "start_time": 2434.156,
+      "end_time": 2435.741
+    },
+    {
+      "shots": [
+        713,
+        714
+      ],
+      "start_time": 2435.783,
+      "end_time": 2438.786
+    },
+    {
+      "shots": [
+        714,
+        715,
+        716
+      ],
+      "start_time": 2438.827,
+      "end_time": 2441.747
+    },
+    {
+      "shots": [
+        716
+      ],
+      "start_time": 2441.789,
+      "end_time": 2444.083
+    },
+    {
+      "shots": [
+        716,
+        717
+      ],
+      "start_time": 2444.124,
+      "end_time": 2448.337
+    },
+    {
+      "shots": [
+        717,
+        718
+      ],
+      "start_time": 2448.379,
+      "end_time": 2450.84
+    },
+    {
+      "shots": [
+        718,
+        719
+      ],
+      "start_time": 2450.882,
+      "end_time": 2452.425
+    },
+    {
+      "shots": [
+        719,
+        720
+      ],
+      "start_time": 2452.467,
+      "end_time": 2454.344
+    },
+    {
+      "shots": [
+        720,
+        721,
+        722
+      ],
+      "start_time": 2454.386,
+      "end_time": 2457.263
+    },
+    {
+      "shots": [
+        722,
+        723
+      ],
+      "start_time": 2457.305,
+      "end_time": 2459.516
+    },
+    {
+      "shots": [
+        723,
+        724
+      ],
+      "start_time": 2459.557,
+      "end_time": 2461.559
+    },
+    {
+      "shots": [
+        724,
+        725,
+        726
+      ],
+      "start_time": 2461.601,
+      "end_time": 2465.313
+    },
+    {
+      "shots": [
+        726,
+        727
+      ],
+      "start_time": 2465.355,
+      "end_time": 2469.234
+    },
+    {
+      "shots": [
+        727
+      ],
+      "start_time": 2469.275,
+      "end_time": 2472.988
+    },
+    {
+      "shots": [
+        727,
+        728
+      ],
+      "start_time": 2473.03,
+      "end_time": 2475.491
+    },
+    {
+      "shots": [
+        728,
+        729,
+        730
+      ],
+      "start_time": 2475.533,
+      "end_time": 2478.119
+    },
+    {
+      "shots": [
+        731
+      ],
+      "start_time": 2481.497,
+      "end_time": 2483.374
+    },
+    {
+      "shots": [
+        738
+      ],
+      "start_time": 2518.161,
+      "end_time": 2521.205
+    },
+    {
+      "shots": [
+        740
+      ],
+      "start_time": 2528.129,
+      "end_time": 2532.008
+    },
+    {
+      "shots": [
+        741,
+        742,
+        743,
+        744
+      ],
+      "start_time": 2533.176,
+      "end_time": 2537.639
+    },
+    {
+      "shots": [
+        744,
+        745
+      ],
+      "start_time": 2537.681,
+      "end_time": 2539.767
+    },
+    {
+      "shots": [
+        745,
+        746
+      ],
+      "start_time": 2539.808,
+      "end_time": 2543.562
+    },
+    {
+      "shots": [
+        746,
+        747
+      ],
+      "start_time": 2543.604,
+      "end_time": 2545.731
+    },
+    {
+      "shots": [
+        748,
+        749,
+        750,
+        751
+      ],
+      "start_time": 2546.69,
+      "end_time": 2550.486
+    },
+    {
+      "shots": [
+        751,
+        752,
+        753
+      ],
+      "start_time": 2550.527,
+      "end_time": 2553.489
+    },
+    {
+      "shots": [
+        753,
+        754,
+        755
+      ],
+      "start_time": 2553.53,
+      "end_time": 2556.451
+    },
+    {
+      "shots": [
+        772,
+        773
+      ],
+      "start_time": 2582.353,
+      "end_time": 2583.604
+    },
+    {
+      "shots": [
+        776
+      ],
+      "start_time": 2587.733,
+      "end_time": 2590.277
+    },
+    {
+      "shots": [
+        780
+      ],
+      "start_time": 2603.333,
+      "end_time": 2606.67
+    },
+    {
+      "shots": [
+        787
+      ],
+      "start_time": 2636.659,
+      "end_time": 2639.788
+    },
+    {
+      "shots": [
+        787
+      ],
+      "start_time": 2642.875,
+      "end_time": 2646.253
+    },
+    {
+      "shots": [
+        787,
+        788
+      ],
+      "start_time": 2648.922,
+      "end_time": 2652.259
+    },
+    {
+      "shots": [
+        789
+      ],
+      "start_time": 2654.72,
+      "end_time": 2658.641
+    },
+    {
+      "shots": [
+        790,
+        791
+      ],
+      "start_time": 2662.687,
+      "end_time": 2665.315
+    },
+    {
+      "shots": [
+        791,
+        792,
+        793
+      ],
+      "start_time": 2665.357,
+      "end_time": 2668.985
+    },
+    {
+      "shots": [
+        793,
+        794
+      ],
+      "start_time": 2669.027,
+      "end_time": 2671.446
+    },
+    {
+      "shots": [
+        794,
+        795
+      ],
+      "start_time": 2671.488,
+      "end_time": 2674.616
+    },
+    {
+      "shots": [
+        795,
+        796,
+        797
+      ],
+      "start_time": 2674.657,
+      "end_time": 2677.619
+    },
+    {
+      "shots": [
+        797,
+        798,
+        799
+      ],
+      "start_time": 2677.66,
+      "end_time": 2680.79
+    },
+    {
+      "shots": [
+        799,
+        800,
+        801
+      ],
+      "start_time": 2680.831,
+      "end_time": 2684.543
+    },
+    {
+      "shots": [
+        801
+      ],
+      "start_time": 2684.585,
+      "end_time": 2689.507
+    },
+    {
+      "shots": [
+        802
+      ],
+      "start_time": 2692.134,
+      "end_time": 2696.597
+    },
+    {
+      "shots": [
+        803,
+        804,
+        805
+      ],
+      "start_time": 2699.309,
+      "end_time": 2702.396
+    },
+    {
+      "shots": [
+        806,
+        807
+      ],
+      "start_time": 2705.315,
+      "end_time": 2708.652
+    },
+    {
+      "shots": [
+        808,
+        809
+      ],
+      "start_time": 2711.78,
+      "end_time": 2714.658
+    },
+    {
+      "shots": [
+        810
+      ],
+      "start_time": 2717.327,
+      "end_time": 2721.207
+    },
+    {
+      "shots": [
+        811,
+        812
+      ],
+      "start_time": 2725.336,
+      "end_time": 2727.922
+    },
+    {
+      "shots": [
+        812,
+        813,
+        814
+      ],
+      "start_time": 2727.964,
+      "end_time": 2731.217
+    },
+    {
+      "shots": [
+        814,
+        815,
+        816
+      ],
+      "start_time": 2731.259,
+      "end_time": 2734.137
+    },
+    {
+      "shots": [
+        816,
+        817,
+        818
+      ],
+      "start_time": 2734.178,
+      "end_time": 2736.681
+    },
+    {
+      "shots": [
+        818,
+        819,
+        820,
+        821
+      ],
+      "start_time": 2736.723,
+      "end_time": 2740.351
+    },
+    {
+      "shots": [
+        821,
+        822,
+        823
+      ],
+      "start_time": 2740.393,
+      "end_time": 2743.522
+    },
+    {
+      "shots": [
+        823,
+        824
+      ],
+      "start_time": 2743.564,
+      "end_time": 2746.483
+    },
+    {
+      "shots": [
+        824,
+        825
+      ],
+      "start_time": 2746.525,
+      "end_time": 2748.861
+    },
+    {
+      "shots": [
+        829
+      ],
+      "start_time": 2759.955,
+      "end_time": 2761.833
+    },
+    {
+      "shots": [
+        829
+      ],
+      "start_time": 2761.875,
+      "end_time": 2763.793
+    },
+    {
+      "shots": [
+        829,
+        830
+      ],
+      "start_time": 2763.835,
+      "end_time": 2766.546
+    },
+    {
+      "shots": [
+        830,
+        831
+      ],
+      "start_time": 2766.588,
+      "end_time": 2769.591
+    },
+    {
+      "shots": [
+        831
+      ],
+      "start_time": 2769.632,
+      "end_time": 2772.302
+    },
+    {
+      "shots": [
+        831
+      ],
+      "start_time": 2772.343,
+      "end_time": 2774.721
+    },
+    {
+      "shots": [
+        831
+      ],
+      "start_time": 2774.763,
+      "end_time": 2777.515
+    },
+    {
+      "shots": [
+        831
+      ],
+      "start_time": 2777.557,
+      "end_time": 2779.642
+    },
+    {
+      "shots": [
+        831
+      ],
+      "start_time": 2779.684,
+      "end_time": 2784.607
+    },
+    {
+      "shots": [
+        831,
+        832
+      ],
+      "start_time": 2784.648,
+      "end_time": 2788.194
+    },
+    {
+      "shots": [
+        832,
+        833
+      ],
+      "start_time": 2788.235,
+      "end_time": 2791.072
+    },
+    {
+      "shots": [
+        833,
+        834,
+        835
+      ],
+      "start_time": 2791.113,
+      "end_time": 2793.574
+    },
+    {
+      "shots": [
+        835
+      ],
+      "start_time": 2793.616,
+      "end_time": 2797.161
+    },
+    {
+      "shots": [
+        835
+      ],
+      "start_time": 2797.203,
+      "end_time": 2799.58
+    },
+    {
+      "shots": [
+        835
+      ],
+      "start_time": 2799.622,
+      "end_time": 2802.458
+    },
+    {
+      "shots": [
+        835,
+        836
+      ],
+      "start_time": 2802.5,
+      "end_time": 2805.712
+    },
+    {
+      "shots": [
+        836,
+        837
+      ],
+      "start_time": 2805.754,
+      "end_time": 2808.59
+    },
+    {
+      "shots": [
+        837
+      ],
+      "start_time": 2808.632,
+      "end_time": 2812.594
+    },
+    {
+      "shots": [
+        837
+      ],
+      "start_time": 2812.636,
+      "end_time": 2816.181
+    },
+    {
+      "shots": [
+        837
+      ],
+      "start_time": 2816.223,
+      "end_time": 2819.393
+    },
+    {
+      "shots": [
+        837
+      ],
+      "start_time": 2819.434,
+      "end_time": 2822.479
+    },
+    {
+      "shots": [
+        837
+      ],
+      "start_time": 2822.521,
+      "end_time": 2824.607
+    },
+    {
+      "shots": [
+        837
+      ],
+      "start_time": 2824.649,
+      "end_time": 2826.734
+    },
+    {
+      "shots": [
+        838,
+        839
+      ],
+      "start_time": 2827.652,
+      "end_time": 2829.737
+    },
+    {
+      "shots": [
+        839,
+        840
+      ],
+      "start_time": 2829.779,
+      "end_time": 2834.242
+    },
+    {
+      "shots": [
+        840
+      ],
+      "start_time": 2834.283,
+      "end_time": 2840.123
+    },
+    {
+      "shots": [
+        840
+      ],
+      "start_time": 2840.164,
+      "end_time": 2842.917
+    },
+    {
+      "shots": [
+        840
+      ],
+      "start_time": 2842.959,
+      "end_time": 2845.421
+    },
+    {
+      "shots": [
+        840
+      ],
+      "start_time": 2845.462,
+      "end_time": 2847.548
+    },
+    {
+      "shots": [
+        840,
+        841,
+        842
+      ],
+      "start_time": 2850.092,
+      "end_time": 2853.846
+    },
+    {
+      "shots": [
+        842,
+        843
+      ],
+      "start_time": 2853.887,
+      "end_time": 2857.474
+    },
+    {
+      "shots": [
+        843
+      ],
+      "start_time": 2857.516,
+      "end_time": 2861.478
+    },
+    {
+      "shots": [
+        843
+      ],
+      "start_time": 2861.52,
+      "end_time": 2866.359
+    },
+    {
+      "shots": [
+        843,
+        844,
+        845
+      ],
+      "start_time": 2866.401,
+      "end_time": 2870.03
+    },
+    {
+      "shots": [
+        846
+      ],
+      "start_time": 2870.822,
+      "end_time": 2872.282
+    },
+    {
+      "shots": [
+        846,
+        847,
+        848
+      ],
+      "start_time": 2872.323,
+      "end_time": 2878.288
+    },
+    {
+      "shots": [
+        848,
+        849,
+        850
+      ],
+      "start_time": 2878.329,
+      "end_time": 2881.082
+    },
+    {
+      "shots": [
+        850,
+        851
+      ],
+      "start_time": 2881.124,
+      "end_time": 2883.084
+    },
+    {
+      "shots": [
+        851
+      ],
+      "start_time": 2883.126,
+      "end_time": 2887.673
+    },
+    {
+      "shots": [
+        852
+      ],
+      "start_time": 2888.966,
+      "end_time": 2892.511
+    },
+    {
+      "shots": [
+        853,
+        854
+      ],
+      "start_time": 2895.181,
+      "end_time": 2899.435
+    },
+    {
+      "shots": [
+        854,
+        855
+      ],
+      "start_time": 2899.477,
+      "end_time": 2902.396
+    },
+    {
+      "shots": [
+        855
+      ],
+      "start_time": 2902.438,
+      "end_time": 2905.441
+    },
+    {
+      "shots": [
+        855,
+        856
+      ],
+      "start_time": 2906.693,
+      "end_time": 2908.779
+    },
+    {
+      "shots": [
+        856
+      ],
+      "start_time": 2910.864,
+      "end_time": 2912.949
+    },
+    {
+      "shots": [
+        859,
+        860,
+        861,
+        862
+      ],
+      "start_time": 2919.331,
+      "end_time": 2922.167
+    },
+    {
+      "shots": [
+        862,
+        863,
+        864
+      ],
+      "start_time": 2922.209,
+      "end_time": 2926.922
+    },
+    {
+      "shots": [
+        864,
+        865
+      ],
+      "start_time": 2926.964,
+      "end_time": 2930.76
+    },
+    {
+      "shots": [
+        865,
+        866
+      ],
+      "start_time": 2930.802,
+      "end_time": 2934.764
+    },
+    {
+      "shots": [
+        866,
+        867
+      ],
+      "start_time": 2934.806,
+      "end_time": 2938.935
+    },
+    {
+      "shots": [
+        867
+      ],
+      "start_time": 2938.976,
+      "end_time": 2942.522
+    },
+    {
+      "shots": [
+        867,
+        868
+      ],
+      "start_time": 2942.563,
+      "end_time": 2945.65
+    },
+    {
+      "shots": [
+        868,
+        869
+      ],
+      "start_time": 2945.692,
+      "end_time": 2948.153
+    },
+    {
+      "shots": [
+        869,
+        870,
+        871
+      ],
+      "start_time": 2948.195,
+      "end_time": 2952.491
+    },
+    {
+      "shots": [
+        871,
+        872,
+        873
+      ],
+      "start_time": 2952.533,
+      "end_time": 2955.619
+    },
+    {
+      "shots": [
+        873,
+        874
+      ],
+      "start_time": 2955.661,
+      "end_time": 2959.832
+    },
+    {
+      "shots": [
+        874,
+        875
+      ],
+      "start_time": 2959.873,
+      "end_time": 2962.918
+    },
+    {
+      "shots": [
+        875,
+        876
+      ],
+      "start_time": 2962.96,
+      "end_time": 2965.045
+    },
+    {
+      "shots": [
+        876,
+        877
+      ],
+      "start_time": 2965.087,
+      "end_time": 2967.256
+    },
+    {
+      "shots": [
+        877,
+        878
+      ],
+      "start_time": 2967.297,
+      "end_time": 2971.01
+    },
+    {
+      "shots": [
+        878,
+        879
+      ],
+      "start_time": 2971.052,
+      "end_time": 2974.347
+    },
+    {
+      "shots": [
+        879,
+        880
+      ],
+      "start_time": 2974.389,
+      "end_time": 2976.891
+    },
+    {
+      "shots": [
+        882,
+        883,
+        884
+      ],
+      "start_time": 2981.146,
+      "end_time": 2983.231
+    },
+    {
+      "shots": [
+        886,
+        887,
+        888
+      ],
+      "start_time": 2985.358,
+      "end_time": 2988.737
+    },
+    {
+      "shots": [
+        888
+      ],
+      "start_time": 2988.778,
+      "end_time": 2992.491
+    },
+    {
+      "shots": [
+        888,
+        889,
+        890
+      ],
+      "start_time": 2992.533,
+      "end_time": 2995.953
+    },
+    {
+      "shots": [
+        890,
+        891
+      ],
+      "start_time": 2995.995,
+      "end_time": 2999.498
+    },
+    {
+      "shots": [
+        891,
+        892
+      ],
+      "start_time": 2999.54,
+      "end_time": 3003.169
+    },
+    {
+      "shots": [
+        892
+      ],
+      "start_time": 3003.21,
+      "end_time": 3005.504
+    },
+    {
+      "shots": [
+        892
+      ],
+      "start_time": 3005.546,
+      "end_time": 3007.757
+    },
+    {
+      "shots": [
+        892,
+        893
+      ],
+      "start_time": 3007.798,
+      "end_time": 3010.677
+    },
+    {
+      "shots": [
+        893,
+        894
+      ],
+      "start_time": 3010.719,
+      "end_time": 3013.221
+    },
+    {
+      "shots": [
+        894
+      ],
+      "start_time": 3013.263,
+      "end_time": 3015.39
+    },
+    {
+      "shots": [
+        894,
+        895,
+        896
+      ],
+      "start_time": 3015.432,
+      "end_time": 3019.478
+    },
+    {
+      "shots": [
+        896,
+        897
+      ],
+      "start_time": 3019.519,
+      "end_time": 3023.19
+    },
+    {
+      "shots": [
+        897
+      ],
+      "start_time": 3023.231,
+      "end_time": 3026.443
+    },
+    {
+      "shots": [
+        898
+      ],
+      "start_time": 3027.527,
+      "end_time": 3029.863
+    },
+    {
+      "shots": [
+        898,
+        899,
+        900,
+        901
+      ],
+      "start_time": 3029.905,
+      "end_time": 3033.409
+    },
+    {
+      "shots": [
+        901,
+        902,
+        903
+      ],
+      "start_time": 3033.451,
+      "end_time": 3035.995
+    },
+    {
+      "shots": [
+        903
+      ],
+      "start_time": 3038.623,
+      "end_time": 3041.959
+    },
+    {
+      "shots": [
+        903,
+        904,
+        905
+      ],
+      "start_time": 3042.001,
+      "end_time": 3044.629
+    },
+    {
+      "shots": [
+        909
+      ],
+      "start_time": 3057.851,
+      "end_time": 3059.728
+    },
+    {
+      "shots": [
+        909,
+        910
+      ],
+      "start_time": 3059.77,
+      "end_time": 3063.399
+    },
+    {
+      "shots": [
+        910
+      ],
+      "start_time": 3063.44,
+      "end_time": 3065.317
+    },
+    {
+      "shots": [
+        910,
+        911
+      ],
+      "start_time": 3065.359,
+      "end_time": 3068.32
+    },
+    {
+      "shots": [
+        911,
+        912,
+        913
+      ],
+      "start_time": 3068.362,
+      "end_time": 3070.781
+    },
+    {
+      "shots": [
+        913
+      ],
+      "start_time": 3070.823,
+      "end_time": 3073.743
+    },
+    {
+      "shots": [
+        919,
+        920
+      ],
+      "start_time": 3093.723,
+      "end_time": 3096.1
+    },
+    {
+      "shots": [
+        920,
+        921
+      ],
+      "start_time": 3097.184,
+      "end_time": 3100.521
+    },
+    {
+      "shots": [
+        921
+      ],
+      "start_time": 3100.563,
+      "end_time": 3103.19
+    },
+    {
+      "shots": [
+        921,
+        922,
+        923
+      ],
+      "start_time": 3103.232,
+      "end_time": 3107.987
+    },
+    {
+      "shots": [
+        923,
+        924,
+        925
+      ],
+      "start_time": 3108.029,
+      "end_time": 3110.406
+    },
+    {
+      "shots": [
+        925,
+        926,
+        927
+      ],
+      "start_time": 3110.448,
+      "end_time": 3113.827
+    },
+    {
+      "shots": [
+        927,
+        928
+      ],
+      "start_time": 3113.869,
+      "end_time": 3118.206
+    },
+    {
+      "shots": [
+        928,
+        929,
+        930
+      ],
+      "start_time": 3118.248,
+      "end_time": 3121.501
+    },
+    {
+      "shots": [
+        932,
+        933,
+        934
+      ],
+      "start_time": 3132.679,
+      "end_time": 3135.767
+    },
+    {
+      "shots": [
+        934,
+        935
+      ],
+      "start_time": 3135.808,
+      "end_time": 3137.769
+    },
+    {
+      "shots": [
+        952,
+        953,
+        954
+      ],
+      "start_time": 3238.458,
+      "end_time": 3240.334
+    },
+    {
+      "shots": [
+        960
+      ],
+      "start_time": 3254.891,
+      "end_time": 3256.851
+    },
+    {
+      "shots": [
+        960,
+        961
+      ],
+      "start_time": 3256.893,
+      "end_time": 3258.979
+    },
+    {
+      "shots": [
+        961
+      ],
+      "start_time": 3259.021,
+      "end_time": 3260.397
+    },
+    {
+      "shots": [
+        961,
+        962
+      ],
+      "start_time": 3260.439,
+      "end_time": 3263.442
+    },
+    {
+      "shots": [
+        962,
+        963,
+        964
+      ],
+      "start_time": 3263.484,
+      "end_time": 3266.612
+    },
+    {
+      "shots": [
+        965,
+        966,
+        967
+      ],
+      "start_time": 3266.653,
+      "end_time": 3271.033
+    },
+    {
+      "shots": [
+        967,
+        968
+      ],
+      "start_time": 3271.075,
+      "end_time": 3273.327
+    },
+    {
+      "shots": [
+        970,
+        971
+      ],
+      "start_time": 3276.455,
+      "end_time": 3278.957
+    },
+    {
+      "shots": [
+        971,
+        972
+      ],
+      "start_time": 3279.584,
+      "end_time": 3280.752
+    },
+    {
+      "shots": [
+        972,
+        973
+      ],
+      "start_time": 3280.794,
+      "end_time": 3283.755
+    },
+    {
+      "shots": [
+        973,
+        974
+      ],
+      "start_time": 3283.797,
+      "end_time": 3286.132
+    },
+    {
+      "shots": [
+        978,
+        979,
+        980
+      ],
+      "start_time": 3299.562,
+      "end_time": 3301.44
+    },
+    {
+      "shots": [
+        981,
+        982
+      ],
+      "start_time": 3306.112,
+      "end_time": 3308.906
+    },
+    {
+      "shots": [
+        982,
+        983
+      ],
+      "start_time": 3308.948,
+      "end_time": 3311.117
+    },
+    {
+      "shots": [
+        983,
+        984
+      ],
+      "start_time": 3311.158,
+      "end_time": 3314.412
+    },
+    {
+      "shots": [
+        992,
+        993
+      ],
+      "start_time": 3341.691,
+      "end_time": 3343.359
+    },
+    {
+      "shots": [
+        994,
+        995
+      ],
+      "start_time": 3348.114,
+      "end_time": 3349.866
+    },
+    {
+      "shots": [
+        1002,
+        1003
+      ],
+      "start_time": 3365.09,
+      "end_time": 3367.301
+    },
+    {
+      "shots": [
+        1004,
+        1005
+      ],
+      "start_time": 3383.735,
+      "end_time": 3386.488
+    },
+    {
+      "shots": [
+        1010,
+        1011,
+        1012
+      ],
+      "start_time": 3432.869,
+      "end_time": 3435.372
+    },
+    {
+      "shots": [
+        1012,
+        1013,
+        1014
+      ],
+      "start_time": 3435.414,
+      "end_time": 3438.667
+    },
+    {
+      "shots": [
+        1014,
+        1015
+      ],
+      "start_time": 3438.709,
+      "end_time": 3440.961
+    },
+    {
+      "shots": [
+        1016,
+        1017
+      ],
+      "start_time": 3442.379,
+      "end_time": 3444.131
+    },
+    {
+      "shots": [
+        1017,
+        1018
+      ],
+      "start_time": 3444.172,
+      "end_time": 3447.885
+    },
+    {
+      "shots": [
+        1022,
+        1023
+      ],
+      "start_time": 3458.521,
+      "end_time": 3463.276
+    },
+    {
+      "shots": [
+        1035
+      ],
+      "start_time": 3511.827,
+      "end_time": 3513.913
+    },
+    {
+      "shots": [
+        1035
+      ],
+      "start_time": 3513.954,
+      "end_time": 3516.04
+    },
+    {
+      "shots": [
+        1035
+      ],
+      "start_time": 3520.378,
+      "end_time": 3524.173
+    },
+    {
+      "shots": [
+        1035
+      ],
+      "start_time": 3527.134,
+      "end_time": 3529.304
+    },
+    {
+      "shots": [
+        1035
+      ],
+      "start_time": 3529.346,
+      "end_time": 3531.556
+    },
+    {
+      "shots": [
+        1035
+      ],
+      "start_time": 3535.268,
+      "end_time": 3538.105
+    },
+    {
+      "shots": [
+        1035
+      ],
+      "start_time": 3538.146,
+      "end_time": 3540.774
+    },
+    {
+      "shots": [
+        1035
+      ],
+      "start_time": 3540.816,
+      "end_time": 3543.485
+    },
+    {
+      "shots": [
+        1035
+      ],
+      "start_time": 3543.527,
+      "end_time": 3545.904
+    },
+    {
+      "shots": [
+        1035,
+        1036,
+        1037
+      ],
+      "start_time": 3545.946,
+      "end_time": 3548.95
+    },
+    {
+      "shots": [
+        1037,
+        1038,
+        1039
+      ],
+      "start_time": 3548.991,
+      "end_time": 3551.619
+    },
+    {
+      "shots": [
+        1039,
+        1040,
+        1041
+      ],
+      "start_time": 3552.37,
+      "end_time": 3555.623
+    },
+    {
+      "shots": [
+        1041
+      ],
+      "start_time": 3555.665,
+      "end_time": 3558.543
+    },
+    {
+      "shots": [
+        1041
+      ],
+      "start_time": 3558.584,
+      "end_time": 3561.003
+    },
+    {
+      "shots": [
+        1041,
+        1042,
+        1043
+      ],
+      "start_time": 3561.045,
+      "end_time": 3564.382
+    },
+    {
+      "shots": [
+        1043,
+        1044
+      ],
+      "start_time": 3564.424,
+      "end_time": 3567.593
+    },
+    {
+      "shots": [
+        1044,
+        1045,
+        1046
+      ],
+      "start_time": 3567.635,
+      "end_time": 3570.764
+    },
+    {
+      "shots": [
+        1046
+      ],
+      "start_time": 3570.806,
+      "end_time": 3572.891
+    },
+    {
+      "shots": [
+        1046
+      ],
+      "start_time": 3572.933,
+      "end_time": 3577.855
+    },
+    {
+      "shots": [
+        1046,
+        1047,
+        1048,
+        1049
+      ],
+      "start_time": 3577.896,
+      "end_time": 3581.567
+    },
+    {
+      "shots": [
+        1049,
+        1050
+      ],
+      "start_time": 3583.152,
+      "end_time": 3585.279
+    },
+    {
+      "shots": [
+        1050
+      ],
+      "start_time": 3585.32,
+      "end_time": 3587.74
+    },
+    {
+      "shots": [
+        1051,
+        1052
+      ],
+      "start_time": 3591.327,
+      "end_time": 3595.29
+    },
+    {
+      "shots": [
+        1052
+      ],
+      "start_time": 3595.331,
+      "end_time": 3597.959
+    },
+    {
+      "shots": [
+        1052,
+        1053,
+        1054
+      ],
+      "start_time": 3598.001,
+      "end_time": 3601.838
+    },
+    {
+      "shots": [
+        1054,
+        1055
+      ],
+      "start_time": 3601.88,
+      "end_time": 3605.091
+    },
+    {
+      "shots": [
+        1055,
+        1056
+      ],
+      "start_time": 3605.133,
+      "end_time": 3607.969
+    },
+    {
+      "shots": [
+        1056,
+        1057
+      ],
+      "start_time": 3608.011,
+      "end_time": 3611.307
+    },
+    {
+      "shots": [
+        1057,
+        1058,
+        1059
+      ],
+      "start_time": 3611.348,
+      "end_time": 3613.434
+    },
+    {
+      "shots": [
+        1059,
+        1060
+      ],
+      "start_time": 3613.476,
+      "end_time": 3617.605
+    },
+    {
+      "shots": [
+        1060,
+        1061
+      ],
+      "start_time": 3617.646,
+      "end_time": 3621.4
+    },
+    {
+      "shots": [
+        1061,
+        1062,
+        1063
+      ],
+      "start_time": 3621.442,
+      "end_time": 3625.696
+    },
+    {
+      "shots": [
+        1063,
+        1064
+      ],
+      "start_time": 3625.738,
+      "end_time": 3629.241
+    },
+    {
+      "shots": [
+        1064,
+        1065,
+        1066
+      ],
+      "start_time": 3629.283,
+      "end_time": 3632.662
+    },
+    {
+      "shots": [
+        1066,
+        1067,
+        1068
+      ],
+      "start_time": 3632.704,
+      "end_time": 3635.791
+    },
+    {
+      "shots": [
+        1068,
+        1069,
+        1070
+      ],
+      "start_time": 3635.832,
+      "end_time": 3640.837
+    },
+    {
+      "shots": [
+        1070,
+        1071,
+        1072,
+        1073
+      ],
+      "start_time": 3640.879,
+      "end_time": 3644.341
+    },
+    {
+      "shots": [
+        1073,
+        1074
+      ],
+      "start_time": 3644.383,
+      "end_time": 3646.843
+    },
+    {
+      "shots": [
+        1074,
+        1075,
+        1076
+      ],
+      "start_time": 3646.885,
+      "end_time": 3649.805
+    },
+    {
+      "shots": [
+        1076
+      ],
+      "start_time": 3650.847,
+      "end_time": 3653.601
+    },
+    {
+      "shots": [
+        1076,
+        1077,
+        1078
+      ],
+      "start_time": 3653.643,
+      "end_time": 3658.648
+    },
+    {
+      "shots": [
+        1078,
+        1079
+      ],
+      "start_time": 3658.689,
+      "end_time": 3660.817
+    },
+    {
+      "shots": [
+        1079,
+        1080,
+        1081
+      ],
+      "start_time": 3660.858,
+      "end_time": 3663.986
+    },
+    {
+      "shots": [
+        1081,
+        1082
+      ],
+      "start_time": 3664.654,
+      "end_time": 3666.739
+    },
+    {
+      "shots": [
+        1082,
+        1083
+      ],
+      "start_time": 3666.781,
+      "end_time": 3669.909
+    },
+    {
+      "shots": [
+        1083
+      ],
+      "start_time": 3669.951,
+      "end_time": 3674.081
+    },
+    {
+      "shots": [
+        1083,
+        1084,
+        1085,
+        1086
+      ],
+      "start_time": 3674.123,
+      "end_time": 3679.086
+    },
+    {
+      "shots": [
+        1086,
+        1087,
+        1088
+      ],
+      "start_time": 3681.422,
+      "end_time": 3683.465
+    },
+    {
+      "shots": [
+        1088,
+        1089
+      ],
+      "start_time": 3683.507,
+      "end_time": 3686.593
+    },
+    {
+      "shots": [
+        1100,
+        1101
+      ],
+      "start_time": 3723.966,
+      "end_time": 3725.718
+    },
+    {
+      "shots": [
+        1103,
+        1104
+      ],
+      "start_time": 3727.261,
+      "end_time": 3730.347
+    },
+    {
+      "shots": [
+        1104,
+        1105,
+        1106
+      ],
+      "start_time": 3730.389,
+      "end_time": 3733.309
+    },
+    {
+      "shots": [
+        1106,
+        1107
+      ],
+      "start_time": 3737.481,
+      "end_time": 3740.4
+    },
+    {
+      "shots": [
+        1107
+      ],
+      "start_time": 3740.442,
+      "end_time": 3742.736
+    },
+    {
+      "shots": [
+        1107,
+        1108,
+        1109
+      ],
+      "start_time": 3742.778,
+      "end_time": 3745.697
+    },
+    {
+      "shots": [
+        1109
+      ],
+      "start_time": 3745.739,
+      "end_time": 3750.41
+    },
+    {
+      "shots": [
+        1109,
+        1110
+      ],
+      "start_time": 3750.452,
+      "end_time": 3753.705
+    },
+    {
+      "shots": [
+        1110
+      ],
+      "start_time": 3753.747,
+      "end_time": 3757.001
+    },
+    {
+      "shots": [
+        1110,
+        1111
+      ],
+      "start_time": 3757.043,
+      "end_time": 3759.253
+    },
+    {
+      "shots": [
+        1112,
+        1113,
+        1114
+      ],
+      "start_time": 3764.05,
+      "end_time": 3767.136
+    },
+    {
+      "shots": [
+        1114,
+        1115,
+        1116
+      ],
+      "start_time": 3767.178,
+      "end_time": 3770.473
+    },
+    {
+      "shots": [
+        1116
+      ],
+      "start_time": 3771.974,
+      "end_time": 3776.354
+    },
+    {
+      "shots": [
+        1116
+      ],
+      "start_time": 3776.396,
+      "end_time": 3780.025
+    },
+    {
+      "shots": [
+        1116
+      ],
+      "start_time": 3780.067,
+      "end_time": 3782.194
+    },
+    {
+      "shots": [
+        1116,
+        1117
+      ],
+      "start_time": 3782.236,
+      "end_time": 3783.737
+    },
+    {
+      "shots": [
+        1118
+      ],
+      "start_time": 3784.947,
+      "end_time": 3788.367
+    },
+    {
+      "shots": [
+        1118,
+        1119
+      ],
+      "start_time": 3788.409,
+      "end_time": 3791.495
+    },
+    {
+      "shots": [
+        1119,
+        1120,
+        1121
+      ],
+      "start_time": 3791.537,
+      "end_time": 3794.998
+    },
+    {
+      "shots": [
+        1121,
+        1122
+      ],
+      "start_time": 3795.04,
+      "end_time": 3799.462
+    },
+    {
+      "shots": [
+        1122,
+        1123,
+        1124
+      ],
+      "start_time": 3799.504,
+      "end_time": 3802.215
+    },
+    {
+      "shots": [
+        1124,
+        1125,
+        1126
+      ],
+      "start_time": 3804.551,
+      "end_time": 3809.013
+    },
+    {
+      "shots": [
+        1126
+      ],
+      "start_time": 3809.055,
+      "end_time": 3812.058
+    },
+    {
+      "shots": [
+        1126,
+        1127
+      ],
+      "start_time": 3812.1,
+      "end_time": 3815.145
+    },
+    {
+      "shots": [
+        1128
+      ],
+      "start_time": 3815.186,
+      "end_time": 3817.272
+    },
+    {
+      "shots": [
+        1129
+      ],
+      "start_time": 3821.861,
+      "end_time": 3823.32
+    },
+    {
+      "shots": [
+        1130,
+        1131
+      ],
+      "start_time": 3825.239,
+      "end_time": 3827.116
+    },
+    {
+      "shots": [
+        1132,
+        1133
+      ],
+      "start_time": 3832.538,
+      "end_time": 3834.623
+    },
+    {
+      "shots": [
+        1134
+      ],
+      "start_time": 3841.965,
+      "end_time": 3844.217
+    },
+    {
+      "shots": [
+        1136
+      ],
+      "start_time": 3850.182,
+      "end_time": 3852.267
+    },
+    {
+      "shots": [
+        1136
+      ],
+      "start_time": 3853.06,
+      "end_time": 3855.145
+    },
+    {
+      "shots": [
+        1136,
+        1137
+      ],
+      "start_time": 3855.187,
+      "end_time": 3859.191
+    },
+    {
+      "shots": [
+        1137,
+        1138
+      ],
+      "start_time": 3859.232,
+      "end_time": 3861.194
+    },
+    {
+      "shots": [
+        1140,
+        1141,
+        1142,
+        1143
+      ],
+      "start_time": 3864.447,
+      "end_time": 3867.909
+    },
+    {
+      "shots": [
+        1143
+      ],
+      "start_time": 3867.95,
+      "end_time": 3873.414
+    },
+    {
+      "shots": [
+        1145
+      ],
+      "start_time": 3877.126,
+      "end_time": 3881.048
+    },
+    {
+      "shots": [
+        1145
+      ],
+      "start_time": 3881.09,
+      "end_time": 3883.383
+    },
+    {
+      "shots": [
+        1145
+      ],
+      "start_time": 3883.425,
+      "end_time": 3887.596
+    },
+    {
+      "shots": [
+        1145
+      ],
+      "start_time": 3887.638,
+      "end_time": 3891.6
+    },
+    {
+      "shots": [
+        1145
+      ],
+      "start_time": 3891.642,
+      "end_time": 3894.353
+    },
+    {
+      "shots": [
+        1145
+      ],
+      "start_time": 3894.395,
+      "end_time": 3896.271
+    },
+    {
+      "shots": [
+        1145
+      ],
+      "start_time": 3896.313,
+      "end_time": 3899.983
+    },
+    {
+      "shots": [
+        1147,
+        1148
+      ],
+      "start_time": 3903.321,
+      "end_time": 3906.574
+    },
+    {
+      "shots": [
+        1151,
+        1152,
+        1153
+      ],
+      "start_time": 3914.332,
+      "end_time": 3916.751
+    },
+    {
+      "shots": [
+        1153,
+        1154,
+        1155
+      ],
+      "start_time": 3916.793,
+      "end_time": 3920.046
+    },
+    {
+      "shots": [
+        1156,
+        1157,
+        1158
+      ],
+      "start_time": 3920.088,
+      "end_time": 3923.217
+    },
+    {
+      "shots": [
+        1158
+      ],
+      "start_time": 3923.259,
+      "end_time": 3927.179
+    },
+    {
+      "shots": [
+        1158
+      ],
+      "start_time": 3927.221,
+      "end_time": 3931.183
+    },
+    {
+      "shots": [
+        1158,
+        1159
+      ],
+      "start_time": 3931.225,
+      "end_time": 3933.31
+    },
+    {
+      "shots": [
+        1159,
+        1160
+      ],
+      "start_time": 3934.437,
+      "end_time": 3937.648
+    },
+    {
+      "shots": [
+        1160,
+        1161
+      ],
+      "start_time": 3937.69,
+      "end_time": 3939.9
+    },
+    {
+      "shots": [
+        1163,
+        1164,
+        1165
+      ],
+      "start_time": 3941.485,
+      "end_time": 3943.697
+    },
+    {
+      "shots": [
+        1165
+      ],
+      "start_time": 3943.739,
+      "end_time": 3945.824
+    },
+    {
+      "shots": [
+        1165,
+        1166,
+        1167
+      ],
+      "start_time": 3945.866,
+      "end_time": 3948.201
+    },
+    {
+      "shots": [
+        1170,
+        1171,
+        1172
+      ],
+      "start_time": 3952.33,
+      "end_time": 3954.791
+    },
+    {
+      "shots": [
+        1175,
+        1176,
+        1177,
+        1178
+      ],
+      "start_time": 3960.005,
+      "end_time": 3963.384
+    },
+    {
+      "shots": [
+        1178,
+        1179,
+        1180
+      ],
+      "start_time": 3963.426,
+      "end_time": 3965.47
+    },
+    {
+      "shots": [
+        1180,
+        1181,
+        1182
+      ],
+      "start_time": 3965.511,
+      "end_time": 3967.346
+    },
+    {
+      "shots": [
+        1182,
+        1183,
+        1184
+      ],
+      "start_time": 3967.388,
+      "end_time": 3971.142
+    },
+    {
+      "shots": [
+        1198,
+        1199,
+        1200,
+        1201
+      ],
+      "start_time": 3987.034,
+      "end_time": 3989.119
+    },
+    {
+      "shots": [
+        1213
+      ],
+      "start_time": 4006.888,
+      "end_time": 4009.099
+    },
+    {
+      "shots": [
+        1213
+      ],
+      "start_time": 4010.308,
+      "end_time": 4012.185
+    },
+    {
+      "shots": [
+        1214
+      ],
+      "start_time": 4019.442,
+      "end_time": 4022.32
+    },
+    {
+      "shots": [
+        1214
+      ],
+      "start_time": 4022.362,
+      "end_time": 4024.906
+    },
+    {
+      "shots": [
+        1214,
+        1215
+      ],
+      "start_time": 4024.948,
+      "end_time": 4027.284
+    },
+    {
+      "shots": [
+        1215,
+        1216
+      ],
+      "start_time": 4027.326,
+      "end_time": 4029.787
+    },
+    {
+      "shots": [
+        1216
+      ],
+      "start_time": 4029.829,
+      "end_time": 4032.706
+    },
+    {
+      "shots": [
+        1216
+      ],
+      "start_time": 4032.748,
+      "end_time": 4037.211
+    },
+    {
+      "shots": [
+        1216
+      ],
+      "start_time": 4037.253,
+      "end_time": 4039.338
+    },
+    {
+      "shots": [
+        1216,
+        1217,
+        1218
+      ],
+      "start_time": 4039.38,
+      "end_time": 4042.133
+    },
+    {
+      "shots": [
+        1218,
+        1219
+      ],
+      "start_time": 4042.174,
+      "end_time": 4045.094
+    },
+    {
+      "shots": [
+        1219,
+        1220
+      ],
+      "start_time": 4045.136,
+      "end_time": 4049.349
+    },
+    {
+      "shots": [
+        1220,
+        1221
+      ],
+      "start_time": 4049.391,
+      "end_time": 4052.936
+    },
+    {
+      "shots": [
+        1221,
+        1222
+      ],
+      "start_time": 4052.978,
+      "end_time": 4055.564
+    },
+    {
+      "shots": [
+        1222,
+        1223
+      ],
+      "start_time": 4055.605,
+      "end_time": 4058.108
+    },
+    {
+      "shots": [
+        1223,
+        1224
+      ],
+      "start_time": 4058.15,
+      "end_time": 4062.154
+    },
+    {
+      "shots": [
+        1224,
+        1225
+      ],
+      "start_time": 4062.195,
+      "end_time": 4066.283
+    },
+    {
+      "shots": [
+        1225,
+        1226
+      ],
+      "start_time": 4066.324,
+      "end_time": 4068.911
+    },
+    {
+      "shots": [
+        1226
+      ],
+      "start_time": 4068.953,
+      "end_time": 4071.497
+    },
+    {
+      "shots": [
+        1226,
+        1227
+      ],
+      "start_time": 4072.248,
+      "end_time": 4074.333
+    },
+    {
+      "shots": [
+        1227
+      ],
+      "start_time": 4074.375,
+      "end_time": 4079.172
+    },
+    {
+      "shots": [
+        1227
+      ],
+      "start_time": 4079.213,
+      "end_time": 4082.3
+    },
+    {
+      "shots": [
+        1227
+      ],
+      "start_time": 4082.341,
+      "end_time": 4084.761
+    },
+    {
+      "shots": [
+        1227
+      ],
+      "start_time": 4084.802,
+      "end_time": 4087.556
+    },
+    {
+      "shots": [
+        1227
+      ],
+      "start_time": 4089.808,
+      "end_time": 4092.811
+    },
+    {
+      "shots": [
+        1227
+      ],
+      "start_time": 4092.853,
+      "end_time": 4094.521
+    },
+    {
+      "shots": [
+        1227
+      ],
+      "start_time": 4099.109,
+      "end_time": 4100.986
+    },
+    {
+      "shots": [
+        1227,
+        1228
+      ],
+      "start_time": 4101.028,
+      "end_time": 4103.53
+    },
+    {
+      "shots": [
+        1228
+      ],
+      "start_time": 4103.572,
+      "end_time": 4105.657
+    },
+    {
+      "shots": [
+        1228,
+        1229
+      ],
+      "start_time": 4107.743,
+      "end_time": 4110.914
+    },
+    {
+      "shots": [
+        1230,
+        1231
+      ],
+      "start_time": 4112.665,
+      "end_time": 4116.127
+    },
+    {
+      "shots": [
+        1231
+      ],
+      "start_time": 4116.169,
+      "end_time": 4122.3
+    },
+    {
+      "shots": [
+        1231,
+        1232
+      ],
+      "start_time": 4122.342,
+      "end_time": 4125.97
+    },
+    {
+      "shots": [
+        1234
+      ],
+      "start_time": 4132.686,
+      "end_time": 4135.731
+    },
+    {
+      "shots": [
+        1234
+      ],
+      "start_time": 4135.773,
+      "end_time": 4137.858
+    },
+    {
+      "shots": [
+        1234
+      ],
+      "start_time": 4137.9,
+      "end_time": 4140.861
+    },
+    {
+      "shots": [
+        1234
+      ],
+      "start_time": 4143.948,
+      "end_time": 4145.825
+    },
+    {
+      "shots": [
+        1234
+      ],
+      "start_time": 4147.326,
+      "end_time": 4149.078
+    },
+    {
+      "shots": [
+        1234,
+        1235,
+        1236
+      ],
+      "start_time": 4149.12,
+      "end_time": 4152.082
+    },
+    {
+      "shots": [
+        1236
+      ],
+      "start_time": 4152.124,
+      "end_time": 4155.335
+    },
+    {
+      "shots": [
+        1236
+      ],
+      "start_time": 4155.377,
+      "end_time": 4157.212
+    },
+    {
+      "shots": [
+        1236,
+        1237,
+        1238
+      ],
+      "start_time": 4157.254,
+      "end_time": 4160.132
+    },
+    {
+      "shots": [
+        1242
+      ],
+      "start_time": 4182.447,
+      "end_time": 4185.908
+    },
+    {
+      "shots": [
+        1242
+      ],
+      "start_time": 4187.16,
+      "end_time": 4190.913
+    },
+    {
+      "shots": [
+        1244,
+        1245,
+        1246
+      ],
+      "start_time": 4194.293,
+      "end_time": 4196.628
+    },
+    {
+      "shots": [
+        1246,
+        1247
+      ],
+      "start_time": 4196.67,
+      "end_time": 4199.506
+    },
+    {
+      "shots": [
+        1247,
+        1248
+      ],
+      "start_time": 4199.548,
+      "end_time": 4202.176
+    },
+    {
+      "shots": [
+        1248,
+        1249
+      ],
+      "start_time": 4202.217,
+      "end_time": 4203.761
+    },
+    {
+      "shots": [
+        1249,
+        1250,
+        1251
+      ],
+      "start_time": 4203.802,
+      "end_time": 4206.472
+    },
+    {
+      "shots": [
+        1251,
+        1252
+      ],
+      "start_time": 4206.513,
+      "end_time": 4211.268
+    },
+    {
+      "shots": [
+        1252,
+        1253,
+        1254
+      ],
+      "start_time": 4211.31,
+      "end_time": 4213.48
+    },
+    {
+      "shots": [
+        1254
+      ],
+      "start_time": 4213.521,
+      "end_time": 4216.441
+    },
+    {
+      "shots": [
+        1254,
+        1255
+      ],
+      "start_time": 4216.483,
+      "end_time": 4220.361
+    },
+    {
+      "shots": [
+        1255,
+        1256
+      ],
+      "start_time": 4220.403,
+      "end_time": 4223.114
+    },
+    {
+      "shots": [
+        1256,
+        1257
+      ],
+      "start_time": 4223.156,
+      "end_time": 4225.2
+    },
+    {
+      "shots": [
+        1295,
+        1296
+      ],
+      "start_time": 4406.807,
+      "end_time": 4408.892
+    },
+    {
+      "shots": [
+        1298
+      ],
+      "start_time": 4409.81,
+      "end_time": 4411.895
+    },
+    {
+      "shots": [
+        1299,
+        1300
+      ],
+      "start_time": 4411.937,
+      "end_time": 4415.649
+    },
+    {
+      "shots": [
+        1300
+      ],
+      "start_time": 4415.691,
+      "end_time": 4418.193
+    },
+    {
+      "shots": [
+        1301,
+        1302
+      ],
+      "start_time": 4419.904,
+      "end_time": 4421.781
+    },
+    {
+      "shots": [
+        1307
+      ],
+      "start_time": 4434.294,
+      "end_time": 4436.838
+    },
+    {
+      "shots": [
+        1307
+      ],
+      "start_time": 4436.88,
+      "end_time": 4438.965
+    },
+    {
+      "shots": [
+        1309,
+        1310
+      ],
+      "start_time": 4446.891,
+      "end_time": 4449.477
+    },
+    {
+      "shots": [
+        1310,
+        1311
+      ],
+      "start_time": 4449.518,
+      "end_time": 4451.604
+    },
+    {
+      "shots": [
+        1311,
+        1312,
+        1313
+      ],
+      "start_time": 4451.645,
+      "end_time": 4455.9
+    },
+    {
+      "shots": [
+        1313,
+        1314
+      ],
+      "start_time": 4455.941,
+      "end_time": 4457.151
+    },
+    {
+      "shots": [
+        1315,
+        1316,
+        1317
+      ],
+      "start_time": 4458.319,
+      "end_time": 4461.239
+    },
+    {
+      "shots": [
+        1319,
+        1320
+      ],
+      "start_time": 4483.805,
+      "end_time": 4488.726
+    },
+    {
+      "shots": [
+        1320,
+        1321,
+        1322
+      ],
+      "start_time": 4488.768,
+      "end_time": 4492.563
+    },
+    {
+      "shots": [
+        1322
+      ],
+      "start_time": 4492.605,
+      "end_time": 4495.066
+    },
+    {
+      "shots": [
+        1322,
+        1323,
+        1324
+      ],
+      "start_time": 4495.108,
+      "end_time": 4497.652
+    },
+    {
+      "shots": [
+        1324
+      ],
+      "start_time": 4497.693,
+      "end_time": 4499.57
+    },
+    {
+      "shots": [
+        1324,
+        1325,
+        1326
+      ],
+      "start_time": 4499.612,
+      "end_time": 4503.7
+    },
+    {
+      "shots": [
+        1327,
+        1328,
+        1329
+      ],
+      "start_time": 4503.742,
+      "end_time": 4508.122
+    },
+    {
+      "shots": [
+        1329,
+        1330,
+        1331
+      ],
+      "start_time": 4508.163,
+      "end_time": 4512.167
+    },
+    {
+      "shots": [
+        1331,
+        1332,
+        1333,
+        1334
+      ],
+      "start_time": 4512.209,
+      "end_time": 4516.422
+    },
+    {
+      "shots": [
+        1335
+      ],
+      "start_time": 4517.381,
+      "end_time": 4519.466
+    },
+    {
+      "shots": [
+        1336,
+        1337
+      ],
+      "start_time": 4520.259,
+      "end_time": 4522.72
+    },
+    {
+      "shots": [
+        1337
+      ],
+      "start_time": 4522.762,
+      "end_time": 4525.849
+    },
+    {
+      "shots": [
+        1337
+      ],
+      "start_time": 4525.89,
+      "end_time": 4527.934
+    },
+    {
+      "shots": [
+        1337,
+        1338,
+        1339
+      ],
+      "start_time": 4527.976,
+      "end_time": 4530.52
+    },
+    {
+      "shots": [
+        1339
+      ],
+      "start_time": 4530.562,
+      "end_time": 4533.314
+    },
+    {
+      "shots": [
+        1339,
+        1340,
+        1341
+      ],
+      "start_time": 4533.356,
+      "end_time": 4535.775
+    },
+    {
+      "shots": [
+        1341
+      ],
+      "start_time": 4535.817,
+      "end_time": 4539.237
+    },
+    {
+      "shots": [
+        1341,
+        1342
+      ],
+      "start_time": 4539.279,
+      "end_time": 4543.367
+    },
+    {
+      "shots": [
+        1342,
+        1343
+      ],
+      "start_time": 4543.409,
+      "end_time": 4547.246
+    },
+    {
+      "shots": [
+        1343,
+        1344,
+        1345
+      ],
+      "start_time": 4547.288,
+      "end_time": 4549.999
+    },
+    {
+      "shots": [
+        1345,
+        1346,
+        1347
+      ],
+      "start_time": 4550.04,
+      "end_time": 4551.083
+    },
+    {
+      "shots": [
+        1354,
+        1355
+      ],
+      "start_time": 4566.391,
+      "end_time": 4569.352
+    },
+    {
+      "shots": [
+        1357
+      ],
+      "start_time": 4581.99,
+      "end_time": 4584.201
+    },
+    {
+      "shots": [
+        1362
+      ],
+      "start_time": 4607.476,
+      "end_time": 4610.771
+    },
+    {
+      "shots": [
+        1362
+      ],
+      "start_time": 4610.813,
+      "end_time": 4613.232
+    },
+    {
+      "shots": [
+        1363,
+        1364,
+        1365,
+        1366
+      ],
+      "start_time": 4617.528,
+      "end_time": 4621.824
+    },
+    {
+      "shots": [
+        1366
+      ],
+      "start_time": 4621.865,
+      "end_time": 4623.909
+    },
+    {
+      "shots": [
+        1367,
+        1368,
+        1369,
+        1370
+      ],
+      "start_time": 4623.951,
+      "end_time": 4627.122
+    },
+    {
+      "shots": [
+        1370,
+        1371
+      ],
+      "start_time": 4627.163,
+      "end_time": 4629.999
+    },
+    {
+      "shots": [
+        1371,
+        1372
+      ],
+      "start_time": 4630.25,
+      "end_time": 4632.794
+    },
+    {
+      "shots": [
+        1377,
+        1378
+      ],
+      "start_time": 4645.223,
+      "end_time": 4647.81
+    },
+    {
+      "shots": [
+        1378,
+        1379
+      ],
+      "start_time": 4647.852,
+      "end_time": 4649.937
+    },
+    {
+      "shots": [
+        1399,
+        1400,
+        1401
+      ],
+      "start_time": 4677.174,
+      "end_time": 4680.927
+    },
+    {
+      "shots": [
+        1401,
+        1402
+      ],
+      "start_time": 4680.969,
+      "end_time": 4682.679
+    },
+    {
+      "shots": [
+        1426,
+        1427
+      ],
+      "start_time": 4714.713,
+      "end_time": 4716.507
+    },
+    {
+      "shots": [
+        1427,
+        1428,
+        1429,
+        1430
+      ],
+      "start_time": 4716.548,
+      "end_time": 4721.136
+    },
+    {
+      "shots": [
+        1431,
+        1432
+      ],
+      "start_time": 4722.888,
+      "end_time": 4724.264
+    },
+    {
+      "shots": [
+        1432,
+        1433
+      ],
+      "start_time": 4724.306,
+      "end_time": 4726.558
+    },
+    {
+      "shots": [
+        1437,
+        1438
+      ],
+      "start_time": 4732.649,
+      "end_time": 4734.734
+    },
+    {
+      "shots": [
+        1456,
+        1457
+      ],
+      "start_time": 4761.929,
+      "end_time": 4763.222
+    },
+    {
+      "shots": [
+        1480,
+        1481
+      ],
+      "start_time": 4793.212,
+      "end_time": 4794.839
+    },
+    {
+      "shots": [
+        1484,
+        1485
+      ],
+      "start_time": 4798.718,
+      "end_time": 4801.053
+    },
+    {
+      "shots": [
+        1485,
+        1486,
+        1487
+      ],
+      "start_time": 4801.095,
+      "end_time": 4802.972
+    },
+    {
+      "shots": [
+        1487,
+        1488
+      ],
+      "start_time": 4803.014,
+      "end_time": 4805.183
+    },
+    {
+      "shots": [
+        1491,
+        1492,
+        1493
+      ],
+      "start_time": 4812.273,
+      "end_time": 4815.986
+    },
+    {
+      "shots": [
+        1507,
+        1508
+      ],
+      "start_time": 4840.72,
+      "end_time": 4841.763
+    },
+    {
+      "shots": [
+        1509,
+        1510,
+        1511
+      ],
+      "start_time": 4843.932,
+      "end_time": 4847.102
+    },
+    {
+      "shots": [
+        1516,
+        1517
+      ],
+      "start_time": 4853.566,
+      "end_time": 4855.569
+    },
+    {
+      "shots": [
+        1524,
+        1525
+      ],
+      "start_time": 4866.956,
+      "end_time": 4869.416
+    },
+    {
+      "shots": [
+        1525
+      ],
+      "start_time": 4869.458,
+      "end_time": 4872.086
+    },
+    {
+      "shots": [
+        1528
+      ],
+      "start_time": 4877.551,
+      "end_time": 4879.636
+    },
+    {
+      "shots": [
+        1528,
+        1529,
+        1530
+      ],
+      "start_time": 4879.678,
+      "end_time": 4881.721
+    },
+    {
+      "shots": [
+        1543
+      ],
+      "start_time": 4901.701,
+      "end_time": 4904.12
+    },
+    {
+      "shots": [
+        1543
+      ],
+      "start_time": 4904.162,
+      "end_time": 4907.54
+    },
+    {
+      "shots": [
+        1549
+      ],
+      "start_time": 4922.139,
+      "end_time": 4924.266
+    },
+    {
+      "shots": [
+        1551
+      ],
+      "start_time": 4937.781,
+      "end_time": 4941.91
+    },
+    {
+      "shots": [
+        1551
+      ],
+      "start_time": 4941.951,
+      "end_time": 4944.162
+    },
+    {
+      "shots": [
+        1551
+      ],
+      "start_time": 4944.204,
+      "end_time": 4946.331
+    },
+    {
+      "shots": [
+        1551
+      ],
+      "start_time": 4946.372,
+      "end_time": 4949.501
+    },
+    {
+      "shots": [
+        1551
+      ],
+      "start_time": 4952.378,
+      "end_time": 4954.464
+    },
+    {
+      "shots": [
+        1551
+      ],
+      "start_time": 4954.506,
+      "end_time": 4956.591
+    },
+    {
+      "shots": [
+        1551
+      ],
+      "start_time": 4956.633,
+      "end_time": 4958.719
+    },
+    {
+      "shots": [
+        1551,
+        1552
+      ],
+      "start_time": 4958.761,
+      "end_time": 4961.931
+    },
+    {
+      "shots": [
+        1552,
+        1553
+      ],
+      "start_time": 4961.972,
+      "end_time": 4965.935
+    },
+    {
+      "shots": [
+        1553,
+        1554
+      ],
+      "start_time": 4965.976,
+      "end_time": 4970.397
+    },
+    {
+      "shots": [
+        1554,
+        1555,
+        1556
+      ],
+      "start_time": 4970.439,
+      "end_time": 4973.567
+    },
+    {
+      "shots": [
+        1556,
+        1557,
+        1558,
+        1559,
+        1560
+      ],
+      "start_time": 4973.609,
+      "end_time": 4977.78
+    },
+    {
+      "shots": [
+        1563
+      ],
+      "start_time": 4979.866,
+      "end_time": 4983.62
+    },
+    {
+      "shots": [
+        1563
+      ],
+      "start_time": 4983.662,
+      "end_time": 4986.498
+    },
+    {
+      "shots": [
+        1563
+      ],
+      "start_time": 4986.54,
+      "end_time": 4990.085
+    },
+    {
+      "shots": [
+        1563
+      ],
+      "start_time": 4990.127,
+      "end_time": 4993.088
+    },
+    {
+      "shots": [
+        1563
+      ],
+      "start_time": 4993.13,
+      "end_time": 4995.257
+    },
+    {
+      "shots": [
+        1563
+      ],
+      "start_time": 4995.298,
+      "end_time": 4999.262
+    },
+    {
+      "shots": [
+        1564
+      ],
+      "start_time": 5004.308,
+      "end_time": 5008.438
+    },
+    {
+      "shots": [
+        1564
+      ],
+      "start_time": 5008.479,
+      "end_time": 5010.565
+    },
+    {
+      "shots": [
+        1565,
+        1566
+      ],
+      "start_time": 5026.915,
+      "end_time": 5030.043
+    },
+    {
+      "shots": [
+        1566
+      ],
+      "start_time": 5031.67,
+      "end_time": 5034.173
+    },
+    {
+      "shots": [
+        1566
+      ],
+      "start_time": 5034.214,
+      "end_time": 5037.509
+    },
+    {
+      "shots": [
+        1566
+      ],
+      "start_time": 5037.551,
+      "end_time": 5040.512
+    },
+    {
+      "shots": [
+        1566
+      ],
+      "start_time": 5040.554,
+      "end_time": 5044.142
+    },
+    {
+      "shots": [
+        1566,
+        1567
+      ],
+      "start_time": 5048.229,
+      "end_time": 5050.356
+    },
+    {
+      "shots": [
+        1567
+      ],
+      "start_time": 5050.398,
+      "end_time": 5052.484
+    },
+    {
+      "shots": [
+        1585
+      ],
+      "start_time": 5108.417,
+      "end_time": 5110.503
+    },
+    {
+      "shots": [
+        1585,
+        1586
+      ],
+      "start_time": 5110.545,
+      "end_time": 5112.63
+    },
+    {
+      "shots": [
+        1586,
+        1587
+      ],
+      "start_time": 5112.672,
+      "end_time": 5115.883
+    },
+    {
+      "shots": [
+        1587,
+        1588
+      ],
+      "start_time": 5115.925,
+      "end_time": 5120.721
+    },
+    {
+      "shots": [
+        1588,
+        1589
+      ],
+      "start_time": 5120.763,
+      "end_time": 5122.849
+    },
+    {
+      "shots": [
+        1591,
+        1592
+      ],
+      "start_time": 5133.819,
+      "end_time": 5135.904
+    },
+    {
+      "shots": [
+        1594,
+        1595
+      ],
+      "start_time": 5142.578,
+      "end_time": 5145.707
+    },
+    {
+      "shots": [
+        1596,
+        1597
+      ],
+      "start_time": 5148.293,
+      "end_time": 5151.796
+    },
+    {
+      "shots": [
+        1601,
+        1602
+      ],
+      "start_time": 5157.51,
+      "end_time": 5161.139
+    },
+    {
+      "shots": [
+        1602
+      ],
+      "start_time": 5162.265,
+      "end_time": 5166.729
+    },
+    {
+      "shots": [
+        1602,
+        1603
+      ],
+      "start_time": 5166.77,
+      "end_time": 5170.065
+    },
+    {
+      "shots": [
+        1603,
+        1604,
+        1605,
+        1606
+      ],
+      "start_time": 5170.107,
+      "end_time": 5173.444
+    },
+    {
+      "shots": [
+        1606
+      ],
+      "start_time": 5173.486,
+      "end_time": 5175.571
+    },
+    {
+      "shots": [
+        1606
+      ],
+      "start_time": 5176.614,
+      "end_time": 5179.074
+    },
+    {
+      "shots": [
+        1606
+      ],
+      "start_time": 5180.91,
+      "end_time": 5183.871
+    },
+    {
+      "shots": [
+        1606,
+        1607
+      ],
+      "start_time": 5185.414,
+      "end_time": 5188.794
+    },
+    {
+      "shots": [
+        1607,
+        1608
+      ],
+      "start_time": 5188.835,
+      "end_time": 5192.964
+    },
+    {
+      "shots": [
+        1608
+      ],
+      "start_time": 5193.006,
+      "end_time": 5197.344
+    },
+    {
+      "shots": [
+        1608
+      ],
+      "start_time": 5197.385,
+      "end_time": 5201.139
+    },
+    {
+      "shots": [
+        1608,
+        1609
+      ],
+      "start_time": 5201.181,
+      "end_time": 5204.434
+    },
+    {
+      "shots": [
+        1609,
+        1610
+      ],
+      "start_time": 5204.476,
+      "end_time": 5206.144
+    },
+    {
+      "shots": [
+        1610,
+        1611
+      ],
+      "start_time": 5206.186,
+      "end_time": 5209.857
+    },
+    {
+      "shots": [
+        1611,
+        1612
+      ],
+      "start_time": 5209.899,
+      "end_time": 5212.109
+    },
+    {
+      "shots": [
+        1612
+      ],
+      "start_time": 5212.151,
+      "end_time": 5214.237
+    },
+    {
+      "shots": [
+        1613
+      ],
+      "start_time": 5215.78,
+      "end_time": 5218.241
+    },
+    {
+      "shots": [
+        1613
+      ],
+      "start_time": 5218.282,
+      "end_time": 5223.037
+    },
+    {
+      "shots": [
+        1613
+      ],
+      "start_time": 5223.079,
+      "end_time": 5225.957
+    },
+    {
+      "shots": [
+        1613
+      ],
+      "start_time": 5225.998,
+      "end_time": 5230.754
+    },
+    {
+      "shots": [
+        1613
+      ],
+      "start_time": 5230.796,
+      "end_time": 5233.924
+    },
+    {
+      "shots": [
+        1614,
+        1615
+      ],
+      "start_time": 5238.137,
+      "end_time": 5241.849
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5241.89,
+      "end_time": 5244.309
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5244.351,
+      "end_time": 5247.813
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5248.731,
+      "end_time": 5250.817
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5250.859,
+      "end_time": 5252.986
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5253.027,
+      "end_time": 5257.782
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5257.824,
+      "end_time": 5263.079
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5263.121,
+      "end_time": 5264.747
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5264.789,
+      "end_time": 5267.041
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5267.083,
+      "end_time": 5271.422
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5271.464,
+      "end_time": 5274.216
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5274.258,
+      "end_time": 5276.635
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5276.677,
+      "end_time": 5280.347
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5280.389,
+      "end_time": 5282.475
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5282.516,
+      "end_time": 5285.853
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5285.895,
+      "end_time": 5289.357
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5289.399,
+      "end_time": 5291.86
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5291.902,
+      "end_time": 5294.362
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5294.404,
+      "end_time": 5297.324
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5297.365,
+      "end_time": 5300.869
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5300.911,
+      "end_time": 5302.704
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5302.746,
+      "end_time": 5307.125
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5307.167,
+      "end_time": 5309.544
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5309.586,
+      "end_time": 5312.548
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5312.59,
+      "end_time": 5316.093
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5316.135,
+      "end_time": 5318.554
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5318.596,
+      "end_time": 5322.558
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5322.6,
+      "end_time": 5327.772
+    },
+    {
+      "shots": [
+        1615
+      ],
+      "start_time": 5327.814,
+      "end_time": 5331.902
+    },
+    {
+      "shots": [
+        1616
+      ],
+      "start_time": 5335.072,
+      "end_time": 5337.324
+    },
+    {
+      "shots": [
+        1616,
+        1617
+      ],
+      "start_time": 5338.742,
+      "end_time": 5340.828
+    },
+    {
+      "shots": [
+        1617
+      ],
+      "start_time": 5342.162,
+      "end_time": 5345.457
+    },
+    {
+      "shots": [
+        1621,
+        1622
+      ],
+      "start_time": 5357.887,
+      "end_time": 5360.098
+    },
+    {
+      "shots": [
+        1623
+      ],
+      "start_time": 5364.185,
+      "end_time": 5366.271
+    },
+    {
+      "shots": [
+        1634,
+        1635,
+        1636
+      ],
+      "start_time": 5389.211,
+      "end_time": 5391.297
+    },
+    {
+      "shots": [
+        1638,
+        1639
+      ],
+      "start_time": 5393.341,
+      "end_time": 5394.676
+    },
+    {
+      "shots": [
+        1640,
+        1641
+      ],
+      "start_time": 5395.886,
+      "end_time": 5397.971
+    },
+    {
+      "shots": [
+        1642,
+        1643
+      ],
+      "start_time": 5399.556,
+      "end_time": 5401.433
+    },
+    {
+      "shots": [
+        1643,
+        1644
+      ],
+      "start_time": 5401.475,
+      "end_time": 5405.812
+    },
+    {
+      "shots": [
+        1644,
+        1645
+      ],
+      "start_time": 5405.854,
+      "end_time": 5407.939
+    },
+    {
+      "shots": [
+        1645
+      ],
+      "start_time": 5409.608,
+      "end_time": 5411.276
+    },
+    {
+      "shots": [
+        1645,
+        1646
+      ],
+      "start_time": 5411.318,
+      "end_time": 5414.447
+    },
+    {
+      "shots": [
+        1646
+      ],
+      "start_time": 5414.489,
+      "end_time": 5416.574
+    },
+    {
+      "shots": [
+        1647,
+        1648
+      ],
+      "start_time": 5418.367,
+      "end_time": 5421.12
+    },
+    {
+      "shots": [
+        1648,
+        1649
+      ],
+      "start_time": 5421.621,
+      "end_time": 5424.373
+    },
+    {
+      "shots": [
+        1649,
+        1650
+      ],
+      "start_time": 5424.415,
+      "end_time": 5426.626
+    },
+    {
+      "shots": [
+        1650
+      ],
+      "start_time": 5427.794,
+      "end_time": 5429.462
+    },
+    {
+      "shots": [
+        1650
+      ],
+      "start_time": 5430.421,
+      "end_time": 5434.426
+    },
+    {
+      "shots": [
+        1650
+      ],
+      "start_time": 5435.385,
+      "end_time": 5437.262
+    },
+    {
+      "shots": [
+        1650
+      ],
+      "start_time": 5438.472,
+      "end_time": 5439.932
+    },
+    {
+      "shots": [
+        1650
+      ],
+      "start_time": 5441.809,
+      "end_time": 5446.104
+    },
+    {
+      "shots": [
+        1650,
+        1651
+      ],
+      "start_time": 5446.146,
+      "end_time": 5449.066
+    },
+    {
+      "shots": [
+        1655,
+        1656
+      ],
+      "start_time": 5457.575,
+      "end_time": 5461.371
+    },
+    {
+      "shots": [
+        1658,
+        1659
+      ],
+      "start_time": 5469.462,
+      "end_time": 5474.342
+    },
+    {
+      "shots": [
+        1659
+      ],
+      "start_time": 5474.384,
+      "end_time": 5476.178
+    },
+    {
+      "shots": [
+        1659,
+        1660
+      ],
+      "start_time": 5476.22,
+      "end_time": 5478.264
+    },
+    {
+      "shots": [
+        1660,
+        1661
+      ],
+      "start_time": 5478.305,
+      "end_time": 5482.309
+    },
+    {
+      "shots": [
+        1661,
+        1662,
+        1663
+      ],
+      "start_time": 5482.351,
+      "end_time": 5487.398
+    },
+    {
+      "shots": [
+        1663,
+        1664
+      ],
+      "start_time": 5487.439,
+      "end_time": 5489.483
+    },
+    {
+      "shots": [
+        1666,
+        1667
+      ],
+      "start_time": 5492.444,
+      "end_time": 5494.655
+    },
+    {
+      "shots": [
+        1671,
+        1672,
+        1673
+      ],
+      "start_time": 5503.874,
+      "end_time": 5506.001
+    },
+    {
+      "shots": [
+        1679
+      ],
+      "start_time": 5519.891,
+      "end_time": 5522.602
+    },
+    {
+      "shots": [
+        1679,
+        1680
+      ],
+      "start_time": 5522.643,
+      "end_time": 5527.69
+    },
+    {
+      "shots": [
+        1680,
+        1681
+      ],
+      "start_time": 5527.899,
+      "end_time": 5530.735
+    },
+    {
+      "shots": [
+        1691,
+        1692,
+        1693
+      ],
+      "start_time": 5550.923,
+      "end_time": 5553.217
+    },
+    {
+      "shots": [
+        1693,
+        1694,
+        1695
+      ],
+      "start_time": 5554.343,
+      "end_time": 5555.886
+    },
+    {
+      "shots": [
+        1695
+      ],
+      "start_time": 5555.928,
+      "end_time": 5558.347
+    },
+    {
+      "shots": [
+        1695,
+        1696,
+        1697
+      ],
+      "start_time": 5558.388,
+      "end_time": 5563.478
+    },
+    {
+      "shots": [
+        1697,
+        1698
+      ],
+      "start_time": 5563.52,
+      "end_time": 5565.396
+    },
+    {
+      "shots": [
+        1698
+      ],
+      "start_time": 5566.981,
+      "end_time": 5568.441
+    },
+    {
+      "shots": [
+        1698,
+        1699
+      ],
+      "start_time": 5568.483,
+      "end_time": 5570.527
+    },
+    {
+      "shots": [
+        1699,
+        1700,
+        1701
+      ],
+      "start_time": 5570.568,
+      "end_time": 5572.946
+    },
+    {
+      "shots": [
+        1701,
+        1702,
+        1703
+      ],
+      "start_time": 5572.987,
+      "end_time": 5575.657
+    },
+    {
+      "shots": [
+        1703,
+        1704
+      ],
+      "start_time": 5575.698,
+      "end_time": 5577.408
+    },
+    {
+      "shots": [
+        1704,
+        1705
+      ],
+      "start_time": 5577.45,
+      "end_time": 5580.287
+    },
+    {
+      "shots": [
+        1705,
+        1706
+      ],
+      "start_time": 5580.329,
+      "end_time": 5583.499
+    },
+    {
+      "shots": [
+        1706,
+        1707,
+        1708
+      ],
+      "start_time": 5583.541,
+      "end_time": 5586.252
+    },
+    {
+      "shots": [
+        1708,
+        1709
+      ],
+      "start_time": 5586.293,
+      "end_time": 5587.586
+    },
+    {
+      "shots": [
+        1710,
+        1711
+      ],
+      "start_time": 5589.088,
+      "end_time": 5591.757
+    },
+    {
+      "shots": [
+        1711
+      ],
+      "start_time": 5591.799,
+      "end_time": 5594.301
+    },
+    {
+      "shots": [
+        1711
+      ],
+      "start_time": 5594.343,
+      "end_time": 5596.428
+    },
+    {
+      "shots": [
+        1711
+      ],
+      "start_time": 5596.47,
+      "end_time": 5599.932
+    },
+    {
+      "shots": [
+        1711,
+        1712,
+        1713
+      ],
+      "start_time": 5599.974,
+      "end_time": 5603.478
+    },
+    {
+      "shots": [
+        1713,
+        1714
+      ],
+      "start_time": 5603.52,
+      "end_time": 5606.481
+    },
+    {
+      "shots": [
+        1714,
+        1715
+      ],
+      "start_time": 5606.523,
+      "end_time": 5609.568
+    },
+    {
+      "shots": [
+        1715,
+        1716,
+        1717
+      ],
+      "start_time": 5609.609,
+      "end_time": 5613.113
+    },
+    {
+      "shots": [
+        1718
+      ],
+      "start_time": 5614.197,
+      "end_time": 5619.661
+    },
+    {
+      "shots": [
+        1718,
+        1719
+      ],
+      "start_time": 5619.703,
+      "end_time": 5622.331
+    },
+    {
+      "shots": [
+        1719,
+        1720
+      ],
+      "start_time": 5622.373,
+      "end_time": 5627.003
+    },
+    {
+      "shots": [
+        1720
+      ],
+      "start_time": 5627.044,
+      "end_time": 5630.256
+    },
+    {
+      "shots": [
+        1720
+      ],
+      "start_time": 5630.298,
+      "end_time": 5634.802
+    },
+    {
+      "shots": [
+        1720,
+        1721
+      ],
+      "start_time": 5634.844,
+      "end_time": 5638.723
+    },
+    {
+      "shots": [
+        1721,
+        1722
+      ],
+      "start_time": 5638.764,
+      "end_time": 5641.643
+    },
+    {
+      "shots": [
+        1722,
+        1723
+      ],
+      "start_time": 5641.685,
+      "end_time": 5644.354
+    },
+    {
+      "shots": [
+        1723,
+        1724
+      ],
+      "start_time": 5644.396,
+      "end_time": 5648.525
+    },
+    {
+      "shots": [
+        1724
+      ],
+      "start_time": 5648.567,
+      "end_time": 5651.987
+    },
+    {
+      "shots": [
+        1727,
+        1728,
+        1729
+      ],
+      "start_time": 5656.909,
+      "end_time": 5661.538
+    },
+    {
+      "shots": [
+        1729
+      ],
+      "start_time": 5661.58,
+      "end_time": 5664.083
+    },
+    {
+      "shots": [
+        1729,
+        1730
+      ],
+      "start_time": 5664.125,
+      "end_time": 5666.127
+    },
+    {
+      "shots": [
+        1730,
+        1731
+      ],
+      "start_time": 5666.169,
+      "end_time": 5668.046
+    },
+    {
+      "shots": [
+        1731
+      ],
+      "start_time": 5668.087,
+      "end_time": 5670.215
+    },
+    {
+      "shots": [
+        1731,
+        1732,
+        1733
+      ],
+      "start_time": 5670.256,
+      "end_time": 5672.675
+    },
+    {
+      "shots": [
+        1733,
+        1734
+      ],
+      "start_time": 5672.717,
+      "end_time": 5676.429
+    },
+    {
+      "shots": [
+        1734,
+        1735
+      ],
+      "start_time": 5676.471,
+      "end_time": 5678.223
+    },
+    {
+      "shots": [
+        1735,
+        1736
+      ],
+      "start_time": 5678.264,
+      "end_time": 5682.227
+    },
+    {
+      "shots": [
+        1736,
+        1737
+      ],
+      "start_time": 5682.268,
+      "end_time": 5684.355
+    },
+    {
+      "shots": [
+        1737
+      ],
+      "start_time": 5684.396,
+      "end_time": 5687.316
+    },
+    {
+      "shots": [
+        1737,
+        1738,
+        1739
+      ],
+      "start_time": 5687.358,
+      "end_time": 5689.693
+    },
+    {
+      "shots": [
+        1739
+      ],
+      "start_time": 5689.735,
+      "end_time": 5692.321
+    },
+    {
+      "shots": [
+        1739,
+        1740,
+        1741
+      ],
+      "start_time": 5692.363,
+      "end_time": 5694.99
+    },
+    {
+      "shots": [
+        1741,
+        1742
+      ],
+      "start_time": 5695.032,
+      "end_time": 5698.869
+    },
+    {
+      "shots": [
+        1742,
+        1743,
+        1744
+      ],
+      "start_time": 5698.911,
+      "end_time": 5702.957
+    },
+    {
+      "shots": [
+        1744,
+        1745,
+        1746
+      ],
+      "start_time": 5702.998,
+      "end_time": 5707.671
+    },
+    {
+      "shots": [
+        1746,
+        1747,
+        1748
+      ],
+      "start_time": 5707.712,
+      "end_time": 5711.591
+    },
+    {
+      "shots": [
+        1748,
+        1749
+      ],
+      "start_time": 5711.633,
+      "end_time": 5713.885
+    },
+    {
+      "shots": [
+        1749,
+        1750
+      ],
+      "start_time": 5713.927,
+      "end_time": 5715.262
+    },
+    {
+      "shots": [
+        1750,
+        1751
+      ],
+      "start_time": 5715.303,
+      "end_time": 5717.514
+    },
+    {
+      "shots": [
+        1751,
+        1752,
+        1753
+      ],
+      "start_time": 5717.556,
+      "end_time": 5721.268
+    },
+    {
+      "shots": [
+        1753,
+        1754
+      ],
+      "start_time": 5721.309,
+      "end_time": 5723.395
+    },
+    {
+      "shots": [
+        1754,
+        1755
+      ],
+      "start_time": 5723.979,
+      "end_time": 5728.86
+    },
+    {
+      "shots": [
+        1755,
+        1756
+      ],
+      "start_time": 5728.901,
+      "end_time": 5731.237
+    },
+    {
+      "shots": [
+        1756,
+        1757
+      ],
+      "start_time": 5731.279,
+      "end_time": 5733.823
+    },
+    {
+      "shots": [
+        1757
+      ],
+      "start_time": 5733.865,
+      "end_time": 5735.741
+    },
+    {
+      "shots": [
+        1759
+      ],
+      "start_time": 5738.411,
+      "end_time": 5740.705
+    },
+    {
+      "shots": [
+        1759,
+        1760
+      ],
+      "start_time": 5740.746,
+      "end_time": 5744.709
+    },
+    {
+      "shots": [
+        1760
+      ],
+      "start_time": 5744.75,
+      "end_time": 5748.839
+    },
+    {
+      "shots": [
+        1760,
+        1761
+      ],
+      "start_time": 5748.881,
+      "end_time": 5751.091
+    },
+    {
+      "shots": [
+        1761,
+        1762,
+        1763
+      ],
+      "start_time": 5751.133,
+      "end_time": 5756.555
+    },
+    {
+      "shots": [
+        1763,
+        1764
+      ],
+      "start_time": 5756.597,
+      "end_time": 5760.058
+    },
+    {
+      "shots": [
+        1765,
+        1766,
+        1767
+      ],
+      "start_time": 5760.309,
+      "end_time": 5763.854
+    },
+    {
+      "shots": [
+        1767,
+        1768,
+        1769,
+        1770
+      ],
+      "start_time": 5764.104,
+      "end_time": 5767.358
+    },
+    {
+      "shots": [
+        1770,
+        1771,
+        1772,
+        1773
+      ],
+      "start_time": 5767.609,
+      "end_time": 5771.404
+    },
+    {
+      "shots": [
+        1773,
+        1774,
+        1775,
+        1776
+      ],
+      "start_time": 5771.654,
+      "end_time": 5775.575
+    },
+    {
+      "shots": [
+        1776,
+        1777,
+        1778,
+        1779
+      ],
+      "start_time": 5775.617,
+      "end_time": 5780.246
+    },
+    {
+      "shots": [
+        1784,
+        1785
+      ],
+      "start_time": 5794.845,
+      "end_time": 5797.807
+    },
+    {
+      "shots": [
+        1785,
+        1786,
+        1787
+      ],
+      "start_time": 5797.848,
+      "end_time": 5800.684
+    },
+    {
+      "shots": [
+        1787,
+        1788,
+        1789
+      ],
+      "start_time": 5800.726,
+      "end_time": 5806.148
+    },
+    {
+      "shots": [
+        1789,
+        1790,
+        1791,
+        1792
+      ],
+      "start_time": 5806.19,
+      "end_time": 5809.945
+    },
+    {
+      "shots": [
+        1792,
+        1793
+      ],
+      "start_time": 5809.986,
+      "end_time": 5812.489
+    },
+    {
+      "shots": [
+        1793,
+        1794,
+        1795
+      ],
+      "start_time": 5812.531,
+      "end_time": 5815.492
+    },
+    {
+      "shots": [
+        1795,
+        1796
+      ],
+      "start_time": 5815.534,
+      "end_time": 5818.453
+    },
+    {
+      "shots": [
+        1796,
+        1797,
+        1798
+      ],
+      "start_time": 5818.495,
+      "end_time": 5821.081
+    },
+    {
+      "shots": [
+        1799
+      ],
+      "start_time": 5822.833,
+      "end_time": 5824.084
+    },
+    {
+      "shots": [
+        1800
+      ],
+      "start_time": 5827.879,
+      "end_time": 5831.425
+    },
+    {
+      "shots": [
+        1800
+      ],
+      "start_time": 5831.467,
+      "end_time": 5833.719
+    },
+    {
+      "shots": [
+        1800,
+        1801
+      ],
+      "start_time": 5833.761,
+      "end_time": 5837.807
+    },
+    {
+      "shots": [
+        1801,
+        1802
+      ],
+      "start_time": 5837.849,
+      "end_time": 5840.226
+    },
+    {
+      "shots": [
+        1802
+      ],
+      "start_time": 5840.268,
+      "end_time": 5842.353
+    },
+    {
+      "shots": [
+        1803,
+        1804
+      ],
+      "start_time": 5844.021,
+      "end_time": 5846.107
+    },
+    {
+      "shots": [
+        1804
+      ],
+      "start_time": 5846.149,
+      "end_time": 5849.194
+    },
+    {
+      "shots": [
+        1804
+      ],
+      "start_time": 5849.236,
+      "end_time": 5851.321
+    },
+    {
+      "shots": [
+        1804,
+        1805
+      ],
+      "start_time": 5851.363,
+      "end_time": 5854.158
+    },
+    {
+      "shots": [
+        1805,
+        1806
+      ],
+      "start_time": 5854.199,
+      "end_time": 5859.58
+    },
+    {
+      "shots": [
+        1806,
+        1807
+      ],
+      "start_time": 5861.79,
+      "end_time": 5863.667
+    },
+    {
+      "shots": [
+        1807
+      ],
+      "start_time": 5863.709,
+      "end_time": 5866.17
+    },
+    {
+      "shots": [
+        1807,
+        1808
+      ],
+      "start_time": 5866.211,
+      "end_time": 5868.255
+    },
+    {
+      "shots": [
+        1808,
+        1809
+      ],
+      "start_time": 5868.297,
+      "end_time": 5870.592
+    },
+    {
+      "shots": [
+        1809,
+        1810
+      ],
+      "start_time": 5870.633,
+      "end_time": 5873.011
+    },
+    {
+      "shots": [
+        1811,
+        1812
+      ],
+      "start_time": 5874.596,
+      "end_time": 5878.725
+    },
+    {
+      "shots": [
+        1812
+      ],
+      "start_time": 5878.766,
+      "end_time": 5881.311
+    },
+    {
+      "shots": [
+        1812,
+        1813,
+        1814
+      ],
+      "start_time": 5881.352,
+      "end_time": 5885.648
+    },
+    {
+      "shots": [
+        1814,
+        1815
+      ],
+      "start_time": 5885.69,
+      "end_time": 5888.735
+    },
+    {
+      "shots": [
+        1815
+      ],
+      "start_time": 5888.776,
+      "end_time": 5892.364
+    },
+    {
+      "shots": [
+        1816,
+        1817,
+        1818
+      ],
+      "start_time": 5895.034,
+      "end_time": 5897.328
+    },
+    {
+      "shots": [
+        1818,
+        1819
+      ],
+      "start_time": 5897.369,
+      "end_time": 5901.499
+    },
+    {
+      "shots": [
+        1819
+      ],
+      "start_time": 5901.54,
+      "end_time": 5903.667
+    },
+    {
+      "shots": [
+        1823
+      ],
+      "start_time": 5925.315,
+      "end_time": 5927.484
+    },
+    {
+      "shots": [
+        1823
+      ],
+      "start_time": 5927.526,
+      "end_time": 5931.696
+    },
+    {
+      "shots": [
+        1823,
+        1824,
+        1825
+      ],
+      "start_time": 5931.739,
+      "end_time": 5935.368
+    },
+    {
+      "shots": [
+        1825,
+        1826,
+        1827
+      ],
+      "start_time": 5935.409,
+      "end_time": 5938.538
+    },
+    {
+      "shots": [
+        1827,
+        1828
+      ],
+      "start_time": 5938.579,
+      "end_time": 5940.665
+    },
+    {
+      "shots": [
+        1828
+      ],
+      "start_time": 5941.499,
+      "end_time": 5943.543
+    },
+    {
+      "shots": [
+        1828,
+        1829
+      ],
+      "start_time": 5943.584,
+      "end_time": 5946.921
+    },
+    {
+      "shots": [
+        1829,
+        1830
+      ],
+      "start_time": 5946.963,
+      "end_time": 5951.551
+    },
+    {
+      "shots": [
+        1830
+      ],
+      "start_time": 5951.592,
+      "end_time": 5953.804
+    },
+    {
+      "shots": [
+        1830,
+        1831
+      ],
+      "start_time": 5953.846,
+      "end_time": 5955.18
+    },
+    {
+      "shots": [
+        1831,
+        1832,
+        1833
+      ],
+      "start_time": 5955.222,
+      "end_time": 5958.183
+    },
+    {
+      "shots": [
+        1833,
+        1834
+      ],
+      "start_time": 5960.06,
+      "end_time": 5961.103
+    },
+    {
+      "shots": [
+        1834,
+        1835
+      ],
+      "start_time": 5961.145,
+      "end_time": 5964.857
+    },
+    {
+      "shots": [
+        1835,
+        1836
+      ],
+      "start_time": 5964.898,
+      "end_time": 5968.735
+    },
+    {
+      "shots": [
+        1836
+      ],
+      "start_time": 5968.777,
+      "end_time": 5971.572
+    },
+    {
+      "shots": [
+        1836
+      ],
+      "start_time": 5971.613,
+      "end_time": 5974.242
+    },
+    {
+      "shots": [
+        1836
+      ],
+      "start_time": 5974.284,
+      "end_time": 5977.579
+    },
+    {
+      "shots": [
+        1836
+      ],
+      "start_time": 5977.62,
+      "end_time": 5980.165
+    },
+    {
+      "shots": [
+        1837,
+        1838
+      ],
+      "start_time": 5983.793,
+      "end_time": 5986.045
+    },
+    {
+      "shots": [
+        1838,
+        1839
+      ],
+      "start_time": 5987.213,
+      "end_time": 5992.01
+    },
+    {
+      "shots": [
+        1842,
+        1843,
+        1844
+      ],
+      "start_time": 6002.104,
+      "end_time": 6005.274
+    },
+    {
+      "shots": [
+        1846,
+        1847,
+        1848
+      ],
+      "start_time": 6007.401,
+      "end_time": 6009.57
+    },
+    {
+      "shots": [
+        1848,
+        1849,
+        1850,
+        1851
+      ],
+      "start_time": 6009.612,
+      "end_time": 6012.323
+    },
+    {
+      "shots": [
+        1854,
+        1855
+      ],
+      "start_time": 6015.243,
+      "end_time": 6017.579
+    },
+    {
+      "shots": [
+        1855,
+        1856,
+        1857
+      ],
+      "start_time": 6017.621,
+      "end_time": 6019.956
+    },
+    {
+      "shots": [
+        1857,
+        1858
+      ],
+      "start_time": 6019.998,
+      "end_time": 6021.124
+    },
+    {
+      "shots": [
+        1858,
+        1859,
+        1860
+      ],
+      "start_time": 6021.166,
+      "end_time": 6022.626
+    },
+    {
+      "shots": [
+        1861,
+        1862
+      ],
+      "start_time": 6023.585,
+      "end_time": 6025.67
+    },
+    {
+      "shots": [
+        1865,
+        1866,
+        1867
+      ],
+      "start_time": 6028.673,
+      "end_time": 6031.468
+    },
+    {
+      "shots": [
+        1875,
+        1876,
+        1877
+      ],
+      "start_time": 6041.896,
+      "end_time": 6044.482
+    },
+    {
+      "shots": [
+        1877,
+        1878,
+        1879,
+        1880
+      ],
+      "start_time": 6044.524,
+      "end_time": 6047.693
+    },
+    {
+      "shots": [
+        1883,
+        1884,
+        1885
+      ],
+      "start_time": 6051.197,
+      "end_time": 6054.492
+    },
+    {
+      "shots": [
+        1885,
+        1886,
+        1887
+      ],
+      "start_time": 6054.534,
+      "end_time": 6056.995
+    },
+    {
+      "shots": [
+        1896
+      ],
+      "start_time": 6079.853,
+      "end_time": 6081.729
+    },
+    {
+      "shots": [
+        1896
+      ],
+      "start_time": 6081.771,
+      "end_time": 6084.983
+    },
+    {
+      "shots": [
+        1900
+      ],
+      "start_time": 6096.786,
+      "end_time": 6099.748
+    },
+    {
+      "shots": [
+        1900
+      ],
+      "start_time": 6099.79,
+      "end_time": 6103.544
+    },
+    {
+      "shots": [
+        1900
+      ],
+      "start_time": 6103.586,
+      "end_time": 6107.756
+    },
+    {
+      "shots": [
+        1900,
+        1901
+      ],
+      "start_time": 6107.798,
+      "end_time": 6111.969
+    },
+    {
+      "shots": [
+        1901
+      ],
+      "start_time": 6115.014,
+      "end_time": 6117.099
+    },
+    {
+      "shots": [
+        1901,
+        1902,
+        1903
+      ],
+      "start_time": 6118.685,
+      "end_time": 6121.521
+    },
+    {
+      "shots": [
+        1903
+      ],
+      "start_time": 6121.563,
+      "end_time": 6123.44
+    },
+    {
+      "shots": [
+        1903,
+        1904
+      ],
+      "start_time": 6123.523,
+      "end_time": 6126.318
+    },
+    {
+      "shots": [
+        1904,
+        1905
+      ],
+      "start_time": 6126.359,
+      "end_time": 6129.279
+    },
+    {
+      "shots": [
+        1905,
+        1906
+      ],
+      "start_time": 6129.321,
+      "end_time": 6132.115
+    },
+    {
+      "shots": [
+        1906,
+        1907
+      ],
+      "start_time": 6132.157,
+      "end_time": 6134.493
+    },
+    {
+      "shots": [
+        1907
+      ],
+      "start_time": 6134.534,
+      "end_time": 6137.204
+    },
+    {
+      "shots": [
+        1907,
+        1908
+      ],
+      "start_time": 6137.245,
+      "end_time": 6139.79
+    },
+    {
+      "shots": [
+        1908
+      ],
+      "start_time": 6139.832,
+      "end_time": 6143.169
+    },
+    {
+      "shots": [
+        1908,
+        1909
+      ],
+      "start_time": 6143.211,
+      "end_time": 6146.38
+    },
+    {
+      "shots": [
+        1909,
+        1910
+      ],
+      "start_time": 6146.422,
+      "end_time": 6148.508
+    },
+    {
+      "shots": [
+        1910
+      ],
+      "start_time": 6148.549,
+      "end_time": 6153.054
+    },
+    {
+      "shots": [
+        1910,
+        1911,
+        1912
+      ],
+      "start_time": 6153.095,
+      "end_time": 6156.39
+    },
+    {
+      "shots": [
+        1912,
+        1913
+      ],
+      "start_time": 6156.432,
+      "end_time": 6159.393
+    },
+    {
+      "shots": [
+        1913
+      ],
+      "start_time": 6159.435,
+      "end_time": 6162.564
+    },
+    {
+      "shots": [
+        1913,
+        1914
+      ],
+      "start_time": 6162.606,
+      "end_time": 6165.067
+    },
+    {
+      "shots": [
+        1914
+      ],
+      "start_time": 6165.108,
+      "end_time": 6168.237
+    },
+    {
+      "shots": [
+        1914,
+        1915,
+        1916
+      ],
+      "start_time": 6168.278,
+      "end_time": 6171.073
+    },
+    {
+      "shots": [
+        1916,
+        1917
+      ],
+      "start_time": 6171.114,
+      "end_time": 6174.409
+    },
+    {
+      "shots": [
+        1917,
+        1918,
+        1919
+      ],
+      "start_time": 6174.451,
+      "end_time": 6178.622
+    },
+    {
+      "shots": [
+        1919
+      ],
+      "start_time": 6178.664,
+      "end_time": 6180.75
+    },
+    {
+      "shots": [
+        1919,
+        1920
+      ],
+      "start_time": 6180.792,
+      "end_time": 6184.379
+    },
+    {
+      "shots": [
+        1920,
+        1921
+      ],
+      "start_time": 6184.42,
+      "end_time": 6188.758
+    },
+    {
+      "shots": [
+        1921
+      ],
+      "start_time": 6188.8,
+      "end_time": 6192.178
+    },
+    {
+      "shots": [
+        1921,
+        1922
+      ],
+      "start_time": 6192.22,
+      "end_time": 6194.305
+    },
+    {
+      "shots": [
+        1922,
+        1923
+      ],
+      "start_time": 6194.347,
+      "end_time": 6196.558
+    },
+    {
+      "shots": [
+        1928,
+        1929,
+        1930
+      ],
+      "start_time": 6201.564,
+      "end_time": 6205.109
+    },
+    {
+      "shots": [
+        1930,
+        1931
+      ],
+      "start_time": 6205.15,
+      "end_time": 6208.779
+    },
+    {
+      "shots": [
+        1931,
+        1932,
+        1933
+      ],
+      "start_time": 6208.821,
+      "end_time": 6212.616
+    },
+    {
+      "shots": [
+        1933
+      ],
+      "start_time": 6212.658,
+      "end_time": 6214.743
+    },
+    {
+      "shots": [
+        1933
+      ],
+      "start_time": 6214.785,
+      "end_time": 6217.83
+    },
+    {
+      "shots": [
+        1933,
+        1934
+      ],
+      "start_time": 6217.872,
+      "end_time": 6220.875
+    },
+    {
+      "shots": [
+        1934
+      ],
+      "start_time": 6220.916,
+      "end_time": 6223.336
+    },
+    {
+      "shots": [
+        1934,
+        1935
+      ],
+      "start_time": 6223.378,
+      "end_time": 6226.047
+    },
+    {
+      "shots": [
+        1935
+      ],
+      "start_time": 6226.089,
+      "end_time": 6229.801
+    },
+    {
+      "shots": [
+        1936
+      ],
+      "start_time": 6232.888,
+      "end_time": 6236.099
+    },
+    {
+      "shots": [
+        1936
+      ],
+      "start_time": 6236.141,
+      "end_time": 6239.477
+    },
+    {
+      "shots": [
+        1937
+      ],
+      "start_time": 6240.604,
+      "end_time": 6242.69
+    },
+    {
+      "shots": [
+        1937
+      ],
+      "start_time": 6243.482,
+      "end_time": 6245.943
+    },
+    {
+      "shots": [
+        1937,
+        1938
+      ],
+      "start_time": 6245.985,
+      "end_time": 6249.53
+    },
+    {
+      "shots": [
+        1938
+      ],
+      "start_time": 6249.572,
+      "end_time": 6254.41
+    },
+    {
+      "shots": [
+        1939
+      ],
+      "start_time": 6256.662,
+      "end_time": 6258.748
+    },
+    {
+      "shots": [
+        1940
+      ],
+      "start_time": 6259.874,
+      "end_time": 6265.088
+    },
+    {
+      "shots": [
+        1943,
+        1944
+      ],
+      "start_time": 6273.597,
+      "end_time": 6277.017
+    },
+    {
+      "shots": [
+        1944
+      ],
+      "start_time": 6277.059,
+      "end_time": 6279.144
+    },
+    {
+      "shots": [
+        1944
+      ],
+      "start_time": 6279.186,
+      "end_time": 6282.105
+    },
+    {
+      "shots": [
+        1944
+      ],
+      "start_time": 6283.983,
+      "end_time": 6286.319
+    },
+    {
+      "shots": [
+        1945,
+        1946
+      ],
+      "start_time": 6288.238,
+      "end_time": 6292.075
+    },
+    {
+      "shots": [
+        1946,
+        1947
+      ],
+      "start_time": 6292.116,
+      "end_time": 6294.202
+    },
+    {
+      "shots": [
+        1947,
+        1948
+      ],
+      "start_time": 6295.328,
+      "end_time": 6299.165
+    },
+    {
+      "shots": [
+        1948
+      ],
+      "start_time": 6299.207,
+      "end_time": 6301.709
+    },
+    {
+      "shots": [
+        1949
+      ],
+      "start_time": 6302.794,
+      "end_time": 6305.548
+    },
+    {
+      "shots": [
+        1949,
+        1950
+      ],
+      "start_time": 6305.589,
+      "end_time": 6310.719
+    },
+    {
+      "shots": [
+        1950
+      ],
+      "start_time": 6310.761,
+      "end_time": 6312.847
+    },
+    {
+      "shots": [
+        1951,
+        1952
+      ],
+      "start_time": 6315.558,
+      "end_time": 6319.144
+    },
+    {
+      "shots": [
+        1952,
+        1953
+      ],
+      "start_time": 6319.186,
+      "end_time": 6322.231
+    },
+    {
+      "shots": [
+        1953,
+        1954
+      ],
+      "start_time": 6322.898,
+      "end_time": 6326.278
+    },
+    {
+      "shots": [
+        1956
+      ],
+      "start_time": 6337.414,
+      "end_time": 6339.499
+    },
+    {
+      "shots": [
+        1958
+      ],
+      "start_time": 6352.096,
+      "end_time": 6354.182
+    },
+    {
+      "shots": [
+        1958
+      ],
+      "start_time": 6354.974,
+      "end_time": 6357.059
+    },
+    {
+      "shots": [
+        1984,
+        1985,
+        1986
+      ],
+      "start_time": 6430.262,
+      "end_time": 6432.764
+    },
+    {
+      "shots": [
+        1989,
+        1990,
+        1991
+      ],
+      "start_time": 6437.018,
+      "end_time": 6438.895
+    },
+    {
+      "shots": [
+        1991,
+        1992,
+        1993
+      ],
+      "start_time": 6439.563,
+      "end_time": 6441.648
+    },
+    {
+      "shots": [
+        1994,
+        1995
+      ],
+      "start_time": 6448.405,
+      "end_time": 6450.283
+    },
+    {
+      "shots": [
+        1995,
+        1996,
+        1997
+      ],
+      "start_time": 6450.324,
+      "end_time": 6453.202
+    },
+    {
+      "shots": [
+        1997,
+        1998,
+        1999
+      ],
+      "start_time": 6453.244,
+      "end_time": 6456.664
+    },
+    {
+      "shots": [
+        1999
+      ],
+      "start_time": 6456.706,
+      "end_time": 6458.624
+    },
+    {
+      "shots": [
+        2008,
+        2009
+      ],
+      "start_time": 6484.193,
+      "end_time": 6488.197
+    },
+    {
+      "shots": [
+        2009
+      ],
+      "start_time": 6488.238,
+      "end_time": 6490.741
+    },
+    {
+      "shots": [
+        2012,
+        2013,
+        2014
+      ],
+      "start_time": 6509.886,
+      "end_time": 6512.431
+    },
+    {
+      "shots": [
+        2018,
+        2019
+      ],
+      "start_time": 6522.149,
+      "end_time": 6523.984
+    },
+    {
+      "shots": [
+        2023,
+        2024
+      ],
+      "start_time": 6533.995,
+      "end_time": 6537.832
+    },
+    {
+      "shots": [
+        2024,
+        2025
+      ],
+      "start_time": 6537.874,
+      "end_time": 6539.668
+    },
+    {
+      "shots": [
+        2025,
+        2026
+      ],
+      "start_time": 6539.709,
+      "end_time": 6543.63
+    },
+    {
+      "shots": [
+        2026,
+        2027,
+        2028
+      ],
+      "start_time": 6543.672,
+      "end_time": 6548.635
+    },
+    {
+      "shots": [
+        2028,
+        2029
+      ],
+      "start_time": 6548.677,
+      "end_time": 6550.929
+    },
+    {
+      "shots": [
+        2029,
+        2030
+      ],
+      "start_time": 6550.971,
+      "end_time": 6552.889
+    },
+    {
+      "shots": [
+        2030,
+        2031
+      ],
+      "start_time": 6552.931,
+      "end_time": 6556.602
+    },
+    {
+      "shots": [
+        2031
+      ],
+      "start_time": 6556.644,
+      "end_time": 6559.272
+    },
+    {
+      "shots": [
+        2031,
+        2032
+      ],
+      "start_time": 6559.313,
+      "end_time": 6562.483
+    },
+    {
+      "shots": [
+        2032,
+        2033
+      ],
+      "start_time": 6562.525,
+      "end_time": 6564.819
+    },
+    {
+      "shots": [
+        2033
+      ],
+      "start_time": 6564.861,
+      "end_time": 6567.113
+    },
+    {
+      "shots": [
+        2033,
+        2034
+      ],
+      "start_time": 6567.154,
+      "end_time": 6570.408
+    },
+    {
+      "shots": [
+        2034,
+        2035
+      ],
+      "start_time": 6570.449,
+      "end_time": 6573.87
+    },
+    {
+      "shots": [
+        2035,
+        2036
+      ],
+      "start_time": 6573.911,
+      "end_time": 6578.625
+    },
+    {
+      "shots": [
+        2036,
+        2037
+      ],
+      "start_time": 6578.667,
+      "end_time": 6581.795
+    },
+    {
+      "shots": [
+        2037
+      ],
+      "start_time": 6581.837,
+      "end_time": 6585.591
+    },
+    {
+      "shots": [
+        2037,
+        2038
+      ],
+      "start_time": 6585.632,
+      "end_time": 6588.468
+    },
+    {
+      "shots": [
+        2042,
+        2043
+      ],
+      "start_time": 6602.775,
+      "end_time": 6604.235
+    },
+    {
+      "shots": [
+        2043,
+        2044
+      ],
+      "start_time": 6605.445,
+      "end_time": 6607.53
+    },
+    {
+      "shots": [
+        2048,
+        2049,
+        2050
+      ],
+      "start_time": 6615.246,
+      "end_time": 6617.374
+    },
+    {
+      "shots": [
+        2050,
+        2051,
+        2052
+      ],
+      "start_time": 6617.416,
+      "end_time": 6621.086
+    },
+    {
+      "shots": [
+        2052,
+        2053
+      ],
+      "start_time": 6621.128,
+      "end_time": 6623.214
+    },
+    {
+      "shots": [
+        2053,
+        2054,
+        2055
+      ],
+      "start_time": 6623.255,
+      "end_time": 6626.258
+    },
+    {
+      "shots": [
+        2055,
+        2056
+      ],
+      "start_time": 6626.3,
+      "end_time": 6628.928
+    },
+    {
+      "shots": [
+        2056,
+        2057
+      ],
+      "start_time": 6628.969,
+      "end_time": 6632.097
+    },
+    {
+      "shots": [
+        2057,
+        2058
+      ],
+      "start_time": 6632.139,
+      "end_time": 6635.059
+    },
+    {
+      "shots": [
+        2061,
+        2062,
+        2063
+      ],
+      "start_time": 6640.315,
+      "end_time": 6642.4
+    },
+    {
+      "shots": [
+        2066,
+        2067
+      ],
+      "start_time": 6646.696,
+      "end_time": 6648.406
+    },
+    {
+      "shots": [
+        2071
+      ],
+      "start_time": 6656.873,
+      "end_time": 6658.334
+    },
+    {
+      "shots": [
+        2075
+      ],
+      "start_time": 6679.982,
+      "end_time": 6681.733
+    },
+    {
+      "shots": [
+        2075
+      ],
+      "start_time": 6681.775,
+      "end_time": 6686.071
+    },
+    {
+      "shots": [
+        2075
+      ],
+      "start_time": 6686.113,
+      "end_time": 6688.198
+    },
+    {
+      "shots": [
+        2075
+      ],
+      "start_time": 6688.24,
+      "end_time": 6691.743
+    },
+    {
+      "shots": [
+        2075
+      ],
+      "start_time": 6691.785,
+      "end_time": 6694.246
+    },
+    {
+      "shots": [
+        2075
+      ],
+      "start_time": 6694.288,
+      "end_time": 6696.54
+    },
+    {
+      "shots": [
+        2075
+      ],
+      "start_time": 6696.582,
+      "end_time": 6699.085
+    },
+    {
+      "shots": [
+        2075
+      ],
+      "start_time": 6700.128,
+      "end_time": 6702.63
+    },
+    {
+      "shots": [
+        2075
+      ],
+      "start_time": 6702.672,
+      "end_time": 6704.757
+    },
+    {
+      "shots": [
+        2078,
+        2079
+      ],
+      "start_time": 6711.89,
+      "end_time": 6715.393
+    },
+    {
+      "shots": [
+        2083
+      ],
+      "start_time": 6719.732,
+      "end_time": 6721.609
+    },
+    {
+      "shots": [
+        2086,
+        2087,
+        2088
+      ],
+      "start_time": 6725.905,
+      "end_time": 6727.99
+    },
+    {
+      "shots": [
+        2089,
+        2090
+      ],
+      "start_time": 6729.491,
+      "end_time": 6731.619
+    },
+    {
+      "shots": [
+        2093,
+        2094,
+        2095
+      ],
+      "start_time": 6742.047,
+      "end_time": 6744.466
+    },
+    {
+      "shots": [
+        2096,
+        2097,
+        2098
+      ],
+      "start_time": 6748.178,
+      "end_time": 6749.763
+    },
+    {
+      "shots": [
+        2102,
+        2103
+      ],
+      "start_time": 6753.35,
+      "end_time": 6755.268
+    },
+    {
+      "shots": [
+        2113
+      ],
+      "start_time": 6781.463,
+      "end_time": 6783.549
+    },
+    {
+      "shots": [
+        2138
+      ],
+      "start_time": 6882.652,
+      "end_time": 6884.111
+    },
+    {
+      "shots": [
+        2140
+      ],
+      "start_time": 6890.911,
+      "end_time": 6892.996
+    },
+    {
+      "shots": [
+        2142,
+        2143
+      ],
+      "start_time": 6896.25,
+      "end_time": 6897.709
+    },
+    {
+      "shots": [
+        2156
+      ],
+      "start_time": 6913.852,
+      "end_time": 6915.311
+    },
+    {
+      "shots": [
+        2162,
+        2163
+      ],
+      "start_time": 6933.664,
+      "end_time": 6935.666
+    },
+    {
+      "shots": [
+        2177,
+        2178
+      ],
+      "start_time": 6984.634,
+      "end_time": 6986.51
+    },
+    {
+      "shots": [
+        2215
+      ],
+      "start_time": 7077.273,
+      "end_time": 7078.649
+    },
+    {
+      "shots": [
+        2215
+      ],
+      "start_time": 7082.904,
+      "end_time": 7085.406
+    },
+    {
+      "shots": [
+        2215
+      ],
+      "start_time": 7085.448,
+      "end_time": 7087.033
+    },
+    {
+      "shots": [
+        2215
+      ],
+      "start_time": 7087.074,
+      "end_time": 7089.243
+    },
+    {
+      "shots": [
+        2216,
+        2217
+      ],
+      "start_time": 7092.706,
+      "end_time": 7094.75
+    },
+    {
+      "shots": [
+        2217
+      ],
+      "start_time": 7094.791,
+      "end_time": 7096.251
+    },
+    {
+      "shots": [
+        2217,
+        2218,
+        2219
+      ],
+      "start_time": 7096.293,
+      "end_time": 7101.632
+    },
+    {
+      "shots": [
+        2219
+      ],
+      "start_time": 7101.673,
+      "end_time": 7104.593
+    },
+    {
+      "shots": [
+        2219
+      ],
+      "start_time": 7104.635,
+      "end_time": 7107.888
+    },
+    {
+      "shots": [
+        2219,
+        2220
+      ],
+      "start_time": 7107.93,
+      "end_time": 7111.058
+    },
+    {
+      "shots": [
+        2220
+      ],
+      "start_time": 7111.099,
+      "end_time": 7112.977
+    },
+    {
+      "shots": [
+        2220
+      ],
+      "start_time": 7113.019,
+      "end_time": 7115.563
+    },
+    {
+      "shots": [
+        2220
+      ],
+      "start_time": 7115.605,
+      "end_time": 7119.567
+    },
+    {
+      "shots": [
+        2220
+      ],
+      "start_time": 7119.609,
+      "end_time": 7123.071
+    },
+    {
+      "shots": [
+        2220
+      ],
+      "start_time": 7123.112,
+      "end_time": 7126.741
+    },
+    {
+      "shots": [
+        2221,
+        2222
+      ],
+      "start_time": 7128.117,
+      "end_time": 7130.62
+    },
+    {
+      "shots": [
+        2222
+      ],
+      "start_time": 7130.662,
+      "end_time": 7133.707
+    },
+    {
+      "shots": [
+        2222
+      ],
+      "start_time": 7133.749,
+      "end_time": 7136.126
+    },
+    {
+      "shots": [
+        2223,
+        2224,
+        2225
+      ],
+      "start_time": 7138.003,
+      "end_time": 7141.84
+    },
+    {
+      "shots": [
+        2225
+      ],
+      "start_time": 7141.882,
+      "end_time": 7144.552
+    },
+    {
+      "shots": [
+        2225
+      ],
+      "start_time": 7145.427,
+      "end_time": 7147.513
+    },
+    {
+      "shots": [
+        2226,
+        2227
+      ],
+      "start_time": 7149.39,
+      "end_time": 7153.519
+    },
+    {
+      "shots": [
+        2227
+      ],
+      "start_time": 7154.771,
+      "end_time": 7157.566
+    },
+    {
+      "shots": [
+        2227
+      ],
+      "start_time": 7157.607,
+      "end_time": 7159.067
+    },
+    {
+      "shots": [
+        2230
+      ],
+      "start_time": 7174.457,
+      "end_time": 7178.421
+    },
+    {
+      "shots": [
+        2233,
+        2234
+      ],
+      "start_time": 7188.222,
+      "end_time": 7191.058
+    },
+    {
+      "shots": [
+        2234,
+        2235
+      ],
+      "start_time": 7191.1,
+      "end_time": 7193.769
+    },
+    {
+      "shots": [
+        2235
+      ],
+      "start_time": 7193.811,
+      "end_time": 7195.898
+    },
+    {
+      "shots": [
+        2237
+      ],
+      "start_time": 7198.4,
+      "end_time": 7199.61
+    },
+    {
+      "shots": [
+        2238,
+        2239
+      ],
+      "start_time": 7200.402,
+      "end_time": 7202.696
+    },
+    {
+      "shots": [
+        2239,
+        2240
+      ],
+      "start_time": 7202.738,
+      "end_time": 7204.406
+    },
+    {
+      "shots": [
+        2240,
+        2241,
+        2242
+      ],
+      "start_time": 7204.948,
+      "end_time": 7208.202
+    },
+    {
+      "shots": [
+        2242,
+        2243,
+        2244
+      ],
+      "start_time": 7208.243,
+      "end_time": 7212.539
+    },
+    {
+      "shots": [
+        2244,
+        2245,
+        2246
+      ],
+      "start_time": 7213.248,
+      "end_time": 7215.042
+    },
+    {
+      "shots": [
+        2246,
+        2247
+      ],
+      "start_time": 7215.083,
+      "end_time": 7216.669
+    },
+    {
+      "shots": [
+        2247,
+        2248
+      ],
+      "start_time": 7216.711,
+      "end_time": 7219.839
+    },
+    {
+      "shots": [
+        2248,
+        2249,
+        2250
+      ],
+      "start_time": 7219.881,
+      "end_time": 7223.676
+    },
+    {
+      "shots": [
+        2250,
+        2251
+      ],
+      "start_time": 7223.718,
+      "end_time": 7229.974
+    },
+    {
+      "shots": [
+        2251,
+        2252
+      ],
+      "start_time": 7230.016,
+      "end_time": 7232.352
+    },
+    {
+      "shots": [
+        2252,
+        2253
+      ],
+      "start_time": 7232.393,
+      "end_time": 7234.812
+    },
+    {
+      "shots": [
+        2253,
+        2254
+      ],
+      "start_time": 7234.854,
+      "end_time": 7238.525
+    },
+    {
+      "shots": [
+        2254
+      ],
+      "start_time": 7238.567,
+      "end_time": 7241.153
+    },
+    {
+      "shots": [
+        2254,
+        2255
+      ],
+      "start_time": 7241.195,
+      "end_time": 7244.156
+    },
+    {
+      "shots": [
+        2255,
+        2256,
+        2257
+      ],
+      "start_time": 7244.198,
+      "end_time": 7246.867
+    },
+    {
+      "shots": [
+        2258,
+        2259,
+        2260
+      ],
+      "start_time": 7248.536,
+      "end_time": 7251.497
+    },
+    {
+      "shots": [
+        2260
+      ],
+      "start_time": 7251.539,
+      "end_time": 7255.0
+    },
+    {
+      "shots": [
+        2260,
+        2261,
+        2262
+      ],
+      "start_time": 7255.042,
+      "end_time": 7258.38
+    },
+    {
+      "shots": [
+        2262,
+        2263,
+        2264
+      ],
+      "start_time": 7259.13,
+      "end_time": 7264.302
+    },
+    {
+      "shots": [
+        2264,
+        2265
+      ],
+      "start_time": 7264.344,
+      "end_time": 7266.429
+    },
+    {
+      "shots": [
+        2265
+      ],
+      "start_time": 7266.471,
+      "end_time": 7269.015
+    },
+    {
+      "shots": [
+        2265,
+        2266,
+        2267
+      ],
+      "start_time": 7269.057,
+      "end_time": 7271.726
+    },
+    {
+      "shots": [
+        2267,
+        2268
+      ],
+      "start_time": 7271.768,
+      "end_time": 7275.313
+    },
+    {
+      "shots": [
+        2268,
+        2269,
+        2270
+      ],
+      "start_time": 7275.355,
+      "end_time": 7279.694
+    },
+    {
+      "shots": [
+        2270,
+        2271,
+        2272
+      ],
+      "start_time": 7279.735,
+      "end_time": 7284.323
+    },
+    {
+      "shots": [
+        2272,
+        2273,
+        2274
+      ],
+      "start_time": 7284.365,
+      "end_time": 7289.453
+    },
+    {
+      "shots": [
+        2274,
+        2275
+      ],
+      "start_time": 7289.871,
+      "end_time": 7294.417
+    },
+    {
+      "shots": [
+        2275,
+        2276,
+        2277
+      ],
+      "start_time": 7294.458,
+      "end_time": 7297.837
+    },
+    {
+      "shots": [
+        2277,
+        2278
+      ],
+      "start_time": 7297.879,
+      "end_time": 7302.467
+    },
+    {
+      "shots": [
+        2278,
+        2279
+      ],
+      "start_time": 7302.509,
+      "end_time": 7304.428
+    },
+    {
+      "shots": [
+        2279,
+        2280
+      ],
+      "start_time": 7305.262,
+      "end_time": 7308.098
+    },
+    {
+      "shots": [
+        2280,
+        2281
+      ],
+      "start_time": 7308.14,
+      "end_time": 7310.225
+    },
+    {
+      "shots": [
+        2281
+      ],
+      "start_time": 7310.267,
+      "end_time": 7313.979
+    },
+    {
+      "shots": [
+        2281
+      ],
+      "start_time": 7314.021,
+      "end_time": 7315.898
+    },
+    {
+      "shots": [
+        2281,
+        2282
+      ],
+      "start_time": 7315.939,
+      "end_time": 7318.609
+    },
+    {
+      "shots": [
+        2282,
+        2283,
+        2284
+      ],
+      "start_time": 7318.65,
+      "end_time": 7322.238
+    },
+    {
+      "shots": [
+        2284,
+        2285
+      ],
+      "start_time": 7322.28,
+      "end_time": 7325.116
+    },
+    {
+      "shots": [
+        2285,
+        2286,
+        2287
+      ],
+      "start_time": 7325.158,
+      "end_time": 7330.163
+    },
+    {
+      "shots": [
+        2287,
+        2288,
+        2289
+      ],
+      "start_time": 7330.205,
+      "end_time": 7332.707
+    },
+    {
+      "shots": [
+        2289,
+        2290
+      ],
+      "start_time": 7332.749,
+      "end_time": 7335.96
+    },
+    {
+      "shots": [
+        2290,
+        2291,
+        2292
+      ],
+      "start_time": 7336.002,
+      "end_time": 7340.381
+    },
+    {
+      "shots": [
+        2292,
+        2293
+      ],
+      "start_time": 7340.423,
+      "end_time": 7343.219
+    },
+    {
+      "shots": [
+        2293,
+        2294
+      ],
+      "start_time": 7343.26,
+      "end_time": 7345.679
+    },
+    {
+      "shots": [
+        2294,
+        2295,
+        2296
+      ],
+      "start_time": 7345.721,
+      "end_time": 7348.474
+    },
+    {
+      "shots": [
+        2296,
+        2297
+      ],
+      "start_time": 7348.515,
+      "end_time": 7351.018
+    },
+    {
+      "shots": [
+        2297,
+        2298,
+        2299,
+        2300
+      ],
+      "start_time": 7351.06,
+      "end_time": 7355.981
+    },
+    {
+      "shots": [
+        2303,
+        2304
+      ],
+      "start_time": 7359.109,
+      "end_time": 7361.655
+    },
+    {
+      "shots": [
+        2304,
+        2305
+      ],
+      "start_time": 7361.696,
+      "end_time": 7363.782
+    },
+    {
+      "shots": [
+        2305,
+        2306
+      ],
+      "start_time": 7364.115,
+      "end_time": 7368.203
+    },
+    {
+      "shots": [
+        2306,
+        2307
+      ],
+      "start_time": 7368.245,
+      "end_time": 7370.33
+    },
+    {
+      "shots": [
+        2307
+      ],
+      "start_time": 7370.372,
+      "end_time": 7374.0
+    },
+    {
+      "shots": [
+        2307,
+        2308
+      ],
+      "start_time": 7374.042,
+      "end_time": 7377.921
+    },
+    {
+      "shots": [
+        2308,
+        2309
+      ],
+      "start_time": 7377.963,
+      "end_time": 7380.131
+    },
+    {
+      "shots": [
+        2309,
+        2310,
+        2311
+      ],
+      "start_time": 7380.173,
+      "end_time": 7382.259
+    },
+    {
+      "shots": [
+        2311,
+        2312
+      ],
+      "start_time": 7383.97,
+      "end_time": 7386.681
+    },
+    {
+      "shots": [
+        2312,
+        2313
+      ],
+      "start_time": 7386.722,
+      "end_time": 7391.06
+    },
+    {
+      "shots": [
+        2313,
+        2314
+      ],
+      "start_time": 7391.102,
+      "end_time": 7394.23
+    },
+    {
+      "shots": [
+        2314
+      ],
+      "start_time": 7394.272,
+      "end_time": 7396.399
+    },
+    {
+      "shots": [
+        2314
+      ],
+      "start_time": 7396.44,
+      "end_time": 7398.609
+    },
+    {
+      "shots": [
+        2314
+      ],
+      "start_time": 7398.651,
+      "end_time": 7401.696
+    },
+    {
+      "shots": [
+        2314
+      ],
+      "start_time": 7401.737,
+      "end_time": 7403.115
+    },
+    {
+      "shots": [
+        2314
+      ],
+      "start_time": 7403.156,
+      "end_time": 7407.619
+    },
+    {
+      "shots": [
+        2314
+      ],
+      "start_time": 7407.661,
+      "end_time": 7409.872
+    },
+    {
+      "shots": [
+        2314,
+        2315,
+        2316
+      ],
+      "start_time": 7409.913,
+      "end_time": 7415.502
+    },
+    {
+      "shots": [
+        2316
+      ],
+      "start_time": 7415.544,
+      "end_time": 7418.463
+    },
+    {
+      "shots": [
+        2318
+      ],
+      "start_time": 7428.057,
+      "end_time": 7430.143
+    },
+    {
+      "shots": [
+        2318
+      ],
+      "start_time": 7431.436,
+      "end_time": 7434.772
+    },
+    {
+      "shots": [
+        2318,
+        2319
+      ],
+      "start_time": 7434.814,
+      "end_time": 7439.36
+    },
+    {
+      "shots": [
+        2319,
+        2320
+      ],
+      "start_time": 7439.402,
+      "end_time": 7440.862
+    },
+    {
+      "shots": [
+        2320,
+        2321
+      ],
+      "start_time": 7441.779,
+      "end_time": 7445.326
+    },
+    {
+      "shots": [
+        2322,
+        2323
+      ],
+      "start_time": 7447.077,
+      "end_time": 7450.581
+    },
+    {
+      "shots": [
+        2323,
+        2324
+      ],
+      "start_time": 7451.04,
+      "end_time": 7453.125
+    },
+    {
+      "shots": [
+        2324,
+        2325,
+        2326
+      ],
+      "start_time": 7453.584,
+      "end_time": 7455.336
+    },
+    {
+      "shots": [
+        2351
+      ],
+      "start_time": 7490.122,
+      "end_time": 7492.917
+    },
+    {
+      "shots": [
+        2361,
+        2362
+      ],
+      "start_time": 7513.23,
+      "end_time": 7514.439
+    },
+    {
+      "shots": [
+        2378,
+        2379,
+        2380
+      ],
+      "start_time": 7532.667,
+      "end_time": 7534.669
+    },
+    {
+      "shots": [
+        2405
+      ],
+      "start_time": 7562.489,
+      "end_time": 7565.117
+    },
+    {
+      "shots": [
+        2406
+      ],
+      "start_time": 7566.243,
+      "end_time": 7568.329
+    },
+    {
+      "shots": [
+        2412
+      ],
+      "start_time": 7579.174,
+      "end_time": 7580.634
+    },
+    {
+      "shots": [
+        2415
+      ],
+      "start_time": 7590.228,
+      "end_time": 7592.313
+    },
+    {
+      "shots": [
+        2415,
+        2416
+      ],
+      "start_time": 7592.355,
+      "end_time": 7595.9
+    },
+    {
+      "shots": [
+        2416,
+        2417,
+        2418
+      ],
+      "start_time": 7595.942,
+      "end_time": 7598.778
+    },
+    {
+      "shots": [
+        2419,
+        2420
+      ],
+      "start_time": 7602.74,
+      "end_time": 7604.367
+    },
+    {
+      "shots": [
+        2439,
+        2440
+      ],
+      "start_time": 7646.244,
+      "end_time": 7648.913
+    },
+    {
+      "shots": [
+        2440,
+        2441,
+        2442,
+        2443
+      ],
+      "start_time": 7650.039,
+      "end_time": 7653.586
+    },
+    {
+      "shots": [
+        2443,
+        2444,
+        2445,
+        2446
+      ],
+      "start_time": 7653.627,
+      "end_time": 7656.422
+    },
+    {
+      "shots": [
+        2446,
+        2447,
+        2448,
+        2449
+      ],
+      "start_time": 7656.463,
+      "end_time": 7659.508
+    },
+    {
+      "shots": [
+        2449,
+        2450,
+        2451,
+        2452
+      ],
+      "start_time": 7659.55,
+      "end_time": 7664.263
+    },
+    {
+      "shots": [
+        2453,
+        2454,
+        2455
+      ],
+      "start_time": 7664.972,
+      "end_time": 7668.434
+    },
+    {
+      "shots": [
+        2455,
+        2456
+      ],
+      "start_time": 7668.642,
+      "end_time": 7670.728
+    },
+    {
+      "shots": [
+        2514,
+        2515,
+        2516,
+        2517
+      ],
+      "start_time": 7750.186,
+      "end_time": 7751.98
+    },
+    {
+      "shots": [
+        2517,
+        2518,
+        2519
+      ],
+      "start_time": 7752.522,
+      "end_time": 7754.607
+    },
+    {
+      "shots": [
+        2531,
+        2532
+      ],
+      "start_time": 7769.331,
+      "end_time": 7771.959
+    },
+    {
+      "shots": [
+        2533
+      ],
+      "start_time": 7773.002,
+      "end_time": 7775.087
+    },
+    {
+      "shots": [
+        2534
+      ],
+      "start_time": 7776.506,
+      "end_time": 7778.592
+    },
+    {
+      "shots": [
+        2541,
+        2542
+      ],
+      "start_time": 7790.103,
+      "end_time": 7792.272
+    },
+    {
+      "shots": [
+        2545,
+        2546,
+        2547
+      ],
+      "start_time": 7797.612,
+      "end_time": 7801.24
+    },
+    {
+      "shots": [
+        2547,
+        2548,
+        2549
+      ],
+      "start_time": 7801.282,
+      "end_time": 7804.118
+    },
+    {
+      "shots": [
+        2551,
+        2552,
+        2553
+      ],
+      "start_time": 7810.499,
+      "end_time": 7812.543
+    },
+    {
+      "shots": [
+        2555,
+        2556
+      ],
+      "start_time": 7815.963,
+      "end_time": 7818.008
+    },
+    {
+      "shots": [
+        2556,
+        2557
+      ],
+      "start_time": 7818.05,
+      "end_time": 7821.845
+    },
+    {
+      "shots": [
+        2557,
+        2558,
+        2559
+      ],
+      "start_time": 7822.471,
+      "end_time": 7826.266
+    },
+    {
+      "shots": [
+        2559,
+        2560,
+        2561
+      ],
+      "start_time": 7826.308,
+      "end_time": 7829.519
+    },
+    {
+      "shots": [
+        2561,
+        2562
+      ],
+      "start_time": 7829.561,
+      "end_time": 7831.939
+    },
+    {
+      "shots": [
+        2562,
+        2563,
+        2564
+      ],
+      "start_time": 7831.98,
+      "end_time": 7834.483
+    },
+    {
+      "shots": [
+        2564,
+        2565,
+        2566
+      ],
+      "start_time": 7835.067,
+      "end_time": 7837.152
+    },
+    {
+      "shots": [
+        2569,
+        2570
+      ],
+      "start_time": 7842.992,
+      "end_time": 7845.036
+    },
+    {
+      "shots": [
+        2570,
+        2571,
+        2572,
+        2573
+      ],
+      "start_time": 7845.078,
+      "end_time": 7848.79
+    },
+    {
+      "shots": [
+        2575,
+        2576,
+        2577
+      ],
+      "start_time": 7851.209,
+      "end_time": 7854.712
+    },
+    {
+      "shots": [
+        2577,
+        2578,
+        2579
+      ],
+      "start_time": 7854.754,
+      "end_time": 7856.923
+    },
+    {
+      "shots": [
+        2586,
+        2587
+      ],
+      "start_time": 7866.016,
+      "end_time": 7868.102
+    },
+    {
+      "shots": [
+        2588,
+        2589
+      ],
+      "start_time": 7869.228,
+      "end_time": 7871.522
+    },
+    {
+      "shots": [
+        2636,
+        2637
+      ],
+      "start_time": 7964.703,
+      "end_time": 7966.789
+    },
+    {
+      "shots": [
+        2637,
+        2638
+      ],
+      "start_time": 7966.83,
+      "end_time": 7969.833
+    },
+    {
+      "shots": [
+        2638
+      ],
+      "start_time": 7970.626,
+      "end_time": 7972.836
+    },
+    {
+      "shots": [
+        2642
+      ],
+      "start_time": 7982.096,
+      "end_time": 7984.933
+    },
+    {
+      "shots": [
+        2643,
+        2644
+      ],
+      "start_time": 7986.351,
+      "end_time": 7988.812
+    },
+    {
+      "shots": [
+        2644,
+        2645,
+        2646
+      ],
+      "start_time": 7988.853,
+      "end_time": 7990.438
+    },
+    {
+      "shots": [
+        2646,
+        2647,
+        2648
+      ],
+      "start_time": 7990.48,
+      "end_time": 7992.857
+    },
+    {
+      "shots": [
+        2648,
+        2649
+      ],
+      "start_time": 7992.899,
+      "end_time": 7995.986
+    },
+    {
+      "shots": [
+        2649,
+        2650,
+        2651
+      ],
+      "start_time": 7996.027,
+      "end_time": 8000.782
+    },
+    {
+      "shots": [
+        2651,
+        2652,
+        2653
+      ],
+      "start_time": 8000.824,
+      "end_time": 8004.245
+    },
+    {
+      "shots": [
+        2653,
+        2654
+      ],
+      "start_time": 8004.287,
+      "end_time": 8006.581
+    },
+    {
+      "shots": [
+        2656
+      ],
+      "start_time": 8010.042,
+      "end_time": 8012.128
+    },
+    {
+      "shots": [
+        2656,
+        2657
+      ],
+      "start_time": 8012.169,
+      "end_time": 8014.505
+    },
+    {
+      "shots": [
+        2661,
+        2662,
+        2663
+      ],
+      "start_time": 8027.269,
+      "end_time": 8030.063
+    },
+    {
+      "shots": [
+        2663,
+        2664,
+        2665
+      ],
+      "start_time": 8030.105,
+      "end_time": 8032.19
+    },
+    {
+      "shots": [
+        2665,
+        2666
+      ],
+      "start_time": 8032.232,
+      "end_time": 8034.234
+    },
+    {
+      "shots": [
+        2667,
+        2668,
+        2669
+      ],
+      "start_time": 8034.276,
+      "end_time": 8036.445
+    },
+    {
+      "shots": [
+        2670,
+        2671
+      ],
+      "start_time": 8037.654,
+      "end_time": 8039.615
+    },
+    {
+      "shots": [
+        2673,
+        2674,
+        2675,
+        2676
+      ],
+      "start_time": 8041.158,
+      "end_time": 8043.243
+    },
+    {
+      "shots": [
+        2680,
+        2681
+      ],
+      "start_time": 8061.804,
+      "end_time": 8064.807
+    },
+    {
+      "shots": [
+        2681,
+        2682,
+        2683
+      ],
+      "start_time": 8064.849,
+      "end_time": 8067.436
+    },
+    {
+      "shots": [
+        2683,
+        2684
+      ],
+      "start_time": 8067.478,
+      "end_time": 8070.147
+    },
+    {
+      "shots": [
+        2685,
+        2686
+      ],
+      "start_time": 8073.4,
+      "end_time": 8075.986
+    },
+    {
+      "shots": [
+        2686,
+        2687,
+        2688
+      ],
+      "start_time": 8076.028,
+      "end_time": 8078.113
+    },
+    {
+      "shots": [
+        2688
+      ],
+      "start_time": 8078.155,
+      "end_time": 8080.95
+    },
+    {
+      "shots": [
+        2699
+      ],
+      "start_time": 8101.471,
+      "end_time": 8102.514
+    },
+    {
+      "shots": [
+        2699,
+        2700,
+        2701
+      ],
+      "start_time": 8103.139,
+      "end_time": 8104.432
+    },
+    {
+      "shots": [
+        2701,
+        2702,
+        2703
+      ],
+      "start_time": 8104.474,
+      "end_time": 8108.813
+    },
+    {
+      "shots": [
+        2703,
+        2704
+      ],
+      "start_time": 8108.854,
+      "end_time": 8111.065
+    },
+    {
+      "shots": [
+        2705,
+        2706
+      ],
+      "start_time": 8114.026,
+      "end_time": 8115.861
+    },
+    {
+      "shots": [
+        2706
+      ],
+      "start_time": 8115.903,
+      "end_time": 8117.113
+    },
+    {
+      "shots": [
+        2712,
+        2713
+      ],
+      "start_time": 8132.462,
+      "end_time": 8134.548
+    },
+    {
+      "shots": [
+        2713
+      ],
+      "start_time": 8134.59,
+      "end_time": 8138.051
+    },
+    {
+      "shots": [
+        2713
+      ],
+      "start_time": 8138.093,
+      "end_time": 8140.178
+    },
+    {
+      "shots": [
+        2715,
+        2716,
+        2717
+      ],
+      "start_time": 8147.019,
+      "end_time": 8149.606
+    },
+    {
+      "shots": [
+        2717,
+        2718,
+        2719
+      ],
+      "start_time": 8149.647,
+      "end_time": 8152.358
+    },
+    {
+      "shots": [
+        2719
+      ],
+      "start_time": 8152.4,
+      "end_time": 8153.693
+    },
+    {
+      "shots": [
+        2719,
+        2720,
+        2721
+      ],
+      "start_time": 8153.735,
+      "end_time": 8157.447
+    },
+    {
+      "shots": [
+        2722,
+        2723
+      ],
+      "start_time": 8157.488,
+      "end_time": 8159.991
+    },
+    {
+      "shots": [
+        2723,
+        2724,
+        2725,
+        2726
+      ],
+      "start_time": 8160.033,
+      "end_time": 8162.785
+    },
+    {
+      "shots": [
+        2726,
+        2727,
+        2728
+      ],
+      "start_time": 8162.827,
+      "end_time": 8164.579
+    },
+    {
+      "shots": [
+        2728,
+        2729,
+        2730
+      ],
+      "start_time": 8164.621,
+      "end_time": 8167.457
+    },
+    {
+      "shots": [
+        2730
+      ],
+      "start_time": 8167.498,
+      "end_time": 8169.584
+    },
+    {
+      "shots": [
+        2750,
+        2751
+      ],
+      "start_time": 8199.658,
+      "end_time": 8202.327
+    },
+    {
+      "shots": [
+        2751,
+        2752,
+        2753
+      ],
+      "start_time": 8202.369,
+      "end_time": 8204.537
+    },
+    {
+      "shots": [
+        2754,
+        2755
+      ],
+      "start_time": 8205.622,
+      "end_time": 8208.041
+    },
+    {
+      "shots": [
+        2756
+      ],
+      "start_time": 8212.421,
+      "end_time": 8214.507
+    },
+    {
+      "shots": [
+        2758,
+        2759
+      ],
+      "start_time": 8220.805,
+      "end_time": 8222.89
+    },
+    {
+      "shots": [
+        2760
+      ],
+      "start_time": 8224.183,
+      "end_time": 8227.144
+    },
+    {
+      "shots": [
+        2760,
+        2761
+      ],
+      "start_time": 8227.186,
+      "end_time": 8229.272
+    },
+    {
+      "shots": [
+        2762
+      ],
+      "start_time": 8230.731,
+      "end_time": 8232.818
+    },
+    {
+      "shots": [
+        2764,
+        2765
+      ],
+      "start_time": 8243.37,
+      "end_time": 8246.957
+    },
+    {
+      "shots": [
+        2767
+      ],
+      "start_time": 8250.586,
+      "end_time": 8252.672
+    },
+    {
+      "shots": [
+        2768
+      ],
+      "start_time": 8254.591,
+      "end_time": 8256.718
+    },
+    {
+      "shots": [
+        2770,
+        2771,
+        2772
+      ],
+      "start_time": 8261.222,
+      "end_time": 8264.976
+    },
+    {
+      "shots": [
+        2777,
+        2778,
+        2779,
+        2780
+      ],
+      "start_time": 8275.07,
+      "end_time": 8279.074
+    },
+    {
+      "shots": [
+        2784
+      ],
+      "start_time": 8284.204,
+      "end_time": 8287.249
+    },
+    {
+      "shots": [
+        2784,
+        2785
+      ],
+      "start_time": 8287.291,
+      "end_time": 8290.836
+    },
+    {
+      "shots": [
+        2786,
+        2787,
+        2788
+      ],
+      "start_time": 8290.878,
+      "end_time": 8293.923
+    },
+    {
+      "shots": [
+        2790,
+        2791
+      ],
+      "start_time": 8297.177,
+      "end_time": 8299.763
+    },
+    {
+      "shots": [
+        2791
+      ],
+      "start_time": 8299.804,
+      "end_time": 8302.307
+    },
+    {
+      "shots": [
+        2791,
+        2792
+      ],
+      "start_time": 8302.349,
+      "end_time": 8305.393
+    },
+    {
+      "shots": [
+        2794,
+        2795
+      ],
+      "start_time": 8308.98,
+      "end_time": 8314.194
+    },
+    {
+      "shots": [
+        2795,
+        2796
+      ],
+      "start_time": 8315.071,
+      "end_time": 8318.908
+    },
+    {
+      "shots": [
+        2796
+      ],
+      "start_time": 8321.702,
+      "end_time": 8324.205
+    },
+    {
+      "shots": [
+        2796
+      ],
+      "start_time": 8324.497,
+      "end_time": 8327.208
+    },
+    {
+      "shots": [
+        2796
+      ],
+      "start_time": 8327.458,
+      "end_time": 8332.838
+    },
+    {
+      "shots": [
+        2796
+      ],
+      "start_time": 8333.673,
+      "end_time": 8339.346
+    },
+    {
+      "shots": [
+        2796
+      ],
+      "start_time": 8339.388,
+      "end_time": 8343.183
+    },
+    {
+      "shots": [
+        2796
+      ],
+      "start_time": 8345.852,
+      "end_time": 8347.729
+    }
+  ]
+}

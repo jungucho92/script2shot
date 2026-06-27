@@ -1,0 +1,55 @@
+From Script to Shot: A Benchmark for Grounding Screenplays in Movies
+Copyright (c) 2026 The "From Script to Shot" Authors.
+
+==============================================================================
+License: Creative Commons Attribution-NonCommercial 4.0 International
+         (CC BY-NC 4.0)
+==============================================================================
+
+All contents of this repository — the annotations (alignment and linkage
+metadata), the toolkit and baseline source code, and the documentation — are
+licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License (CC BY-NC 4.0).
+
+You are free to:
+  * Share  — copy and redistribute the material in any medium or format.
+  * Adapt  — remix, transform, and build upon the material.
+
+Under the following terms:
+  * Attribution  — You must give appropriate credit (cite the paper below),
+    provide a link to the license, and indicate if changes were made.
+  * NonCommercial — You may not use the material for commercial purposes.
+  * No additional restrictions — You may not apply legal terms or
+    technological measures that legally restrict others from doing anything
+    the license permits.
+
+The full legal code is available at:
+  https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Human-readable summary:
+  https://creativecommons.org/licenses/by-nc/4.0/
+
+------------------------------------------------------------------------------
+IMPORTANT — Third-party material and scope of this license
+------------------------------------------------------------------------------
+This benchmark is derived from MovieNet (Huang et al., ECCV 2020). The
+CC BY-NC 4.0 license above covers ONLY the original material created by the
+authors of this work, namely:
+  * the screenplay-to-shot ALIGNMENT annotations (data/alignments/),
+  * the subtitle-to-shot LINKAGE timing/metadata (data/linkages/), and
+  * the toolkit, baselines, and documentation (src/, docs/).
+
+It does NOT grant any rights to underlying copyrighted material that this
+repository does not redistribute, including but not limited to:
+  * verbatim screenplay text,
+  * movie subtitles,
+  * movie poster images, and
+  * movie frames / keyframes.
+
+Those assets remain the property of their respective rights holders. They are
+NOT included in this repository and must be obtained by the user from
+MovieNet (and other original sources) under those sources' own licenses and
+terms of use. See data/README.md for instructions on regenerating them
+locally. By using this benchmark you agree to comply with the terms of
+MovieNet and of the original rights holders.
+
+When citing this benchmark, please also cite MovieNet (see CITATION.cff).

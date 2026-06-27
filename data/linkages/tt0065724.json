@@ -1,0 +1,15 @@
+{
+  "imdb_id": "tt0065724",
+  "fps": 23.976011,
+  "fps_method": "story_anchors",
+  "fps_anchors": 16,
+  "srt_offset": 0.0,
+  "total_shots": 837,
+  "total_subtitles": 0,
+  "shots_with_subtitle": 516,
+  "subtitle_coverage": 0.6165,
+  "ann_covered_shots": 516,
+  "validation_accuracy": null,
+  "validation_total": 0,
+  "mappings": []
+}
