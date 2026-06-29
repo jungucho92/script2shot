@@ -1432,16 +1432,5 @@
       1129,
       1130
     ]
-  },
-  "reviewed": [],
-  "meta": {
-    "source": "predict_alignment",
-    "method": "BM25 + sentCLIP adaptive fusion",
-    "prior_weight": 0.2,
-    "drop_cost": 1.0,
-    "timestamp": "2026-02-20T17:40:50.508458",
-    "alpha": 0.5,
-    "clip_model": "openai/clip-vit-large-patch14",
-    "last_saved": "2026-02-27T14:41:02.289288"
   }
 }
