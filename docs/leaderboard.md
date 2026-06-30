@@ -12,13 +12,6 @@ MedR. Full numbers: [`results/main_results.csv`](./results/main_results.csv).
 | Dialogue (text) | BM25 + Drop-DTW + prior | 0.399 | 0.543 | 0.505 | 0.190 | 0.389 | 0.573 | 5.8 |
 | Dialogue (text) | TF-IDF + Drop-DTW + prior | 0.396 | 0.546 | 0.507 | 0.175 | 0.346 | 0.576 | 5.7 |
 | Dialogue (text) | Cour et al. 2008 (DTW) | 0.324 | 0.480 | 0.412 | 0.156 | 0.446 | 0.545 | 6.1 |
-| Visual / temporal | T-MASS (fuse) | 0.483 | 0.598 | 0.556 | 0.340 | 0.383 | 0.537 | 6.4 |
-| Visual / temporal | MATR (fuse) | 0.354 | 0.501 | 0.449 | 0.163 | 0.346 | 0.454 | 15.9 |
-| Visual / temporal | S3D+w2v (fuse) | 0.330 | 0.490 | 0.420 | 0.156 | 0.325 | 0.435 | 17.8 |
-| Visual / temporal | TAN (fuse) | 0.323 | 0.476 | 0.406 | 0.159 | 0.314 | 0.424 | 20.7 |
-| Visual (contrastive) | CLIP | 0.252 | 0.434 | 0.253 | 0.252 | 0.144 | 0.375 | 11.9 |
-| Visual (contrastive) | InternVideo2 | 0.222 | 0.429 | 0.227 | 0.205 | 0.128 | 0.306 | 19.5 |
-| Visual (contrastive) | SigLIP | 0.023 | 0.189 | 0.020 | 0.035 | 0.048 | 0.167 | 30.6 |
 | **Fusion** | **BM25 + CLIP (α=0.5)** | **0.531** | **0.633** | **0.597** | **0.403** | **0.415** | **0.594** | **4.5** |
 
 > Code availability: the evaluation toolkit and baseline code (text,
