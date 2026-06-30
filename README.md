@@ -34,9 +34,8 @@ decades**, with **53K+ human-verified shot-level scene alignments**.
 | Paradigm | Best method | mSIoU | IoU_d | IoU_nd |
 |---|---|--:|--:|--:|
 | Dialogue (text) | BM25 + Drop-DTW | 0.399 | 0.505 | 0.190 |
-| Visual / temporal | T-MASS (fuse) | 0.483 | 0.556 | 0.340 |
 | Fusion | BM25 + CLIP (α=0.5) | 0.531 | 0.597 | 0.403 |
-| Fusion *(rebuttal)* | **BM25 + Qwen3-VL-Emb (α=0.7)** | **0.599** | — | — |
+| Fusion | **BM25 + Qwen3-VL-Emb (α=0.7)** | **0.599** | **0.654** | **0.496** |
 
 Full tables, FG-CLIP 2, and the 5-fold movie-level CV for α:
 [`docs/leaderboard.md`](./docs/leaderboard.md).
